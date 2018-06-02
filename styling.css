@@ -48,16 +48,22 @@ nav.navigation  ul li a:hover {
 }
 
 #left-sidebar {
-  width: 10%; 
+  width: 20%; 
   float: left;
   margin: 0 15px;
   background: antiquewhite; 
   min-height: 500px; 
   text-align: center;
 }
+
+#words {
+  float: initial;
+  text-align: center
+}
+
 #right {
   float: right;
-  width: 10%;
+  width: 20%;
   background:antiquewhite; 
   text-align: center;
   min-height: 500px;
