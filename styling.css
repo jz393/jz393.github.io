@@ -48,7 +48,7 @@ nav.navigation  ul li a:hover {
 }
 
 #left-sidebar {
-  width: 40%;
+  /* width: 40%; */
   float: left;
   margin: 0 15px;
   background: seashell; 
@@ -57,7 +57,7 @@ nav.navigation  ul li a:hover {
 }
 #right {
   float: right;
-  width: 62%;
+  /* width: 62%; */
   background: seashell; 
   text-align: center;
   min-height: 500px;
