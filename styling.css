@@ -48,17 +48,17 @@ nav.navigation  ul li a:hover {
 }
 
 #left-sidebar {
-  width: 35%;
   float: left;
   margin: 0 15px;
-  background: #ccc; 
-  min-height: 500px; 
+  width: 62%;
+  background: seashell; 
   text-align: center;
+  min-height: 500px;
 }
 #right {
   float: right;
   width: 62%;
-  background: #efefef; 
+  background: seashell; 
   text-align: center;
   min-height: 500px;
 }
