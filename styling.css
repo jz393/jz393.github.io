@@ -29,7 +29,7 @@ nav.navigation  ul li a {
   font-weight: bold;
 }
 nav.navigation  ul li a:hover {
-  background: #a4fff379;
+  background: snow;
   color: #fff;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
