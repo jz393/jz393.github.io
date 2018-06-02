@@ -50,7 +50,7 @@ nav.navigation  ul li a:hover {
 #left-sidebar {
   float: left;
   margin: 0 15px;
-  width: 40%;
+  width: 30%;
   background: seashell; 
   text-align: center;
   min-height: 500px;
@@ -58,7 +58,7 @@ nav.navigation  ul li a:hover {
 #right {
   float: right;
   margin: 0 15px;
-  width: 40%;
+  width: 30%;
   background: seashell; 
   text-align: center;
   min-height: 500px;
