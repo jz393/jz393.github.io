@@ -51,14 +51,14 @@ nav.navigation  ul li a:hover {
   /* width: 40%; */
   float: left;
   margin: 0 15px;
-  background: seashell; 
+  background: aquamarine; 
   min-height: 500px; 
   text-align: center;
 }
 #right {
   float: right;
   /* width: 62%; */
-  background: seashell; 
+  background: aquamarine; 
   text-align: center;
   min-height: 500px;
 }
