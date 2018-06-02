@@ -29,7 +29,7 @@ nav.navigation  ul li a {
   font-weight: bold;
 }
 nav.navigation  ul li a:hover {
-  background: rgb(255, 201, 243);
+  background: slategray;
   color: #fff;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -51,14 +51,14 @@ nav.navigation  ul li a:hover {
   width: 10%; 
   float: left;
   margin: 0 15px;
-  background: aquamarine; 
+  background: antiquewhite; 
   min-height: 500px; 
   text-align: center;
 }
 #right {
   float: right;
   width: 10%;
-  background: aquamarine; 
+  background:antiquewhite; 
   text-align: center;
   min-height: 500px;
 }
