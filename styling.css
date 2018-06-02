@@ -48,21 +48,21 @@ nav.navigation  ul li a:hover {
 }
 
 #left-sidebar {
+  width: 35%;
   float: left;
   margin: 0 15px;
-  width: 30%;
   background: seashell; 
+  min-height: 500px; 
   text-align: center;
-  min-height: 500px;
 }
 #right {
   float: right;
-  margin: 0 15px;
-  width: 30%;
+  width: 62%;
   background: seashell; 
   text-align: center;
   min-height: 500px;
 }
+
 footer{text-align: center;}
 /* clearfix */
 .clearfix:after {
