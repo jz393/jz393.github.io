@@ -11,13 +11,14 @@
 *
 * ======================================================= */
 .img1 {
-  max-width: 50%;
+  max-width: 70%;
   border: 2.5px solid #555;
   margin-left: auto;
   margin-right: auto;
   height: auto;
   border-radius: 50%;
-  margin-bottom: 30px;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .img2 {
