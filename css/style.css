@@ -687,7 +687,7 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 1.5;
+  zoom: 1.25;
   *display: inline;
 }
 .fh5co-social-icons li a {
