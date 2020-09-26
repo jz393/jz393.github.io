@@ -887,7 +887,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-box-shadow: 0px 8px 16px -4px rgba(0, 0, 0, 0.13);
   box-shadow: 0px 8px 16px -4px rgba(0, 0, 0, 0.13);
 }
-.fh5co-portfolio .portfolio-entry {
+.fh5co-portfolio .portfolio-entry { /* change photo settings */
   width: 100%;
   float: middle;
   background-size: cover;
@@ -896,9 +896,9 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   height: 250px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) { /* for mobile */
   .fh5co-portfolio .portfolio-entry {
-    height: 300px;
+    height: 200px;
   }
 }
 .fh5co-portfolio .portfolio-text {
