@@ -898,7 +898,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 600px) { /* for mobile */
   .fh5co-portfolio .portfolio-entry {
-    height: 250px;
+    height: 225px; /* changes how tall/wide the image is */
   }
 }
 .fh5co-portfolio .portfolio-text {
