@@ -40,7 +40,10 @@
 }
 
 p {
-  margin: 25px 100px 25px 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   /* text margins top right bottom left */
 }
 
