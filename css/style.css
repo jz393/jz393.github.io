@@ -12,7 +12,7 @@
 * ======================================================= */
 .img0 {
   max-width: 55%;
-  border: 2.5px solid #555;
+  border: 2.5px solid #333333;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
@@ -23,7 +23,7 @@
 
 .img1 {
   max-width: 70%;
-  border: 2.5px solid #555;
+  border: 2.5px solid #333333;
   margin-left: auto;
   margin-right: auto;
   height: auto;
@@ -695,7 +695,7 @@ h1, h2, h3, h4, h5, h6, figure {
   *display: inline;
   padding-left: 10px;
   padding-right: 10px;
-  color: #555;
+  color: #252525;
 }
 
 .fh5co-social-icons li a i {
@@ -1322,6 +1322,7 @@ input[type="text"] {
 }
 .btn.btn-lg {
   padding: 18px 36px !important;
+  border: 1px solid #333333;
 }
 .btn:hover, .btn:active, .btn:focus {
   box-shadow: none !important;
@@ -1425,7 +1426,7 @@ input[type="text"] {
 
 .btn-outline {
   background: none;
-  border: 2px solid gray;
+  border: 2px solid #333333;
   font-size: 16px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
