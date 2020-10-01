@@ -40,8 +40,6 @@
 }
 
 p {
-  /* padding-left: 100px;
-  padding-right: 100px; */
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -52,8 +50,24 @@ body {
   font-size: 17.5px;
   line-height: 1.7;
   color: #333333;
-  background: #fff;
+  background: #dae6f2;
   text-align: center;
+}
+
+body, html {
+  height: 100%;
+}
+
+#mountain {
+  background-image: url("../images/701802.jpg");
+  
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #page {
@@ -84,13 +98,13 @@ body {
 }
 
 a {
-  color: #DD356E;
+  /* color: #000; */
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #DD356E;
+  color: #fff;
   outline: none;
   text-decoration: none;
 }
@@ -103,22 +117,25 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 ::-webkit-selection {
-  color: #fff;
-  background: #DD356E;
+  color: #000;
+  background: #fff;
 }
 
 ::-moz-selection {
-  color: #fff;
-  background: #DD356E;
+  color: #000;
+  background: #fff;
 }
 
 ::selection {
-  color: #fff;
-  background: #DD356E;
+  color: #000;
+  background: #fff;
 }
 
 .fh5co-nav {
-  background: #fff;
+  /* background-image: url("../images/background.jpg"); */
+  background-position: center;
+  background-size: cover;
+  /* background: #fff; */
 }
 .fh5co-nav .top-menu {
   padding: 15px 0;
@@ -161,7 +178,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: black;
+  color: #fff;
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -221,7 +238,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.has-dropdown:hover a, .fh5co-nav ul li.has-dropdown:focus a {
-  color: #000;
+  color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
   padding: 30px 0px !important;
@@ -698,6 +715,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #555;
 }
 
+.fh5co-social-icons li a:hover {
+  color: #fff;
+}
+
 .fh5co-social-icons li a i {
   font-size: 20px;
 }
@@ -1103,10 +1124,10 @@ input[type="text"] {
   transform: translateX(0px);
 }
 #fh5co-offcanvas a {
-  color: rgba(255, 255, 255, 0.5);
+  color: #fff;
 }
 #fh5co-offcanvas a:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #fff;
 }
 #fh5co-offcanvas ul {
   padding: 0;
@@ -1321,9 +1342,11 @@ input[type="text"] {
 }
 .btn.btn-lg {
   padding: 18px 36px !important;
+  background-color: #dae6f2;
   border: 1px solid #333333;
 }
 .btn:hover, .btn:active, .btn:focus {
+  background-color: #fff;
   box-shadow: none !important;
   outline: none !important;
 }
