@@ -131,12 +131,6 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #fff;
 }
 
-.fh5co-nav {
-  /* background-image: url("../images/background.jpg"); */
-  background-position: center;
-  background-size: cover;
-  /* background: #fff; */
-}
 .fh5co-nav .top-menu {
   padding: 15px 0;
 }
