@@ -12,7 +12,7 @@
 * ======================================================= */
 .img0 {
   max-width: 55%;
-  border: 2.5px solid #555;
+  border: 2.5px solid #333333;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
@@ -23,7 +23,7 @@
 
 .img1 {
   max-width: 70%;
-  border: 2.5px solid #555;
+  border: 2.5px solid #333333;
   margin-left: auto;
   margin-right: auto;
   height: auto;
@@ -49,7 +49,7 @@ body {
   font-weight: 400;
   font-size: 17.5px;
   line-height: 1.7;
-  color: #333333;
+  color: rgba(0, 0, 0, 0.9);
   background: #dae6f2;
   text-align: center;
 }
@@ -98,7 +98,7 @@ body, html {
 }
 
 a {
-  /* color: #000; */
+  color: rgb(0, 64, 116);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -706,7 +706,7 @@ h1, h2, h3, h4, h5, h6, figure {
   *display: inline;
   padding-left: 10px;
   padding-right: 10px;
-  color: #555;
+  color: rgba(0, 0, 0, 0.7);
 }
 
 .fh5co-social-icons li a:hover {
@@ -991,7 +991,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-team blockquote p {
   font-size: 16px;
   line-height: 1.5;
-  color: #555555;
+  color: #333333;
 }
 .fh5co-team span {
   color: #b3b3b3;
@@ -1337,7 +1337,7 @@ input[type="text"] {
 .btn.btn-lg {
   padding: 18px 36px !important;
   background-color: #dae6f2;
-  border: 1px solid #333333;
+  border: 1px solid #000;
 }
 .btn:hover, .btn:active, .btn:focus {
   background-color: #fff;
@@ -1442,7 +1442,7 @@ input[type="text"] {
 
 .btn-outline {
   background: none;
-  border: 2px solid #333333;
+  border: 2px solid #000;
   font-size: 16px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
