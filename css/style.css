@@ -11,12 +11,13 @@
 *
 * ======================================================= */
 .img0 {
-  max-width: 55%;
+  max-width: 50%;
+  width: 250px;
   border: 2.5px solid #333333;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
-  margin-top: 30px;
+  margin-top: 0px;
   margin-bottom: 30px;
   display: block;
 }
@@ -49,7 +50,7 @@ body {
   font-weight: 400;
   font-size: 17.5px;
   line-height: 1.7;
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 1);
   background: #dae6f2;
   text-align: center;
 }
@@ -93,7 +94,7 @@ body, html {
   bottom: 0;
   left: 0;
   z-index: 101;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.75);
   content: "";
 }
 
@@ -166,7 +167,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav ul li a {
   font-size: 18px;
   padding: 30px 15px;
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(0, 0, 0, 0.75);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -331,7 +332,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .fh5co-video:hover .overlay {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.75);
 }
 .fh5co-video:hover a {
   -webkit-transform: scale(1.1);
@@ -706,7 +707,7 @@ h1, h2, h3, h4, h5, h6, figure {
   *display: inline;
   padding-left: 10px;
   padding-right: 10px;
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .fh5co-social-icons li a:hover {
