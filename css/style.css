@@ -53,6 +53,7 @@ body {
   color: rgba(0, 0, 0, 1);
   background: #dae6f2;
   text-align: center;
+  text-shadow: 1px 1px 8px aliceblue;
 }
 
 body, html {
@@ -107,6 +108,7 @@ a {
 a:hover, a:active, a:focus {
   color: #fff;
   outline: none;
+  text-shadow: none;
   text-decoration: none;
 }
 
@@ -708,6 +710,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 10px;
   padding-right: 10px;
   color: rgba(0, 0, 0, 0.75);
+  text-shadow: none;
 }
 
 .fh5co-social-icons li a:hover {
