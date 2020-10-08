@@ -1224,7 +1224,6 @@ input[type="text"] {
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
   border-bottom: none !important;
-  color: #fff;
 }
 .fh5co-nav-toggle i {
   position: relative;
