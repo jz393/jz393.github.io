@@ -57,15 +57,10 @@ body {
 
 #mountain {
   background-image: url("../images/701802.jpg");
-  background-color: #add0ec;
-  
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
 }
 
 #page {
