@@ -651,7 +651,6 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started,
 #fh5co-portfolio,
 #fh5co-blog,
-#fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
   padding: 3em 0;
@@ -668,6 +667,17 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-contact,
   #fh5co-footer {
     padding: 3em 0;
+  }
+}
+
+#fh5co-content-section {
+  padding: 1.5em 0; /* adjust padding of resume */
+  clear: both;
+}
+
+@media screen and (max-width: 768px) {
+  #fh5co-content-section {
+    padding: 1em 0;
   }
 }
 
