@@ -909,10 +909,12 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-portfolio .portfolio-text {
-  text-align: center;
+  text-align: right;
+  font-size: medium;
+  font-style: italic;
   width: 100%;
   float: left;
-  padding: 20px;
+  padding: 10px;
 }
 .fh5co-portfolio .portfolio-text .stuff {
   text-align: center;
@@ -1514,3 +1516,26 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* FOR PHOTO COLLAGE */
+
+.photo-ul {
+  padding: 0 4px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.photo-li {
+  padding: 0 4px;
+  height: 40vh;
+  flex-grow: 1;
+}
+
+.photo-about {
+  padding: 0 4px;
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
