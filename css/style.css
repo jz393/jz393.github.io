@@ -902,6 +902,8 @@ h1, h2, h3, h4, h5, h6, figure {
   background-repeat: no-repeat;
   position: relative;
   height: 250px;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
 }
 @media screen and (max-width: 600px) { /* for mobile */
   .fh5co-portfolio .portfolio-entry {
@@ -914,7 +916,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-style: italic;
   width: 100%;
   float: left;
-  padding: 10px;
+  padding: 15px;
 }
 .fh5co-portfolio .portfolio-text .stuff {
   text-align: center;
@@ -1532,10 +1534,17 @@ input[type="text"] {
   flex-grow: 1;
 }
 
+.photo-li:last-child {
+  flex-grow: 10;
+}
+
 .photo-about {
-  padding: 0 4px;
+  padding: 0 5px;
+  padding-bottom: 20px; /*to get space between top and bottom image*/
   max-height: 100%;
   min-width: 100%;
   object-fit: cover;
   vertical-align: bottom;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
 }
