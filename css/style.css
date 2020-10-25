@@ -653,7 +653,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 3em 0;
+  padding-top: 3em;
+  padding-bottom: 0em;
   clear: both;
 }
 @media screen and (max-width: 768px) {
