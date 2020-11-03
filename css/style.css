@@ -59,13 +59,13 @@ body {
   background-image: url("../images/701802.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
   height: 100vh;
 }
 
 @media screen and (max-width: 768px) {
   #mountain {
     background-image: none;
+    background-size: unset;
   }
 }
 
