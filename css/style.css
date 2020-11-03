@@ -66,6 +66,7 @@ body {
   #mountain {
     background-image: none;
     background-size: unset;
+    height: unset;
   }
 }
 
