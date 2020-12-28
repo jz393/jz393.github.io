@@ -660,7 +660,6 @@ li {
 #fh5co-about,
 #fh5co-wireframe,
 #fh5co-started,
-#fh5co-portfolio,
 #fh5co-blog,
 #fh5co-contact,
 #fh5co-footer {
@@ -668,6 +667,13 @@ li {
   padding-bottom: 0em;
   clear: both;
 }
+
+#fh5co-portfolio {
+  padding-top: 0.5em; /* adjust space from top */
+  padding-bottom: 0em;
+  clear: both;
+}
+
 @media screen and (max-width: 768px) {
   #fh5co-slider,
   #fh5co-about,
@@ -937,9 +943,10 @@ li {
 .fh5co-portfolio .portfolio-text {
   text-align: center;
   font-size: medium;
+  font-family: inconsolata;
   width: 100%;
   float: left;
-  padding: 15px;
+  padding: 10px;
 }
 .fh5co-portfolio .portfolio-text .stuff {
   text-align: center;
