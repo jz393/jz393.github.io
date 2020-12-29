@@ -676,7 +676,7 @@ li {
 
 #fh5co-content-section {
   padding: 1.5em 0; /* adjust padding of resume */
-  padding-top: 0.5em;
+  padding-top: 1.5em;
   clear: both;
 }
 
@@ -699,7 +699,7 @@ li {
 
 @media screen and (max-width: 768px) {
   #fh5co-content-section {
-    padding-top: 0.5em;
+    padding-top: 1.5em;
     padding-left: 1.5em;
     padding-right: 1.5em;
   }
