@@ -674,6 +674,12 @@ li {
   clear: both;
 }
 
+#fh5co-content-section {
+  padding: 1.5em 0; /* adjust padding of resume */
+  padding-top: 0.5em;
+  clear: both;
+}
+
 @media screen and (max-width: 768px) {
   #fh5co-slider,
   #fh5co-about,
@@ -681,23 +687,21 @@ li {
   #fh5co-started,
   #fh5co-portfolio,
   #fh5co-blog,
-  #fh5co-content-section,
   #fh5co-contact,
   #fh5co-footer {
-    padding-top: 3em;
+    padding-top: 1em;
     padding-bottom: 0em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
     clear: both;
   }
 }
 
-#fh5co-content-section {
-  padding: 1.5em 0; /* adjust padding of resume */
-  clear: both;
-}
-
 @media screen and (max-width: 768px) {
   #fh5co-content-section {
-    padding: 1em 0;
+    padding-top: 0.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
   }
 }
 
