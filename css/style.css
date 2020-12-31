@@ -1580,6 +1580,6 @@ input[type="text"] {
   min-width: 100%;
   object-fit: cover;
   vertical-align: bottom;
-  -webkit-filter: drop-shadow(5px 5px 5px #222);
-  filter: drop-shadow(5px 5px 5px #222);
+  /* -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); */
 }
