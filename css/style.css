@@ -662,14 +662,9 @@ li {
 #fh5co-started,
 #fh5co-blog,
 #fh5co-contact,
+#fh5co-portfolio,
 #fh5co-footer {
   padding-top: 3em;
-  padding-bottom: 0em;
-  clear: both;
-}
-
-#fh5co-portfolio {
-  padding-top: 3em; /* adjust space from top */
   padding-bottom: 0em;
   clear: both;
 }
@@ -916,7 +911,7 @@ li {
 .fh5co-portfolio {
   width: 100%;
   float: left;
-  margin-bottom: 30px;
+  margin-bottom: 35px; /* adjust space between photo rows */
 }
 .fh5co-portfolio > a {
   width: 100%;
