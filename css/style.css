@@ -669,7 +669,7 @@ li {
 }
 
 #fh5co-portfolio {
-  padding-top: 0.5em; /* adjust space from top */
+  padding-top: 3em; /* adjust space from top */
   padding-bottom: 0em;
   clear: both;
 }
@@ -689,7 +689,7 @@ li {
   #fh5co-blog,
   #fh5co-contact,
   #fh5co-footer {
-    padding-top: 1em;
+    padding-top: 1.5em;
     padding-bottom: 0em;
     padding-left: 0.5em;
     padding-right: 0.5em;
