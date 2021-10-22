@@ -1115,7 +1115,7 @@ input[type="text"] {
   position: absolute;
   z-index: 1901;
   width: 270px;
-  background: #dae6f2;
+  background: #e2cdbb;
   top: 0;
   right: 0;
   top: 0;
@@ -1363,7 +1363,7 @@ input[type="text"] {
 }
 .btn.btn-lg {
   padding: 18px 36px !important;
-  background-color: #dae6f2;
+  background-color: #f8f0e9;
   border: 1px solid #000;
 }
 .btn:hover, .btn:active, .btn:focus {
