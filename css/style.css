@@ -13,7 +13,7 @@
 .img0 {
   max-width: 50%;
   width: 250px;
-  border: 2.5px solid #333333;
+  border: 2.5px solid rgba(0, 0, 0, 0.75);
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
@@ -50,7 +50,7 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.7;
-  color: rgba(0, 0, 0, 1);
+  color: rgba(0, 0, 0, 0.85);
   background: #f8f0e9;
   text-align: center;
 }
@@ -110,7 +110,7 @@ a:hover, a:active, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
   font-family: "Inconsolata", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -121,17 +121,17 @@ li {
 }
 
 ::-webkit-selection {
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
   background: #fff;
 }
 
 ::-moz-selection {
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
   background: #fff;
 }
 
 ::selection {
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
   background: #fff;
 }
 
@@ -193,7 +193,7 @@ li {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #000;
+  background: rgba(0, 0, 0, 0.75);
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -212,7 +212,7 @@ li {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #000;
+  border-bottom-color: rgba(0, 0, 0, 0.75);
   border-width: 8px;
   margin-left: -8px;
 }
@@ -263,7 +263,7 @@ li {
   box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
 }
 .fh5co-nav ul li.active > a {
-  color: #000 !important;
+  color: rgb(214, 199, 199) !important;
   position: relative;
 }
 .fh5co-nav ul li.active > a:after {
@@ -355,7 +355,7 @@ li {
 .fh5co-cover .display-tc h2 {
   margin: 0;
   padding: 0;
-  color: black;
+  color: rgba(0, 0, 0, 0.75);
 }
 #fh5co-header .display-tc h1,
 .fh5co-cover .display-tc h1 {
@@ -394,13 +394,13 @@ li {
 .fh5co-cover .display-tc .btn.btn-learn {
   background: #fee856;
   border: none;
-  color: #000 !important;
+  color: rgba(0, 0, 0, 0.75) !important;
 }
 #fh5co-header .display-tc .btn.btn-learn:hover, #fh5co-header .display-tc .btn.btn-learn:focus,
 .fh5co-cover .display-tc .btn.btn-learn:hover,
 .fh5co-cover .display-tc .btn.btn-learn:focus {
   background: rgba(254, 232, 86, 0.9) !important;
-  color: #000 !important;
+  color: rgba(0, 0, 0, 0.75) !important;
 }
 #fh5co-header .display-tc .btn:hover, #fh5co-header .display-tc .btn:focus,
 .fh5co-cover .display-tc .btn:hover,
@@ -499,7 +499,7 @@ li {
   margin-bottom: 0;
 }
 #fh5co-features .feature-left p a {
-  color: #000 !important;
+  color: rgba(0, 0, 0, 0.75) !important;
 }
 #fh5co-features .ipad-bg {
   background-size: cover;
@@ -750,7 +750,7 @@ li {
   font-size: 40px;
   margin-bottom: 20px;
   line-height: 1.5;
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
 }
 .fh5co-heading p {
   font-size: 18px;
@@ -905,7 +905,7 @@ li {
   line-height: 1.5;
 }
 .fh5co-blog .blog-text h3 a {
-  color: black;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .fh5co-portfolio {
@@ -1070,7 +1070,7 @@ li {
   margin: 0 0 20px 0;
   position: relative;
   padding-left: 40px;
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
 }
 .contact-info li i {
   position: absolute;
@@ -1080,7 +1080,7 @@ li {
   color: rgba(0, 0, 0, 0.3);
 }
 .contact-info li a {
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
 }
 
 .form-control {
@@ -1197,7 +1197,7 @@ input[type="text"] {
 
 .uppercase {
   font-size: 14px;
-  color: #000;
+  color: rgba(0, 0, 0, 0.75);
   margin-bottom: 10px;
   font-weight: 700;
   text-transform: uppercase;
@@ -1277,10 +1277,10 @@ input[type="text"] {
 }
 .fh5co-nav-toggle.fh5co-nav-white > i {
   color: #fff;
-  background: #000;
+  background: rgba(0, 0, 0, 0.75);
 }
 .fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
-  background: #000;
+  background: rgba(0, 0, 0, 0.75);
 }
 
 .fh5co-nav-toggle i::before {
@@ -1364,7 +1364,7 @@ input[type="text"] {
 .btn.btn-lg {
   padding: 18px 36px !important;
   background-color: #f8f0e9;
-  border: 1px solid #000;
+  border: 1px solid rgba(0, 0, 0, 0.75);
 }
 .btn:hover, .btn:active, .btn:focus {
   background-color: #fff;
@@ -1469,7 +1469,7 @@ input[type="text"] {
 
 .btn-outline {
   background: none;
-  border: 2px solid #000;
+  border: 2px solid rgba(0, 0, 0, 0.75);
   font-size: 16px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
