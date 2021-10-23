@@ -944,6 +944,7 @@ li {
   text-align: center;
   font-size: medium;
   font-family: inconsolata;
+  color: rgba(0, 0, 0, 0.75);
   width: 100%;
   float: left;
   padding: 10px;
