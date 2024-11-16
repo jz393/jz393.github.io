@@ -13,10 +13,10 @@
 .img0 {
   max-width: 50%;
   width: 250px;
-  border: 2.5px solid #333333;
+  border: 1.5px solid #333333;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50%;
+  border-radius: 25%;
   margin-top: 0px;
   margin-bottom: 30px;
   display: block;
