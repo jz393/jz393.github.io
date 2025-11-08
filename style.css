@@ -3,7 +3,7 @@ body {
 font-family: 'Courier New', monospace;
 background: #fff;
 color: #111;
-margin: 2rem 2rem;
+margin-block: 2rem; /* margin: 2rem 10rem; */
 }
 h1 {
 font-size: 1.8rem;
@@ -119,3 +119,15 @@ header { flex-direction: column; align-items: flex-start; }
 @media (max-width: 800px){ .masonry{ column-count: 2; } }
 .masonry > * { break-inside: avoid; margin: 0 0 0.75rem; }
 .masonry img { width: 100%; height: auto; }  /* remove max-height rule */
+
+/* Site width */
+.container {
+  max-width: 980px;        /* pick your cap */
+  margin-inline: auto;     /* center on desktop */
+  padding-inline: 1rem;    /* safe gutters on mobile */
+}
+
+/* Optional: tighten on very large displays */
+@media (min-width: 1400px) {
+  .container { max-width: 1100px; }
+}
