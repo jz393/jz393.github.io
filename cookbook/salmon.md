@@ -22,5 +22,5 @@
 - You can add some lemon slices on top of the fillets for aesthetic purposes.
 
 ### serve with
-- [cucumber salad](/food.html#cucumber)
+- [cucumber salad](/cookbook.html#cucumber)
 - avocado *(optional)*
