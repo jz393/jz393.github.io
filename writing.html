@@ -1,0 +1,104 @@
+<!-- writing.html -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Writing - Jane</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>writing</h1>
+    <div class="right-links"><a href="./index.html">home</a></div>
+  </header>
+
+  <main>
+    <section id="list-section">
+      <ul id="posts" class="post-list"></ul>
+    </section>
+  
+    <article id="post-content"></article>
+  </main>
+
+  <footer><p>&copy; 2025 Jane</p></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const state = { posts: [] };
+    const slugOf = p => (p.slug || p.file.replace(/\.md$/,'')).toLowerCase();
+    const fmtDate = d => {
+      if (!d) return '';
+      const t = new Date(d);
+      return isNaN(t) ? '' : t.toLocaleDateString('en-US', { year:'numeric', month:'short', day:'numeric' });
+    };
+
+    async function loadPosts() {
+      const res = await fetch('./writing/posts.json', { cache: 'no-store' });
+      const data = await res.json();
+      state.posts = (data.posts || []).sort((a,b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+      const ul = document.getElementById('posts');
+      ul.innerHTML = '';
+      state.posts.forEach(p => {
+        const slug = slugOf(p);
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="#${encodeURIComponent(slug)}" data-slug="${slug}">${p.title}</a>`;
+        ul.appendChild(li);
+      });
+
+      route();
+    }
+
+    function showList() {
+      document.getElementById('post-content').innerHTML = '';
+      document.getElementById('posts').style.display = 'block';
+      if (location.hash) location.hash = '';
+      window.scrollTo(0, 0);
+    }
+
+    async function showPost(post) {
+      document.getElementById('posts').style.display = 'none';
+
+      const article = document.getElementById('post-content');
+      article.innerHTML = ''; // clear
+
+      const md = await (await fetch(`./writing/${post.file}`, { cache: 'no-store' })).text();
+      const dateHtml = post.date ? `<p class="meta" style="color:#555;font-size:0.9rem;margin-top:-0.5rem;margin-bottom:1.5rem;">${fmtDate(post.date)}</p>` : '';
+
+      article.innerHTML = `
+        <a href="#" id="back-to-list" style="display:block;margin-bottom:1.5rem;border-bottom:2px solid red;width:fit-content;">← back to all entries</a>
+        <h2>${post.title}</h2>
+        ${dateHtml}
+        ${marked.parse(md)}
+      `;
+      window.scrollTo(0, 0);
+    }
+
+    function route() {
+      const slug = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
+      if (!slug) { showList(); return; }
+      const post = state.posts.find(p => slugOf(p) === slug);
+      if (post) showPost(post); else showList();
+    }
+
+    // delegated clicks
+    document.addEventListener('click', e => {
+      const postLink = e.target.closest('a[data-slug]');
+      if (postLink) {
+        e.preventDefault();
+        location.hash = postLink.dataset.slug; // triggers route()
+        return;
+      }
+      const back = e.target.closest('#back-to-list');
+      if (back) {
+        e.preventDefault();
+        showList();
+      }
+    });
+
+    window.addEventListener('hashchange', route);
+    document.addEventListener('DOMContentLoaded', loadPosts);
+  </script>
+</body>
+</html>

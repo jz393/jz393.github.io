@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "title": "baked salmon",
+            "file": "salmon.md"
+        },
+        {
+            "title": "baked halibut",
+            "file": "halibut.md"
+        },
+        {
+            "title": "steamed branzino",
+            "file": "branzino.md"
+        },
+        {
+            "title": "baked chicken thighs",
+            "file": "chicken.md"
+        },
+        {
+            "title": "tomato tofu soup",
+            "file": "tomato-tofu.md"
+        },
+        {
+            "title": "spicy seafood tofu soup",
+            "file": "seafood-tofu.md"
+        },
+        {
+            "title": "cucumber salad",
+            "file": "cucumber.md"
+        },
+        {
+            "title": "scrambled egg brunch",
+            "file": "scrambled-eggs.md"
+        },
+        {
+            "title": "yogurt bowl",
+            "file": "yogurt.md"
+        }
+    ]
+  }

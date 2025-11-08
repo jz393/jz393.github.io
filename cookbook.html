@@ -1,0 +1,124 @@
+<!-- cookbook.html -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cookbook - Jane</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>.hidden{display:none}</style>
+</head>
+<body>
+  <header>
+    <h1>cookbook</h1>
+    <div class="right-links"><a href="./index.html">home</a></div>
+  </header>
+
+  <main>
+    <!-- list view -->
+    <section id="list-section">
+      <h2>current staples</h2>
+      <ul id="posts" class="post-list"></ul>
+    </section>
+
+    <!-- recipe view -->
+    <section id="view-section" class="hidden">
+      <a id="back-link" href="#"
+         style="display:block;margin-bottom:1.5rem;border-bottom:2px solid red;width:fit-content;">
+        ← back to all recipes
+      </a>
+      <h2 id="recipe-title"></h2>
+      <article id="recipe-content"></article>
+    </section>
+
+    <!-- NOTES -->
+    <section id="notes-section">
+      <h2>notes</h2>
+      <ul>
+        <li>I have two main meals per day: brunch and dinner, along with various snacks in between.</li>
+        <ul>
+          <li>Brunch: <a href="/cookbook.html#scrambled-eggs">scrambled eggs recipe</a></li>
+          <li>Dinner: protein entrée from above, some veggies, and a small amount of basmati rice</li>
+          <li>Snacks: yogurt bowl, dark chocolate, nuts</li>
+        </ul>
+        <li>I don't track calories, but generally aim for a 50/25/25 ratio for protein/carb/fat.</li>
+        <li>I rely on 3 oils: olive, avocado, and sesame (most to least frequent).</li>
+        <li>I try to avoid butter, red meat, and heavily processed foods.</li>
+        <li>I try to limit outside meals to 2-3 per week.</li>
+      </ul>
+    </section>
+    </main>
+
+  <footer><p>&copy; 2025 Jane</p></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const state = { posts: [] };
+
+    const slugOf = p => (p.slug || p.file.replace(/\.md$/,'')).toLowerCase();
+
+    async function loadList() {
+      const res = await fetch('./cookbook/posts.json', { cache: 'no-store' });
+      const data = await res.json();
+      state.posts = data.posts || [];
+
+      const ul = document.getElementById('posts');
+      ul.innerHTML = '';
+      state.posts.forEach(p => {
+        const slug = slugOf(p);
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="#${encodeURIComponent(slug)}" data-slug="${slug}">${p.title}</a>`;
+        ul.appendChild(li);
+      });
+
+      handleRoute(); // render based on current URL
+    }
+
+    async function showPost(post) {
+      // switch views
+      document.getElementById('list-section').classList.add('hidden');
+      document.getElementById('notes-section').classList.add('hidden');
+      document.getElementById('view-section').classList.remove('hidden');
+
+      // title
+      document.getElementById('recipe-title').textContent = post.title;
+
+      // content
+      const article = document.getElementById('recipe-content');
+      article.innerHTML = '';
+      const res = await fetch(`./cookbook/${post.file}`, { cache: 'no-store' });
+      const md = await res.text();
+      article.innerHTML = marked.parse(md);
+
+      window.scrollTo(0, 0);
+    }
+
+    function showList() {
+      document.getElementById('recipe-content').innerHTML = '';
+      document.getElementById('recipe-title').textContent = '';
+      document.getElementById('view-section').classList.add('hidden');
+      document.getElementById('list-section').classList.remove('hidden');
+      document.getElementById('notes-section').classList.remove('hidden');
+      // clear hash for a clean list URL
+      if (location.hash) history.replaceState(null, '', location.pathname);
+      window.scrollTo(0, 0);
+    }
+
+    function handleRoute() {
+      const slug = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
+      if (!slug) { showList(); return; }
+      const post = state.posts.find(p => slugOf(p) === slug);
+      if (post) showPost(post); else showList();
+    }
+
+    // back link -> list
+    document.getElementById('back-link').addEventListener('click', (e) => {
+      e.preventDefault();
+      showList();
+    });
+
+    window.addEventListener('hashchange', handleRoute);
+    document.addEventListener('DOMContentLoaded', loadList);
+  </script>
+</body>
+</html>
