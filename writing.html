@@ -68,7 +68,7 @@
       const dateHtml = post.date ? `<p class="meta" style="color:#555;font-size:0.9rem;margin-top:-0.5rem;margin-bottom:1.5rem;">${fmtDate(post.date)}</p>` : '';
 
       article.innerHTML = `
-        <a href="#" id="back-to-list" style="display:block;margin-bottom:1.5rem;border-bottom:2px solid red;width:fit-content;">← back to all entries</a>
+        <a href="" id="back-to-list" style="display:block;margin-bottom:1.5rem;border-bottom:2px solid red;width:fit-content;">← back to all entries</a>
         <h2>${post.title}</h2>
         ${dateHtml}
         ${marked.parse(md)}
