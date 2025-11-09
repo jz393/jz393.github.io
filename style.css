@@ -4,7 +4,7 @@
   --text:#111111;
   --muted:#555555;
   --accent: orangered;         /* underline color */
-  --hover-bg:#00008b;          /* link hover fill */
+  --hover-bg: rgb(0, 0, 128);          /* link hover fill */
   --text-hover: #fff;
 }
 .dark{
@@ -12,7 +12,7 @@
   --text:#e6e6e6;
   --muted:#a0a0a0;
   --accent:#fb923c;            /* warmer underline */
-  --hover-bg:#e4e4e4;          /* slate hover */
+  --hover-bg: lightyellow;          /* slate hover */
   --text-hover: #111;
 }
 body {
