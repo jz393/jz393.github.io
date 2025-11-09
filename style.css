@@ -1,8 +1,24 @@
 /* style.css */
+:root{
+  --bg:#ffffff;
+  --text:#111111;
+  --muted:#555555;
+  --accent: orangered;         /* underline color */
+  --hover-bg:#00008b;          /* link hover fill */
+  --text-hover: #fff;
+}
+.dark{
+  --bg:#0b0c10;
+  --text:#e6e6e6;
+  --muted:#a0a0a0;
+  --accent:#fb923c;            /* warmer underline */
+  --hover-bg:#e4e4e4;          /* slate hover */
+  --text-hover: #111;
+}
 body {
 font-family: 'Courier New', monospace;
-background: #fff;
-color: #111;
+background: var(--bg);
+color: var(--text);
 margin-block: 2rem; /* margin: 2rem 10rem; */
 }
 h1 {
@@ -28,9 +44,9 @@ li {
 margin-bottom: 0.6rem;
 }
 a {
-color: #111;
+color: var(--text);
+border-bottom:2px solid var(--accent);
 text-decoration: none;
-border-bottom: 2px solid orangered;
 position: relative;
 transition: all 0.2s ease-in-out;
 }
@@ -41,7 +57,7 @@ left: 0;
 top: 0;
 width: 100%;
 height: 100%;
-background: #00008b;
+background:var(--hover-bg);
 z-index: -1;
 transform: scaleY(0);
 transform-origin: bottom;
@@ -51,7 +67,7 @@ a:hover::before {
 transform: scaleY(1);
 }
 a:hover {
-color: #fff;
+color: var(--text-hover);
 }
 header {
 display: flex;
@@ -62,10 +78,10 @@ footer {
 margin-top: 4rem;
 text-align: center;
 font-size: 0.9rem;
-color: #555;
+color: var(--muted);
 }
 .right-links a {
-margin-left: 1rem;
+margin-left: 0.3rem;
 }
 .meta {
 color: #555;
