@@ -16,7 +16,7 @@
   --text-hover: #111;
 }
 body {
-font-family: 'Courier New', monospace;
+font-family: 'Helvetica', sans-serif;
 background: var(--bg);
 color: var(--text);
 margin-block: 2rem; /* margin: 2rem 10rem; */
