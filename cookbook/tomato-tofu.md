@@ -18,6 +18,6 @@
 
 
 ### notes
-- I like the remove the center of the tomato, as well as stems from shiitake mushrooms when preparing.
-- I used to add eggs (instead of tofu) as this is a more common Chinese dish, but wanted to find a way to increase protein while lowering dietary cholesterol.
-- I sometimes subsitute mushrooms with [dried seaweed](https://click.sayweee.com/en/grocery-near-me/lang-en/user-onboard/paid?forceSkuQueryReferer=74354&sData=74354&region_id=000001).
+- I like removing the center of the tomato and the stems from shiitake mushrooms when preparing.
+- I used to add eggs (instead of tofu) as this is a more common Chinese dish, but I wanted to find a way to increase protein while lowering dietary cholesterol.
+- I sometimes subsitute [dried seaweed](https://click.sayweee.com/en/grocery-near-me/lang-en/user-onboard/paid?forceSkuQueryReferer=74354&sData=74354&region_id=000001) for mushrooms.

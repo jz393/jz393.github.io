@@ -1,5 +1,5 @@
 ### ingredients
-- medium tofu (1 package)
+- soft or medium tofu (1 package)
 - shiitake/enoki/oyster mushrooms (~5 oz)
 - shellfish (e.g. oysters, clams, mussels)
 - squid cutlets
@@ -28,6 +28,5 @@
 
 ### notes
 - This is a traditionally Korean dish, called *soondubu jjigae*.
-- It's great for throwing together various seafood/shellfish all at once! I used to make cioppino, but it was a bit too creamy/buttery for my dietary preferences.
+- It's great for throwing together various seafood and shellfish at once! I used to make *cioppino*, but it was a bit too creamy/buttery for my dietary preferences.
 - You can get various frozen seafood in most Asian supermarkets (I typically use 99 Ranch or Weee!), or fresh seafood at Whole Foods if preferred.
-- I like soft tofu more, but a firmer one is preferred here since it's less likely to break apart when mixed with all the shellfish.

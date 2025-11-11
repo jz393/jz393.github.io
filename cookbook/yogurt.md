@@ -11,5 +11,5 @@
 
 ### notes
 - This is my go-to whenever I'm craving something sweet!
-- It's a great preworkout snack - high in protein & calcium, and provides glucose for an energy boost.
-- I typically use blackberries and raspberries as fruit, as they are easy to prepare and low GI fruits.
+- It's a great pre-workout snack: high in protein & calcium and providing glucose for an energy boost.
+- I typically use blackberries and raspberries, as they are easy to prepare and low-GI.

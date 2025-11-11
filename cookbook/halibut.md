@@ -25,7 +25,7 @@
 
 ### notes
 - I add a bunch of toppings and olive oil on top to help the fillets retain their moisture and tenderness in the oven. Halibut tends to dry out easily.
-- I use an [oil dispenser](https://www.crateandbarrel.com/glass-olive-oil-dispenser-bottle/s213109). Not only does it keep my kitchen looking organized, it also controls the speed in which the oil is poured. I just drizzle it liberally in a zigzag fashion.
+- I use an [oil dispenser](https://www.crateandbarrel.com/glass-olive-oil-dispenser-bottle/s213109). Not only does it keep my kitchen looking organized, but it also controls the speed at which the oil is poured. I drizzle it liberally in a zigzag fashion.
 - I grow my own parsley in my [garden](/plants)!
 
 ### serve with

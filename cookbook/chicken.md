@@ -22,7 +22,7 @@
 3. bake for 20 minutes or until internal temperature reaches 145
 
 ### notes
-- I like to remove the excess fat from the chicken beforehand. This step usually takes an extra 5-10min.
+- I like to remove the excess fat from the chicken beforehand. This step usually takes an extra 5-10 minutes.
 
 ### serve with
 - diced zucchini, red onion, and grape tomatoes sautéed with olive oil, black pepper, and garlic powder
