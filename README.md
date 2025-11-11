@@ -1,6 +1,6 @@
 # jz393.github.io
 
-*Legacy versions:*
+*Previous versions:*
 
 **V1 [2021-2025]:** <img width="1452" height="792" alt="version 1" src="https://github.com/user-attachments/assets/ee2f2fb8-e25f-4749-af98-2955a1b95d86" />
 
