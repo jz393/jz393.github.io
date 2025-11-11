@@ -60,6 +60,7 @@ So is this it? Is this how couples should operate: *man hard at work, woman conf
 Another motivation was to expand my horizons beyond tech/AI after being siloed in the industry for so long. Especially with a husband working at the forefront of AI, I sought to diversify myself and our shared life. Even if I eventually went back, I knew it was important to step back to achieve a more balanced perspective. I decided to use this time to enjoy all the things I wanted to do but had never had the time or energy for before, as described in the next section.
 
 ## [4] What's next?
+
 So far, I've been focusing on health, household responsibilities, and simply trying to live a well-rounded life without too much structure. In a society where we are so tied to our occupations, I don't have clear answers about my next career move at the moment. Because of this, I was hesitant to add this section, but I'll cover more on what I've done so far and my vision for the future.
 
 
