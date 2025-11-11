@@ -6,8 +6,10 @@
   --text:#111827;        /* gray-900 */
   --muted:#6b7280;       /* gray-500 */
   --accent:#4f46e5;      /* indigo-600 underline */
-  --hover-bg:hsl(226 100% 97%); /* indigo-50 hover fill */
-  --text-hover:#111827;  /* readable on hover */
+  --hover-bg:#111827;   /* dark chip */
+  --text-hover:#ffffff; /* white text on chip */
+  --selection-bg:#111827;   /* light mode: dark highlight */
+  --selection-fg:#ffffff;   /* light mode: white text */
   color-scheme: light dark;     /* enable native UI theming */
 }
 
@@ -18,8 +20,10 @@
     --text:#e6e8ee;      /* gray-100/200 */
     --muted:#a1a9b7;     /* cool gray-400 */
     --accent:#818cf8;    /* indigo-400 */
-    --hover-bg:#232742;  /* very dark indigo */
-    --text-hover:#e6e8ee;
+    --hover-bg:#ffffff;  /* white chip */
+    --text-hover:#000000;/* near-black text on chip */
+    --selection-bg:#ffffff;  /* dark mode: white highlight */
+    --selection-fg:#000000;  /* dark text */
   }
 }
 
@@ -69,7 +73,9 @@ a::before{
   transition:transform .15s;
 }
 a:hover::before{ transform:scaleY(1); }
-a:hover{ color:var(--text-hover); }
+a:hover{ 
+  color:var(--text-hover);
+}
 
 /* Focus visibility */
 a:focus-visible{
@@ -79,7 +85,8 @@ a:focus-visible{
 }
 
 /* Text selection */
-::selection{ background:var(--hover-bg); color:inherit; }
+::selection{ background: var(--selection-bg); color: var(--selection-fg); }
+::-moz-selection{ background: var(--selection-bg); color: var(--selection-fg); } /* Firefox */
 
 /* Layout */
 header{
