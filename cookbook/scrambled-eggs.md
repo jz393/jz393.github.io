@@ -2,7 +2,7 @@
 - 3 large eggs, mixed OR ~3/4 cups liquid egg product
 - any combination of veggies:
 
-    - spinach
+    - spinach or arugula
     - grape tomatoes
     - mushrooms (baby bella or white)
     - avocado
@@ -17,7 +17,7 @@
 3. scramble and transfer out when mostly dried but still soft
 4. serve with smoked salmon and veggies on the side
 
-    - I'll either use a single sliced avocado (faster) or sautée a subset of {spinach, grape tomatoes, avocado}
+    - I'll either use a single sliced avocado (faster) or sautée a subset of {green veggies, grape tomatoes, avocado}
 
 ### notes
 - This is the fastest and laziest breakfast/brunch I could come up with that's relatively nutritious, high in protein, and low in carbs.
