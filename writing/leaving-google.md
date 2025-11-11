@@ -34,7 +34,7 @@ Here I'll outline some of the pros and cons of working at Google and GDM. I thin
 
 ## [3] Why I left
 
-TLDR: It was a combination of general burnout coupled with some major life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't seem *morally* right, and I didn't have the energy to switch teams or companies. I just wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
+TLDR: It was a combination of general burnout coupled with some major life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't seem *morally* right, and I couldn't muster the energy to switch teams or companies. I just wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
 
 ### Life changes
 - **Marriage:** My husband and I got married in the summer of 2024. Previously, I didn't think marriage would change much about our lives, as we had been together since our freshman year of college. In fact, I had spent my entire time on Bard/Gemini being engaged and trying to plan our wedding, taking pride in my busyness, productivity, and self-perceived ability to *have it all*. If I could get all this done *during* the pre-wedding festivities, imagine how productive I'll be *after*? But then the day passed, and our lives/my mindset somewhat shifted. I've come to realize that the optimization function for a legally joined couple is vastly different from that for a single individual; I'll go into this later.
