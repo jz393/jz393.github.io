@@ -17,7 +17,7 @@
 3. scramble and transfer out when mostly dried but still soft
 4. serve with smoked salmon and veggies on the side
 
-    - I'll either use a single sliced avocado (faster) or sautée a subset of {green veggies, grape tomatoes, avocado}
+    - I'll either use a single sliced avocado (faster) or sautée any subset of {green veggies, grape tomatoes, mushrooms}
 
 ### notes
 - This is the fastest and laziest breakfast/brunch I could come up with that's relatively nutritious, high in protein, and low in carbs.
