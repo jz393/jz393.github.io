@@ -61,7 +61,7 @@ Another motivation was to expand my horizons beyond tech/AI after being siloed i
 
 ## [4] What's next?
 
-So far, I've been focusing on health, household responsibilities, and simply trying to live a well-rounded life without too much structure. In a society where we are so tied to our occupations, I don't have clear answers about my next career move at the moment. Because of this, I was hesitant to add this section, but I'll cover more on what I've done so far and my vision for the future.
+So far, I've been focusing on health, household responsibilities, and simply trying to live a well-rounded life without too much structure. In a society so tied to the concept of *occupation*, I don't have clear answers about my next *career move* at the moment. Because of this, I was hesitant to add this section, but I'll cover more on what I've done so far and my vision for the future.
 
 
 ### What I've done
