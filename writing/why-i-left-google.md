@@ -1,11 +1,11 @@
-I'm Jane, a former software and machine learning engineer at [Google](https://about.google/) and [DeepMind](https://deepmind.google/), where I worked on [Gemini](https://gemini.google.com/) and [Google Assistant](https://assistant.google.com/). After four years there, preceded by two summer internships during my time at [Cornell](https://www.cornell.edu), I left Alphabet this past summer. Here, I share my experience and reasons for leaving.
+I'm Jane, a former software and machine learning engineer at [Google](https://about.google/) and [DeepMind](https://deepmind.google/), where I worked on [Gemini](https://gemini.google.com/) and [Google Assistant](https://assistant.google.com/). After four years there—plus two internships during my time at [Cornell](https://www.cornell.edu)—I left Alphabet this past summer. Here, I share my experience and reasons for leaving.
 
-Many "Why I Left Google" essays exist already, and mine simply serves to organize my personal thoughts. I cover my background, pros and cons of working at Google and DeepMind, reasons for leaving, and next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for structural inspiration.
+Many "Why I Left Google" essays already exist, and I'm not aiming for mine to be particularly unique. This is simply a way to organize my personal thoughts. I will cover my background, general commentary on the pros/cons of working at Google/DeepMind, why I left, and my next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for structural inspiration.
 
 
-## [1] My time at Google
+## My time at Google
 
-I want to preface this by saying Google has been integral to both my college experience and young adult life. I viewed it as a core part of both my professional and personal identity. It was tough to say goodbye, as it had been my dream company ever since I started studying computer science.
+Google was integral to my college experience and young adult life, shaping both my professional and personal identity. Saying goodbye was incredibly difficult, as it had been my dream company since I began studying computer science.
 
 ### Background and timeline
 - **The interview (2018):** Caught in the middle of a busy sophomore semester, I was shocked when a recruiter reached out to schedule an interview. While I didn't feel adequately prepared, I knew I couldn't pass on this opportunity. I nervously took the interview, where I solved one question and submitted a rough solution to the next. After one week, my recruiter called with the good news, completely surpassing my expectations. I eagerly accepted the offer, and team matching quickly followed as I began preparing for my internship.
@@ -15,12 +15,12 @@ I want to preface this by saying Google has been integral to both my college exp
 - **Assistant NLP (2022):** My new team had a heavy office presence, and I met so many new faces. Everyone seemed so brilliant and passionate about what they were doing. There weren't many L3s, as the team leaned more towards experienced/specialized folks, so I felt out of place as an early-career SWE. Nevertheless, I gradually integrated into projects and eventually landed my first promotion. Around the same time, ChatGPT had just launched, and LLMs were rapidly gaining traction. Suddenly, Google Assistant wasn't so hot anymore, and our team faced uncertainty as newer technologies emerged.
 - **Bard/Gemini (2023):**  That Thanksgiving, leadership reorganized my team into Bard (now Gemini), which later became part of Google DeepMind (GDM). Everyone was new, and the environment was fast-paced as we ambitiously set to launch our own LLM-powered virtual assistant. It was the ultimate race to catch up, so we dove in headfirst, facing daily standups, rapid growth opportunities, and limited corporate oversight. The team expanded quickly, and we enjoyed countless events, celebrations, and gifts in recognition of all our hard work. I was honored to work on this critical launch with such a dedicated team.
 
-## [2] General commentary
+## General commentary
 
-Here, I'll outline some of the pros and cons of working at Google and GDM. These are all fairly common praises and critiques widely available on the Internet. Again, this is my personal take on the ones that stood out the most. Also, the benefits are self-explanatory, so I've put more focus on the downsides.
+Here, I'll outline some of the pros and cons of working at Google and GDM. These are all fairly common praises and critiques widely available on the Internet, and many sources go into greater depth with concrete examples and data points. Again, this is my personal take on the ones that stood out the most. Also, the benefits are self-explanatory, so I've put more focus on the downsides.
 
 ### The good
-- **The people:** As the saying goes, the people make the place. I've worked with some of the most talented, hardworking, and passionate individuals in the field, thanks to my time at Google and GDM. Seeing bright minds from around the world join together and collaborate on a shared mission to advance technology has been both inspiring and rewarding. Saying goodbye to so many wonderful mentors, colleagues, and friends was undoubtedly one of the most challenging things I had ever done.
+- **The people:** As the saying goes, the people make the place. I've worked with some of the most talented, hardworking, and passionate individuals in the field, thanks to my time at Google and GDM. Seeing bright minds from around the world join together on a shared mission to advance technology has been both inspiring and rewarding. Saying goodbye to so many wonderful mentors, colleagues, and friends was undoubtedly one of the most challenging things I had ever done.
 - **The impact:** Google serves billions of users daily across its products. It's arguably one of the most impactful companies in the world. As an engineer, a single line of code written (*or unwritten*) can rapidly affect millions. Though you may view yourself as insignificant when surrounded by a bunch of peers working on similar (*and often mundane*) tasks, the level of impact you make at Google is really something special.
 - **The perks:** The famous microkitchens, commuter shuttles, diverse cafés, and many other perks have given Google the "best company to work for" title many times across a wide range of sources. There's no doubt that Google goes the extra mile to treat its employees well. Google is also largely credited with setting these high standards of well-being across the broader tech industry, defining the industry's laid-back culture.
 
@@ -32,7 +32,7 @@ Here, I'll outline some of the pros and cons of working at Google and GDM. These
 - **Comp:** I've never been the one to fixate on TC; my goal was always to make enough to live comfortably while working on something I found interesting. However, it's quite a common complaint that Google's comp packages are severely lacking compared to those of its competitors, both in the general SWE and AI markets. The discrepancy was fine a few years ago, when many saw the big G as just some comfy job with cushy perks and benefits; Google clearly got away with it because of its legacy and name brand. But now, in this climate? Especially in AI, with all the exorbitant packages to poach talent, I don't think Google can afford to be slacking anymore. Retention has become a greater issue lately, with top performers leaving at a rapid rate. If Google wants to both retain and attract new talent to remain competitive, it really needs to do better.
 - **The AI race:** This point is more specific to Gemini and other AI orgs within Google, and I'm not blaming Alphabet, since it is the industry state of affairs these days. While leadership constantly preached *work-life balance*, looming deadlines and endless competitor launches meant we could never truly relax. We had to be *on* all the time, including our commute home, weekend outings, and family dinners. I was always thinking about work, unable to shut my brain off, and the barrage of work-related pings persisted through the night. No one *demanded* 996, but the pressure made it feel inevitable. Each completed target always led to another fire, unexpected delay, or priority shift. I have nothing against sprints, but this one *never* ended. And how long can we truly sustain a *sprint* for?
 
-## [3] Why I left
+## Why I left
 
 TLDR: It was a combination of general burnout coupled with some significant life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't seem *morally* right, and I couldn't muster the energy to switch teams or companies. I wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
 
@@ -59,7 +59,7 @@ So is this it? Is this how couples should operate: *man hard at work, woman conf
 ### Life outside tech
 Another motivation was to expand my horizons beyond tech/AI after being siloed in the industry for so long. Especially with a husband working at the forefront of AI, I sought to diversify myself and our shared life. Even if I eventually went back, I knew it was essential to step back to achieve a more balanced perspective. I decided to use this time to enjoy all the things I wanted to do but had never had the time or energy for before, as described in the next section.
 
-## [4] What's next?
+## What's next?
 
 Currently, I've been focusing on health, household responsibilities, and simply trying to live a well-rounded life without too much structure. In a society so tied to the concept of *occupation*, I don't have clear answers about my next *career move* at the moment. Because of this, I was hesitant to add this section, but I'll cover more on what I've done so far and my vision for the future.
 
