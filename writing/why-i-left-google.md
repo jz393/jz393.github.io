@@ -1,6 +1,6 @@
 I'm Jane, a former software and machine learning engineer at [Google](https://about.google/) and [DeepMind](https://deepmind.google/), where I worked on [Gemini](https://gemini.google.com/) and [Google Assistant](https://assistant.google.com/). After four years there, plus two internships during my time at [Cornell](https://www.cornell.edu), I left Alphabet this past summer. Here, I share my experience and reasons for leaving.
 
-Many "Why I Left Google" essays already exist; mine serves mainly to organize my personal thoughts. I will cover my background, pros/cons of Google/DeepMind, why I left, and my next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for inspiration on structure.
+Many 'Why I Left Google' essays already exist; mine serves mainly to organize my *personal* thoughts and commentary. In the following sections, I will cover my background, pros/cons of Google/DeepMind, why I left, and my next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for inspiration on the structure.
 
 
 ## My time at Google
