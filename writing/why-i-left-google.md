@@ -17,7 +17,7 @@ Google has shaped my college and young adult life, influencing my professional a
 
 ## General commentary
 
-Here, I'll outline some of the pros and cons of working at Google and GDM. These are common views widely available online, and many sources go into greater depth with more concrete examples and data points. Again, this is just my personal take on the ones that stood out the most. I focus more on notable downsides, as the benefits are self-explanatory.
+Here, I'll outline some key pros and cons of working at Google and GDM. These are common views, and many sources go into greater depth with concrete examples and data points. This is just my personal take on the ones that stood out the most to me. I focus more on notable downsides, as the benefits are self-explanatory.
 
 ### The good
 - **The people:** *The people make the place*. At Google and GDM, I've worked with some of the most talented, hardworking, and passionate individuals in the field. Seeing so many bright minds from around the world join together on a shared mission to advance technology has been enormously inspiring and rewarding. Saying goodbye to my wonderful mentors, colleagues, and friends was one of the most challenging things I had ever done.
