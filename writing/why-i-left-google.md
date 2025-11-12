@@ -17,7 +17,7 @@ I want to preface this by saying Google has been integral to both my college exp
 
 ## [2] General commentary
 
-Here, I'll outline some of the pros and cons of working at Google and GDM. These are all fairly common praises and critiques that are widely available across the Internet. Again, this is my personal take on the ones that stood out the most. Also, the benefits are self-explanatory, so I've put more focus on the downsides.
+Here, I'll outline some of the pros and cons of working at Google and GDM. These are all fairly common praises and critiques widely available on the Internet. Again, this is my personal take on the ones that stood out the most. Also, the benefits are self-explanatory, so I've put more focus on the downsides.
 
 ### The good
 - **The people:** As the saying goes, the people make the place. I've met some of the most intelligent, hardworking, and passionate individuals in the field thanks to my time at Google + GDM. It's inspiring to see some of the brightest minds from around the world come together in one place, unified by a shared mission to advance technology and society. Saying goodbye to so many wonderful mentors, colleagues, and friends was undoubtedly one of the most challenging things I had ever done.
@@ -34,7 +34,7 @@ Here, I'll outline some of the pros and cons of working at Google and GDM. These
 
 ## [3] Why I left
 
-TLDR: It was a combination of general burnout coupled with some significant life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't seem *morally* right, and I couldn't muster the energy to switch teams or companies. I just wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
+TLDR: It was a combination of general burnout coupled with some significant life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't seem *morally* right, and I couldn't muster the energy to switch teams or companies. I wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
 
 ### Life changes
 - **Marriage:** My husband and I got married in the summer of 2024. Previously, I didn't think marriage would change much about our lives, as we had been together since our first year of college. In fact, I had spent my entire time on Bard/Gemini being engaged and trying to plan our wedding, taking pride in my busyness, productivity, and self-perceived ability to *have it all*. If I could get all this done *during* the pre-wedding festivities, imagine how productive I'll be *after*? But then the day passed, and our lives/my mindset somewhat shifted. I've come to realize that the optimization function for a legally joined couple is vastly different from that for a single individual; I'll go into this later.
@@ -65,7 +65,7 @@ Currently, I've been focusing on health, household responsibilities, and simply 
 
 
 ### What I've done
-- **Prioritizing my health:** Self-explanatory, so I'll keep it short. Health is my utmost priority and is typically branches into three categories: exercise, diet, and sleep. I've been maintaining a somewhat consistent weekly [schedule](/fitness.html) of runs/hikes/gym time, have done my fair share of research and experimentation on nutrition optimization (*in addition to the manual labor of meal prep—see [cookbook](/cookbook.html)*), and am broadly trying to get enough rest. I'm planning to make a separate post about all of this as well, so stay tuned.
+- **Prioritizing my health:** Self-explanatory, so I'll keep it short. Health is my utmost priority, and it falls into three categories: exercise, diet, and sleep. I've been maintaining a somewhat consistent weekly [schedule](/fitness.html) of runs/hikes/gym time, have done my fair share of research and experimentation on nutrition optimization (*in addition to the manual labor of meal prep—see [cookbook](/cookbook.html)*), and am broadly trying to get enough rest. I'm planning to make a separate post about all of this as well, so stay tuned.
 - **Exploring other interests:** When I first left my job, all I wanted to do was work with my hands *rather than use my brain intensively*. I wanted to try something new and different, and get my mind off of AI/tech entirely. I began taking a few ceramics classes at a local studio and started volunteering at our local nonprofit community garden and cat shelter. I've also started collecting and growing my own [plants](/plants.html), and adopted two [kittens](/kitties.html) after fostering an entire litter. It's been eye-opening to explore different domains, and I find life much more enriching now.
 - **Embracing stochasticity:** I also set out to simply live—*at least for a period of time*—without artificial deadlines or rigid structure. Instead of enforcing a strict schedule/timeline, I try to listen to myself and just do what *feels* right, day by day. I've always been an extremely Type A person, and this was very unsettling at first, but after some time, I've begun to really appreciate this way of living! I’m not claiming I won't default back to a more organized/demanding lifestyle in the future; I'm just trying to enjoy the present.
 
