@@ -3,7 +3,7 @@ I'm Jane, a former software and machine learning engineer at [Google](https://ab
 
 ## My time at Google
 
-Google profoundly shaped my college and young adult life, influencing both my professional and personal identity. Leaving was incredibly difficult, as it had been my dream company since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
+Google profoundly shaped my young adult life, influencing both my professional and personal identity. It has seen me through the blundering university days, the trials and tribulations of post-grad life, and eventually marriage. Leaving was incredibly difficult, as it had been my dream company since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
 
 ### Background and timeline
 - **The interview (2018):** During a busy sophomore semester, a recruiter reached out to invite me to interview for an internship at Google. While I didn't feel adequately prepared (the academic year didn't leave much room for Leetcode practice), I knew I couldn't pass on this opportunity. I hesitantly took the interview, where I solved one question and submitted a rough solution to the next. I didn't expect much afterward, but to my surprise, my recruiter called a week later with the good news! I eagerly accepted the offer, and team matching quickly followed as I began preparing for my internship.
@@ -15,6 +15,7 @@ Google profoundly shaped my college and young adult life, influencing both my pr
 
 ## General commentary
 
+<!-- TODO: rewrite -->
 Here, I outline some key pros and cons of working at Google and GDM. These are common views, and many sources go into greater depth with concrete examples and data points. I focus more on notable downsides, as the benefits are self-explanatory.
 
 ### The good
@@ -32,11 +33,11 @@ Here, I outline some key pros and cons of working at Google and GDM. These are c
 
 ## Why I left
 
-TLDR: It was a combination of general burnout coupled with some significant life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't feel morally right in this high-pressure environment, and I couldn't muster the energy to switch teams or companies. I wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
+In midst of the AI sprint, I experienced significant life changes, realizations, and shifting priorities. My team at GDM has always been supportive, but I felt like I couldn't give them my best anymore. Coasting didn't feel morally right in this high-pressure environment, and I couldn't muster the energy to switch teams or companies. I wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
 
 ### Life changes
 - **Marriage:** My husband and I got married in the summer of 2024. Previously, I didn't think marriage would change much about our lives, as we had been together since our first year of college. In fact, I had spent my entire time on Bard/Gemini being engaged and trying to plan our wedding, taking pride in my busyness, productivity, and self-perceived ability to *have it all*. If I could get all this done during the pre-wedding festivities, imagine how productive I'll be after? But then the day passed, and our lives/my mindset somewhat shifted. I've come to realize that the optimization function for a legally joined couple is vastly different from that for a single individual; I'll go into this later.
-- **Health:** Around that time, I also had a thought: *maybe I should get a health checkup, since I'm in my mid-twenties now*. So I went to the doctor and did a lab panel, and EVERYTHING was red. Okay, a bit of an exaggeration, but I was shocked. My tests showed I had high cholesterol levels, glucose levels corresponding to prediabetes, and a severe vitamin D deficiency. My naive self previously thought that since I was relatively thin and had no glaring issues, I didn't need to take anything too seriously. I had become complacent with a sedentary lifestyle (*only getting activity on the weekends*) and a poor diet (*I consumed tons of sugar, eating pastries for breakfast, and relying on many snacks at work to provide energy during intense workloads*). I had always taken my health for granted before, and this was a huge reality check.
+- **Health:** Around that time, I also had a thought: *maybe I should get a health checkup, since I'm in my mid-twenties now*. So I went to the doctor and did a lab panel, and \*everything\* was red. Okay, a bit of an exaggeration, but I was shocked. My tests showed I had high cholesterol levels, glucose levels corresponding to prediabetes, and a severe vitamin D deficiency. My naive self previously thought that since I was relatively thin and had no glaring issues, I didn't need to take anything too seriously. I had become complacent with a sedentary lifestyle (*only getting activity on the weekends*) and a poor diet (*I consumed tons of sugar, eating pastries for breakfast, and relying on many snacks at work to provide energy during intense workloads*). I had always taken my health for granted before, and this was a huge reality check.
 
 ### Mental bandwidth
 With so many things going on at once and my team relentlessly growing in size and complexity, it became so strenuous to keep up. I naturally put my job first, and it consumed me mentally. I woke up, thought about all my work obligations, responded to pings, and rushed between meetings, just to repeat everything the next day. I'd push the grocery cart at the supermarket on autopilot, carrying all the upcoming deadlines in the back of my head. I'd lie in bed, and different variations of our model prompt would appear in my head just as I was about to nod off, jerking me awake. It was like *the grind* took over my brain, and I didn't know how to shut it off.
