@@ -16,7 +16,7 @@ Google profoundly shaped my young adult life, influencing both my professional a
 
 ## General commentary
 
-For so long, ambitious students and industry professionals have striven for *The Google Job&trade;*, considered the ultimate career goal. Each time I open the app, LinkedIn greets me with a flood of "I got into Google" posts that accumulate thousands of likes. However, beneath all the pomp and circumstance, instabilities, inefficiencies, and unsustainabilities plague the massive tech giant. Nevertheless, many attributes make the company hard to refuse.
+For so long, ambitious students and industry professionals have striven for *The Google Job&trade;*, considered the ultimate career goal. Each time I open the app, LinkedIn greets me with a flood of "I got into Google" posts that accumulate thousands of likes. Many attributes make the company hard to refuse. However, beneath all the pomp and circumstance, instabilities, inefficiencies, and unsustainabilities plague the massive tech giant.
 
 ### The good
 - **The people:** I've worked with some of the most talented, hardworking, and passionate individuals in the field, thanks to my time at Google and GDM. Seeing so many bright minds from around the world join together on a shared mission to advance technology has been enormously inspiring and rewarding. Saying goodbye to my wonderful mentors, colleagues, and friends was undoubtedly one of the most challenging things I had ever done.
