@@ -1,11 +1,9 @@
-I'm Jane, a former software and machine learning engineer at [Google](https://about.google/) and [DeepMind](https://deepmind.google/), where I worked on [Gemini](https://gemini.google.com/) and [Google Assistant](https://assistant.google.com/). After four years there, plus two internships during my time at [Cornell](https://www.cornell.edu), I left Alphabet this past summer. Here, I share my experience and reasons for leaving.
-
-Many 'Why I Left Google' essays already exist; mine serves mainly to organize my *personal* thoughts and commentary. In the following sections, I will cover my background, the pros and cons of Google/DeepMind, why I left, and my next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for inspiration on the structure.
+I'm Jane, a former software and machine learning engineer at [Google](https://about.google/) and [DeepMind](https://deepmind.google/), where I worked on [Gemini](https://gemini.google.com/) and [Google Assistant](https://assistant.google.com/). After four years there, plus two internships during my time at [Cornell](https://www.cornell.edu), I left Alphabet this past summer. Here, I share my experience and reasons for leaving. In the following sections, I cover my background, the pros and cons of Google/DeepMind, why I left, and my next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for structural inspiration.
 
 
 ## My time at Google
 
-Google has shaped my college and young adult life, influencing my professional and personal identity. Leaving was incredibly difficult, as it had been my dream company since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
+Google profoundly shaped my college and young adult life, influencing both my professional and personal identity. Leaving was incredibly difficult, as it had been my dream company since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
 
 ### Background and timeline
 - **The interview (2018):** During a busy sophomore semester, a recruiter reached out to invite me to interview for an internship at Google. While I didn't feel adequately prepared (the academic year didn't leave much room for Leetcode practice), I knew I couldn't pass on this opportunity. I hesitantly took the interview, where I solved one question and submitted a rough solution to the next. I didn't expect much afterward, but to my surprise, my recruiter called a week later with the good news! I eagerly accepted the offer, and team matching quickly followed as I began preparing for my internship.
@@ -17,7 +15,7 @@ Google has shaped my college and young adult life, influencing my professional a
 
 ## General commentary
 
-Here, I'll outline some key pros and cons of working at Google and GDM. These are common views, and many sources go into greater depth with concrete examples and data points. This is just my personal take on the ones that stood out the most. I focus more on notable downsides, as the benefits are self-explanatory.
+Here, I outline some key pros and cons of working at Google and GDM. These are common views, and many sources go into greater depth with concrete examples and data points. I focus more on notable downsides, as the benefits are self-explanatory.
 
 ### The good
 - **The people:** *The people make the place*. At Google and GDM, I've worked with some of the most talented, hardworking, and passionate individuals in the field. Seeing so many bright minds from around the world join together on a shared mission to advance technology has been enormously inspiring and rewarding. Saying goodbye to my wonderful mentors, colleagues, and friends was one of the most challenging things I had ever done.
