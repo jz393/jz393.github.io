@@ -3,7 +3,7 @@ I'm Jane, a former software and machine learning engineer at [Google](https://ab
 
 ## My time at Google
 
-Google profoundly shaped my young adult life, influencing both my professional and personal identity. It has seen me through the blundering university days, the trials and tribulations of post-grad life, and eventually marriage. Additionally, it was my dream company ever since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
+Google profoundly shaped my young adult life, influencing both my professional and personal identity. It has seen me through the blundering university days, the trials and tribulations of post-grad life, and eventually marriage. It was my dream company ever since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
 
 ### Background and timeline
 - **The interview (2018):** As a busy college student who had just completed an introductory data structures course, I received a coveted invitation to a Google internship interview. Despite not feeling adequately prepared, I gladly took the opportunity. One week later, to my pleasant surprise, my recruiter called to deliver the good news. I eagerly accepted the offer, awaiting new adventures ahead.
