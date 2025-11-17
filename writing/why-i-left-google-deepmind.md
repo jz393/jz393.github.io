@@ -5,7 +5,7 @@ I'm Jane, a former software and machine learning engineer at [Google](https://ab
 
 Google profoundly shaped my young adult life, influencing both my professional and personal identity. It has seen me through the blundering university days, the trials and tribulations of post-grad life, and eventually marriage. It was my dream company ever since I started studying computer science—a throwback to the early days of programming "Hello, World!" and basic four-function calculators.
 
-### Background and timeline
+### The timeline
 - **The interview (2018):** As a busy college student who had just completed an introductory data structures course, I received a coveted invitation to a Google internship interview. Despite not feeling adequately prepared, I gladly took the opportunity. One week later, to my pleasant surprise, my recruiter called to deliver the good news. I eagerly accepted the offer, awaiting new adventures ahead.
 - **First internship, Cloud (2019):** Starting in the SF office, exploring the city, and meeting so many new friends was *exhilarating*. Google was everything I had dreamed of: free food, world-class real estate, and lively social events. Overcoming the initial learning curve, I connected with my team and learned a great deal about Google's vast infrastructure, history, and operations.
 - **Second internship, Ads (2020):** One year later, COVID took the world by storm, but I thankfully still had a (remote) internship. Without the in-person presence and the extravagant intern events, things became considerably more serious and focused. That summer, I gained practical full-stack experience and learned more about the long-term expectations of full-time work, all from my tiny apartment in Ithaca.
