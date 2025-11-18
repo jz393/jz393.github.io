@@ -20,6 +20,6 @@ In this next chapter, I begin a novel quest to attain deeper meaning in my time-
 
 ### Footnotes
 
-1. Yes, you *can* take screenshots of your code and (secretly) take them to your next company. But if your work is anything of importance and you get caught, have fun with a hefty lawsuit and possibly imprisonment! Just look at what’s happening these days in the AI industry.
+1. Yes, you can take screenshots of your code and (secretly) take them to your next company. But if your work is anything of importance and you get caught, have fun with a hefty lawsuit and possibly imprisonment! Just look at what’s happening these days in the AI industry.
 
 2. I imagine this is a common sentiment, especially as AI advances toward human-grade intelligence or even AGI. We want to distinguish ourselves from the robots, to make our lives feel meaningful and worthwhile.
