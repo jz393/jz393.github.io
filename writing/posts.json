@@ -1,6 +1,11 @@
 {
     "posts": [
         {
+            "title": "Intellectual Freedom and Lasting Legacies",
+            "date": "2025-11-18",
+            "file": "intellectual-freedom-lasting-legacies.md"
+        },
+        {
             "title": "Why I Left Google and DeepMind",
             "date": "2025-11-13",
             "file": "why-i-left-google-deepmind.md"
