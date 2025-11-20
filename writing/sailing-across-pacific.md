@@ -10,7 +10,7 @@ Suddenly, the storm engulfs everything. Lightning strikes ferociously, winds shr
 
 Eventually, lifeboats begin to appear, giving me a sense of relief. I intended to jump into one, confident it would take me home and that I could erase the entire ordeal from my memory. Upon closer inspection, the boat seemed flimsy compared to my own *flawed but beautifully crafted* counterpart. I didn't trust it to carry me out of this gruesome storm. Furthermore, I couldn’t bear to part with my own vessel—my pride and joy since the early days of youth, spent dreaming about electrifying adventures ahead.
 
-Therefore, I ultimately chose to stay with my ship. I hopelessly watch as it yields to the relentless force of nature. Day after day, we drift amid the tempest, my despair deepening with each passing minute. I close my eyes and lie flat on the plywood, waiting for fate to take me.
+Therefore, I ultimately chose to stay with my ship. I hopelessly watched as it yielded to the relentless force of nature. Day after day, we drift amid the tempest, my despair deepening with each passing minute. I close my eyes and lie flat on the plywood, waiting for fate to take me.
 
 Between the lightning strikes, I open my eyes and spot a faint shadow illuminated in the background—a small island in the Pacific. With my sails ruined, I lean over and pitifully use my arms as oars. I don't know if I can make it, but it's still worth a try. Flailing them with all my remaining strength, I reach the sandy shore, exhausted and battered.
 
