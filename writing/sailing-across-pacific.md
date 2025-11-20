@@ -6,7 +6,7 @@ One day, I got tired of the endless planning. So, on a random Tuesday, I took th
 
 Months later, I spot a dark cloud above. *I’m sure it’ll pass*, I thought. Then another appears, and a few drops of rain fall onto my hands. Nothing to worry about—I know meteorology and can handle some rain.
 
-Suddenly, the storm engulfs everything. Lightning strikes ferociously, winds shred my sails, and waves batter the hull. I throw myself onto the planks, hoping to keep the water out for a while. For the first time, I start to resent those who successfully sailed before me and those who are safe back at shore.
+Suddenly, the storm engulfs everything. Lightning strikes ferociously, winds shred my sails, and waves batter the hull. I hurl my body onto the planks, hoping to keep the water out for a while. For the first time, I start to resent those who successfully sailed before me and those who are safe back at shore.
 
 Eventually, lifeboats begin to appear, giving me a sense of relief. I intended to jump into one, confident that it would take me home, where I could erase the entire ordeal from my memory. Upon closer inspection, the boat seemed flimsy compared to my own *flawed but beautifully crafted* counterpart. I didn't trust it to carry me out of this gruesome storm. Furthermore, I couldn’t bear to part with my own vessel—my pride and joy since the early days of youth, spent dreaming about electrifying adventures ahead.
 
