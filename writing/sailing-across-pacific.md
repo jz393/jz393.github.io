@@ -1,4 +1,4 @@
-I wasn’t sure what awaited, or if a true destination even existed. The vibrant blue waters simply captivated me, as did legends of past adventurers. Some warned that the journey would be difficult.
+I wasn’t sure what awaited, or if a true destination even existed. The vibrant blue waters simply captivated me, as did legends of past adventurers. Some warned that the journey would be onerous.
 
 I studied my sailing path for years, meticulously mapping my journey. I devoted my life to my sailboat, trusting it to carry me through rough waters. I consulted renowned cartographers, artisans, and astronomers in preparation.
 
