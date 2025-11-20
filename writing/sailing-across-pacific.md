@@ -12,7 +12,7 @@ Finally, lifeboats begin to appear, giving me a sense of relief. I intended to j
 
 Therefore, I ultimately chose to stay with my ship, preparing for the worst. I do nothing but hopelessly watch as it yields to the relentless force of nature. Day after day, we drift amid the tempest, my despair deepening with each passing minute. I close my eyes and lie flat on the plywood, submitting to fate.
 
-Between the flashes of lightning, I open my eyes and spot a faint shadow illuminated in the background—a small island in the Pacific. With my sails ruined, I lean over and pitifully use my arms as oars. I don't know if I can make it, but it's still worth a try. Flailing them with all my remaining strength, I reach the sandy shore, exhausted and battered.
+Between the flashes of lightning, I open my eyes and spot a faint shadow illuminated in the background—a small island in the Pacific. I don't know if I can make it, but I attempt a last-ditch effort. With my sails ruined, I lean over and pitifully use my arms as oars. Flailing them with all my remaining strength, I reach the sandy shore, exhausted and battered.
 
 I lie down on a makeshift bed, consisting of an arrangement of knocked-over palm leaves under a lush cover of trees. Sleep doesn’t come easily, as I still vividly hear and feel the crashing waves, akin to how sailors oddly get seasick *after* they arrive on land. After what seemed like days, I managed to doze off. A warm glow of sunlight seeps through the canopy as I awaken.
 
