@@ -20,7 +20,7 @@ When the storm moved on, I stepped out of my shelter. I drank coconut water, wat
 
 My hidden cove is beautiful, and I’ve grown accustomed to my newfound bliss. But as the wreck fades into memory, my curiosity slowly returns. Standing on a cliffside and peering down at the turquoise water, I feel the familiar pull to leave shore once again.
 
-I start making my way towards my boat when I encounter a strange bottle containing a message, washed up on the beach. With trembling hands, I reach towards the glass.
+I start making my way towards my boat when I encounter a strange bottle containing a message. With trembling hands, I reach towards the glass.
 
 
 
