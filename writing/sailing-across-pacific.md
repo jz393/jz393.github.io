@@ -19,3 +19,6 @@ I spend the first few days lying down on a makeshift bed, made of an arrangement
 The storm eventually passes, and I wander out of the burrow. I sip coconut water, play with friendly tropical monkeys, and watch whales from afar. I build a simple hut and gradually make repairs to my ship. Each evening, I admire the sunset on the secluded beach and enjoy lasting moments of tranquility for the first time in years. I glance back at the remnants of my map and realize this island was never on here. However, I am happy to have discovered it.
 
 My little enclave is lovely, and I adore my new life in it. However, as I gradually recover from the shipwreck, my curiosity returns. Time after time, my mind clears, and I forget all the negative emotions that once consumed it. By the cliffside, I glance down at the breathtaking turquoise waters, wanting to venture out again to discover *more*.
+
+
+<span style="color:var(--muted);font-size:0.8em;"><cite><a href="writing/images/sailor-illustration.png">Illustrated</a> by AI</cite></span>
