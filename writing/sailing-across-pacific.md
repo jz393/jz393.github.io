@@ -14,7 +14,7 @@ Therefore, I ultimately chose to stay with my ship. I can do nothing but hopeles
 
 Between the lightning strikes, I open my eyes and spot a faint shadow illuminated in the background—a small island in the Pacific. With my sails ruined, I lean over and pitifully use my arms as oars. I don't know if I can make it, but it's still worth a try. Flailing them with all my remaining strength, I reach the sandy shore, exhausted and battered.
 
-I spend my first few days lying down on a makeshift bed, made of an arrangement of knocked-over palm leaves under a lush cover of trees. Sleep doesn’t come easily, as I still vividly hear and feel the crashing waves, similar to how sailors oddly get seasick *after* they arrive on land. Eventually, I doze off and wake up to a warm glow of sunlight seeping through the branches above me.
+I spend the first few days lying down on a makeshift bed, made of an arrangement of knocked-over palm leaves under a lush cover of trees. Sleep doesn’t come easily, as I still vividly hear and feel the crashing waves, similar to how sailors oddly get seasick *after* they arrive on land. Eventually, I doze off and wake up to a warm glow of sunlight seeping through the branches above me.
 
 The storm eventually passes, and I wander out of the burrow. I sip coconut water, play with friendly tropical monkeys, and watch whales from afar. I build a simple hut and gradually make repairs to my ship. Each evening, I admire the sunset on the secluded beach and enjoy lasting moments of tranquility for the first time in years. I glance back at the remnants of my map and realize this island was never on here. However, I am happy to have discovered it.
 
