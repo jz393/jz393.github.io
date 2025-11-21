@@ -1,6 +1,6 @@
 <!-- 11/20/25: NO MORE CHANGES -->
 
-The water called to me. I wasn’t sure what was out there, or if a real destination even existed.
+For most of my life, the horizon was out of reach. I wasn’t sure what might await, or if a real destination even existed.
 
 I built my boat over the course of many years, knowing it would carry me through rough seas. I studied the charts and the stars, tracing and retracing every possible route. I sought out cartographers, astronomers, and artisans from around the world just to seal every little detail.
 
