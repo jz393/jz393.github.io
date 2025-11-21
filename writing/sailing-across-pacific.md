@@ -18,7 +18,7 @@ Between flashes of lightning, I opened my eyes and glimpsed a shadow on the hori
 
 I made a bed from fallen palm leaves beneath a canopy of trees. Sleep came in broken pieces; even on solid ground, I still felt the sea crashing beneath me, the echo of waves rattling through my bones. After several lifetimes of half-dreams, I finally woke to a warm glow of sunlight cutting through the leaves above.
 
-When the storm moved on, I stepped out of my shelter. My first few steps were wobbly. I sipped coconut water, watched tropical monkeys swing through the branches, and tracked whales from the beach. I built a simple hut and began mending my boat. Each evening, I watched the sky burn out over the water. I glanced back at the remnants of my chart, just to realize this island had never appeared on it.
+When the storm moved on, I stepped out of my shelter. My first few steps were wobbly. I sipped coconut water, watched tropical monkeys swing through the branches, and spotted whales from the beach. I built a simple hut and began mending my boat. Each evening, I watched the sky burn out over the water. I glanced back at the remnants of my chart, just to realize this island had never appeared on it.
 
 My hidden cove is beautiful. But as the wreck fades into memory, my curiosity slowly returns. Standing on a cliffside and peering down at the turquoise water, I feel the familiar pull to leave shore once again.
 
