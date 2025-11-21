@@ -10,7 +10,7 @@ The storm arrived at once. Lightning tore open the sky, winds ripped apart my sa
 
 At last, some lifeboats emerged, giving me a flicker of hope. I braced myself to jump, intending to erase the entire ordeal from my memory as soon as I got home. But as the boats drew closer, I realized each looked flimsy compared to my imperfect masterpiece. I couldn’t bear to part with it. I couldn’t entrust my life to strangers who had never seen the work in my hands. Most of all, I couldn’t admit that the boat I’d given my youth to could not save me.
 
-I decided to stay, slowly watching my beautiful vessel yield to the storm’s weight. Day after day, we drifted in the dark. My resolve slowly dissolved into dull resignation. I lay flat on the deck with my eyes shut, ready to submit to fate.
+I decided to stay, slowly watching my beloved vessel yield to the storm’s weight. Day after day, we drifted in the dark. My resolve slowly dissolved into dull resignation. I lay flat on the deck with my eyes shut, ready to submit to fate.
 
 Between flashes of lightning, I opened my eyes and glimpsed a shadow on the horizon—a small island. I didn’t know if my body or my boat could make it. With the rigging in tatters, I leaned over to the side and used my arms as oars, dragging us forward in clumsy strokes until the keel scraped sand and I collapsed on the shore.
 
@@ -18,7 +18,7 @@ I made a bed from fallen palm leaves beneath a canopy of trees. Sleep came in br
 
 When the storm moved on, I stepped out of my shelter. My first few steps were wobbly. I drank coconut water, watched tropical monkeys swing through the branches, and tracked distant whales from the beach. I built a simple hut and began mending my boat. Each evening, I watched the sky burn out over the water. I glanced back at the remnants of my chart, just to realize this island had never appeared on it.
 
-My hidden cove is beautiful, and I’ve grown accustomed to my newfound bliss. But as the wreck fades into memory, my curiosity slowly returns. Standing on a cliffside and peering down at the turquoise water, I feel the familiar pull to leave shore once again.
+My hidden cove is beautiful. But as the wreck fades into memory, my curiosity slowly returns. Standing on a cliffside and peering down at the turquoise water, I feel the familiar pull to leave shore once again.
 
 I start making my way towards my boat when I encounter a strange bottle containing a message. With trembling hands, I reach towards the glass.
 
