@@ -2,7 +2,7 @@ I wasn’t sure what awaited, or if a true destination even existed. The blue wa
 
 For years, I studied charts, tracing and retracing every possible route. I built my boat plank by plank, trusting it to survive rough seas. I sought out cartographers, astronomers, and artisans from around the world, trying to seal every crack in my plans.
 
-Eventually I found myself running in circles with the endless planning. On a random Tuesday, I finally said goodbye and set sail. The first rush of open water hit me like a revelation. Dolphins leaped beside the bow; bright fish flickered underneath. Wind tore through my hair, and sunlight warmed my face. For a while, everything felt exactly right.
+Eventually, I found myself running in circles with the endless planning. On a random Tuesday, I finally said goodbye and set sail. The first rush of open water hit me like a revelation. Dolphins leaped beside the bow; bright fish flickered underneath. Wind tore through my hair, and sunlight warmed my face. For a while, everything felt exactly right.
 
 Months later, a dark cloud edged into view. I told myself it would pass. Then another followed, and cool drops of rain grazed my palms. I brushed off the unease. *I knew enough meteorology*, I thought. I could handle rain.
 
