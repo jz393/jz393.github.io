@@ -24,4 +24,4 @@ My hidden cove is beautiful. But as the wreck fades into memory, my curiosity sl
 
 I start making my way towards my boat when I encounter a strange bottle containing a message. With trembling hands, I reach towards the glass.
 
-<span style="color:var(--muted);font-size:0.8em;"><cite><a href="writing/images/sailor-illustration.png">Illustrated</a> by AI</cite></span>
+<!-- <span style="color:var(--muted);font-size:0.8em;"><cite><a href="writing/images/sailor-illustration.png">Illustrated</a> by AI</cite></span> -->
