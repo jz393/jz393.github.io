@@ -10,7 +10,7 @@ Months later, a dark cloud edged into view. I told myself it would pass. Then an
 
 The storm arrived at once. Lightning tore open the sky, winds ripped apart my sails, and waves hammered the hull. I threw myself against the leaking planks, hoping to keep the water out for *just a few more minutes*.
 
-At last, some lifeboats emerged, giving me a flicker of hope. I braced myself to jump, intending to erase the entire ordeal from my memory as soon as I got home. But as the boats drew closer, I realized each looked flimsy compared to my imperfect masterpiece. I couldn’t bear to part with it. I couldn’t entrust my life to strangers who had never seen the work in my hands. Most of all, I couldn’t admit that the boat I’d given my youth to could not save me.
+At last, some lifeboats emerged, giving me a glimmer of hope. I braced myself to jump, intending to erase the entire ordeal from my memory as soon as I got home. But as the boats drew closer, I realized each looked flimsy compared to my imperfect masterpiece. I couldn’t bear to part with it. I couldn’t entrust my life to strangers who had never seen the work in my hands. Most of all, I couldn’t admit that the boat I’d given my youth to could not save me.
 
 I decided to stay, slowly watching my beloved vessel yield to the storm’s weight. Day after day, we drifted in the dark. My resolve morphed into dull resignation. I lay flat on the deck with my eyes shut, ready to submit to fate.
 
