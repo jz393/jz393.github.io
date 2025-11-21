@@ -1,3 +1,5 @@
+<!-- 11/20/25: NO MORE CHANGES -->
+
 After seven years, I [left]((https://zhangjane.com/writing#why-i-left-google-deepmind)) Google with nothing (except some cool snacks). Now, I have only the faint muscle memory of creating eval pipelines, sifting through data, and kicking off training runs. My experience would help me do something similar inside another company, but thousands of competent engineers could replicate my work. All my projects, along with the actual code I wrote, now fully belong to Google and my former teams.<sup>1</sup>
 
 I envied my husband, who owns his research papers and ideas as he hops from institution to institution. His value is affiliation-agnostic. If he walked away from his career tomorrow to do *God knows what*, he would still retain recognition for the impact he made. We belonged to the same industry, putting in a similar number of hours and enduring comparable levels of stress. Didn’t I deserve the same kind of recognition?
@@ -13,7 +15,6 @@ I’m not blaming Google. This feels like the inevitable nature of software engi
 I recognize the importance of my work over the past seven years. I’m also deeply thankful to Google for providing me with a comfortable life and access to brilliant people. But now, I want *more*. I want to stand out, even slightly, from the hundreds of thousands of highly competent and highly comparable people around me. In an increasingly computerized society, I want to feel a bit more *human*.<sup>2</sup>
 
 In this next chapter, I begin a new quest to find deeper meaning in my life. I keep wondering whether that makes me selfish; I suspect it’s just human instinct. For as long as we’ve kept records, people have tried to leave something behind. I think most of us share the desire to be remembered for our efforts, to leave a mark among the hundreds of billions who have also existed here. Perhaps, more than anything, my quest is to answer that very urge: to live intentionally, so that my days echo beyond their end.
-
 
 ### Footnotes
 
