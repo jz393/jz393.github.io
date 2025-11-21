@@ -2,7 +2,7 @@
 
 The water called to me. I wasn’t sure what was out there, or if a real destination even existed.
 
-I built my boat over the course of many years, entrusting it to carry me through rough seas. I studied the charts and the stars, tracing and retracing every possible route. I sought out cartographers, astronomers, and artisans from around the world just to seal every little detail.
+I built my boat over the course of many years, knowing it would carry me through rough seas. I studied the charts and the stars, tracing and retracing every possible route. I sought out cartographers, astronomers, and artisans from around the world just to seal every little detail.
 
 Eventually, I found myself running in circles. So on a random Tuesday, I said goodbye and set sail. The first rush of open water hit me like a revelation. Dolphins leaped beside the bow; bright fish flickered underneath. Wind tore through my hair, and sunlight warmed my face. Nothing had ever felt so right.
 
