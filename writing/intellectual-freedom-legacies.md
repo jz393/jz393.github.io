@@ -1,6 +1,6 @@
-<!-- 11/20/25: NO MORE CHANGES -->
+<!-- 11/21/25: NO MORE CHANGES -->
 
-After seven years, I [left]((https://zhangjane.com/writing#why-i-left-google-deepmind)) Google with nothing (except some leftover snacks). Now, I have only some faint muscle memory of building eval pipelines and kicking off training runs. My experience would help me do something similar inside another company, but thousands of competent engineers could replicate my work. All my projects, along with the actual code I wrote, now fully belong to Google and my former teams.<sup>1</sup>
+After seven years, I took nothing with me when I [left]((https://zhangjane.com/writing#why-i-left-google-deepmind)) Google (except the snacks of course). Now, I have only a faint memory of building some eval pipelines and kicking off training runs. My vague recollection could help me accomplish something similar inside another company, but thousands of competent engineers could also replicate my work. All my concrete projects, along with the code I wrote, now fully belong to Google and my former teams.<sup>1</sup>
 
 I envied my husband, who owns his research papers and ideas as he hops from institution to institution. His value is affiliation-agnostic. If he walked away from his career tomorrow to do *God knows what*, he would still retain recognition for the impact he made. We belonged to the same industry, putting in a similar number of hours and enduring comparable levels of stress. Didn’t I deserve the same kind of recognition?
 
