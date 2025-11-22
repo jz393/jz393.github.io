@@ -1,6 +1,6 @@
 Our honeymoon marked a two-week escape from the AI grind. I stared at the intricate art on the ceiling of the Sistine Chapel and got lost in the towering walls of St. Peter’s Basilica. I practically inhaled the gelato, and thought my shoes would give in between all the gallery hops in Florence.
 
-I told myself that I was living out the modern-day version. The Renaissance marked a grand rebirth of the classics and gave us a new era of intellectual, artistic, and cultural change. Likewise, our society is undergoing a similar paradigm shift with the widespread integration of AI, and I had the good fortune of working at *Gemini*. 
+I told myself that I was living out the modern-day version. The Renaissance marked a grand rebirth of the classics and gave us a new era of intellectual, artistic, and cultural change. Likewise, our society is undergoing a similar paradigm shift with the widespread integration of artificial intelligence, and I had the good fortune of working at *Gemini*. 
 
 Before you tout models outperforming Gemini on some arbitrary metric, I am not claiming it to be the Sistine of foundation models (if one even exists), nor myself to be *half* as skilled as Michelangelo. However, we visited dozens of chapels and admired hundreds—maybe even thousands—of paintings across countless galleries. Each was utterly mesmerizing, and I’d be content with having worked on a single painting inside one of the hundreds of thousands of historic chapels scattered across the continent.
 
