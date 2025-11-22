@@ -33,7 +33,7 @@ For so long, ambitious students and industry professionals have striven for The 
 
 ## Why I left
 
-One thing I’ve noticed is that life doesn’t stop for anyone, even those caught inside a perpetual AI sprint! After facing major changes, realizations, and shifting priorities, I felt like I couldn’t give my best anymore. Though my team at GDM has always been supportive, coasting didn't feel morally right, and I had no energy to switch teams or companies. I wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
+One thing I’ve noticed is that life doesn’t stop for anyone, even those caught inside a perpetual AI sprint. After facing major changes, realizations, and shifting priorities, I felt like I couldn’t give my best anymore. Though my team at GDM has always been supportive, coasting didn't feel morally right, and I had no energy to switch teams or companies. I wanted to take some time off entirely from the AI/tech world and live on my own terms for a bit.
 
 ### Life changes
 - **Marriage:** My husband and I got married in the summer of 2024. Previously, I didn't think marriage would change much about our lives, as we had been together since our first year of college. In fact, I had spent my entire time on Bard/Gemini being engaged and trying to plan our wedding, taking pride in my busyness, productivity, and self-perceived ability to *have it all*. If I could accomplish all this during the pre-wedding festivities, imagine how productive I'll be afterwards? But then the day passed, and our lives/my mindset somewhat shifted. I've come to the realization that the optimization function for a legally joined couple is vastly different from that for a single individual; I'll go into this later.
