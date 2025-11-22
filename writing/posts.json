@@ -1,6 +1,11 @@
 {
     "posts": [
         {
+            "title": "A Renaissance in Partitions",
+            "date": "2025-11-22",
+            "file": "a-renaissance-in-partitions.md"
+        },
+        {
             "title": "Sailing the Grand Pacific",
             "date": "2025-11-19",
             "file": "sailing-the-grand-pacific.md"
