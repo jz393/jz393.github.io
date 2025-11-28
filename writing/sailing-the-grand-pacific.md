@@ -23,5 +23,3 @@ When the storm moved on, I stepped out of my shelter. My first few steps on soli
 My hidden cove is beautiful. But as the wreck fades into memory, my curiosity slowly returns. Standing on a cliffside and peering down at the turquoise water, I feel the familiar pull to leave shore once again.
 
 I start making my way towards my boat when I encounter a strange bottle containing a message. With trembling hands, I reach towards the glass.
-
-<!-- <span style="color:var(--muted);font-size:0.8em;"><cite><a href="writing/images/sailor-illustration.png">Illustrated</a> by AI</cite></span> -->
