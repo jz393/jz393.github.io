@@ -12,7 +12,7 @@ The storm arrived at once. Lightning tore open the sky, winds ripped apart my sa
 
 At last, some lifeboats emerged, giving me a glimmer of hope. I braced myself to jump, intending to erase the entire ordeal from my memory as soon as I got home. But as the boats drew closer, I realized each looked flimsy compared to my imperfect masterpiece. I couldn’t bear to part with it. I couldn’t entrust my life to strangers who had never seen the work in my hands. Most of all, I couldn’t admit that the ship I’d given my youth to would not be able to save me.
 
-I decided to stay, watching my beloved vessel yield to the forces of nature. Day after day, we drifted in the dark. The boards groaned in apology, and my resolve morphed into dull resignation. I lay flat on the deck with my eyes shut, ready to submit to fate.
+I decided to stay, watching my beloved vessel yield to the forces of nature. Day after day, we drifted in the dark. The boards groaned in apology, and my resolve gradually morphed into dull resignation. I lay flat on the deck with my eyes shut, ready to submit to fate.
 
 Between flashes of lightning, I opened my eyes and glimpsed a shadow on the horizon—a small island. I didn’t know if we could make it. With the rigging in tatters, I leaned over to the side and used my arms as oars, dragging us forward in clumsy strokes until the keel scraped sand and I collapsed on the shore.
 
