@@ -21,4 +21,4 @@
 - [cucumber salad](/cookbook.html#cucumber)
 
 ### photos
-<img src="cookbook/photos/crab.jpeg" alt="crab" height="300">
+<img src="cookbook/photos/crab.jpeg" alt="crab" height="200">

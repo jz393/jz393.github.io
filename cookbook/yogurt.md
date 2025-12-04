@@ -15,4 +15,4 @@
 - I typically use blackberries and raspberries, as they are easy to prepare and low-GI.
 
 ### photos
-<img src="cookbook/photos/yogurt-bowl.jpeg" alt="yogurt bowl" height="300">
+<img src="cookbook/photos/yogurt-bowl.jpeg" alt="yogurt bowl" height="200">

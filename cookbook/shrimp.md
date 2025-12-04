@@ -22,4 +22,4 @@
 - I get my [shrimp](https://www.safeway.com/shop/product-details.970062637.html) from Safeway (it's often on sale).
 
 ### photos
-<img src="cookbook/photos/shrimp.jpeg" alt="grilled shrimp" height="300">
+<img src="cookbook/photos/shrimp.jpeg" alt="grilled shrimp" height="200">

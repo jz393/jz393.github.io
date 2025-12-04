@@ -32,5 +32,5 @@
 - asparagus and white mushrooms, sautéed with olive oil, black pepper, and garlic powder
 
 ### photos
-<img src="cookbook/photos/halibut.jpeg" alt="halibut" height="300">
-<!-- TODO: include veggies and change to 200-->
+<img src="cookbook/photos/halibut.jpeg" alt="halibut" height="200">
+<!-- TODO: include veggies-->

@@ -24,4 +24,4 @@
 - This usually serves as an additional meal for extra protein, rather than a standalone meal.
 
 ### photos
-<img src="cookbook/photos/mapo-tofu.jpeg" alt="mapo tofu" height="300">
+<img src="cookbook/photos/mapo-tofu.jpeg" alt="mapo tofu" height="200">

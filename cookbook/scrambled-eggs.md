@@ -25,4 +25,4 @@
 - [This](https://www.wholefoodsmarket.com/product/santa-barbara-smokehouse-smoked-atlantic-salmon-b07y9xgdkx) is the smoked salmon I use.
 
 ### photos
-<img src="cookbook/photos/scrambled-eggs.jpeg" alt="scrambled eggs" height="300">
+<img src="cookbook/photos/scrambled-eggs.jpeg" alt="scrambled eggs" height="200">
