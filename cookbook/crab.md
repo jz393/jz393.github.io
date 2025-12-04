@@ -11,10 +11,14 @@
 3. serve with soy sauce on the side
 
 ### notes
-- I like to get crabs from Safeway, when they're on sale during the season. You can ask them to crack them for you.
+- I like to get crabs from Safeway, when they're on sale during the season. 
 
+    - You can ask them to crack them for you.
     - Whole Foods works too, but I've found Safeway typically has better quality.
 - Sometimes we go crabbing for fresh crabs! (really time consuming though)
 
 ### serve with
 - [cucumber salad](/cookbook.html#cucumber)
+
+### photos
+<img src="cookbook/photos/crab.jpeg" alt="crab" height="300">

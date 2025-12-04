@@ -24,9 +24,11 @@
 6. bring to a boil and let simmer for ~5 min, or until everything is fully cooked (try not to overcook the seafood)
 7. season with salt to taste, cracked egg *(optional)*, and green onion *(optional)*
 
-
-
 ### notes
 - This is a traditionally Korean dish, called *soondubu jjigae*.
 - It's great for throwing together various seafood and shellfish at once! I used to make *cioppino*, but it was a bit too creamy/buttery for my dietary preferences.
 - You can get various frozen seafood in most Asian supermarkets (I typically use 99 Ranch or Weee!), or fresh seafood at Whole Foods if preferred.
+
+### photos
+<img src="cookbook/photos/seafood-tofu-pot.jpeg" alt="seafood tofu in pot" height="200">
+<img src="cookbook/photos/seafood-tofu-bowl.jpeg" alt="seafood tofu in bowl" height="200">

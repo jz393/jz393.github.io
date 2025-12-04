@@ -20,3 +20,6 @@
 ### notes
 - I like to remove the center of the tomatoes when preparing.
 - This usually serves as an additional meal for extra protein, rather than a standalone meal.
+
+### photos
+<img src="cookbook/photos/tomato-egg.jpeg" alt="tomato egg" height="300">

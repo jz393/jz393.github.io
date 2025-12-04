@@ -17,9 +17,18 @@
 
 ### notes
 - This is the typical Chinese/Cantonese style of steaming fish.
-- I get the fish from Whole Foods; you can ask them to gut/descale/clean and cut off the head/tail.
+- I get the fish from Whole Foods.
+
+    - You can ask them to gut/descale/clean and cut off the head/tail.
 - Sometimes I'll use a Chilean sea bass fillet instead.
 - I use this [electric steamer](https://www.amazon.com/dp/B089SG9D1F/ref=dp_iou_view_item?ie=UTF8&th=1) with the included tray.
 
 ### serve with
-- Chinese veggies (I typically use bok choy, pea leaves, or water spinach), sautéed with minced garlic and avocado oil
+- Chinese veggies, sautéed with minced garlic and avocado oil
+
+    - I typically use bok choy, pea leaves, or water spinach.
+
+### photos
+<img src="cookbook/photos/branzino.jpeg" alt="branzino" height="200">
+<img src="cookbook/photos/pea-leaves.jpeg" alt="pea leaves" height="200">
+<img src="cookbook/photos/bok-choy.jpeg" alt="bok choy" height="200">

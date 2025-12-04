@@ -19,3 +19,6 @@
 
 ### notes
 - You can get a 1 lb package of Persian cucumbers in most grocery stores. You can also use regular cucumbers, but I prefer them since they're easy to cut and don't have seeds.
+
+### photos
+<img src="cookbook/photos/cucumber.jpeg" alt="cucumber salad" height="300">

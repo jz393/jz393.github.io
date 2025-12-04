@@ -24,3 +24,7 @@
 ### serve with
 - [cucumber salad](/cookbook.html#cucumber)
 - avocado *(optional)*
+
+### photos
+<img src="cookbook/photos/salmon-1.jpeg" alt="salmon 1" height="200">
+<img src="cookbook/photos/salmon-2.jpeg" alt="salmon 2" height="200">

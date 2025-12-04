@@ -22,3 +22,6 @@
 ### notes
 - I typically get the ground pork from 99 Ranch.
 - This usually serves as an additional meal for extra protein, rather than a standalone meal.
+
+### photos
+<img src="cookbook/photos/mapo-tofu.jpeg" alt="mapo tofu" height="300">

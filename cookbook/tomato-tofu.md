@@ -16,8 +16,11 @@
 6. cut tofu into small (~1 in) cubes and place into pot after the broth comes to a boil
 7. add green onion and salt to taste
 
-
 ### notes
 - I like removing the center of the tomato and the stems from shiitake mushrooms when preparing.
 - I used to add eggs (instead of tofu) as this is a more common Chinese dish, but I wanted to find a way to increase protein while lowering dietary cholesterol.
 - I sometimes subsitute [dried seaweed](https://click.sayweee.com/en/grocery-near-me/lang-en/user-onboard/paid?forceSkuQueryReferer=74354&sData=74354&region_id=000001) for mushrooms.
+
+### photos
+<img src="cookbook/photos/tomato-tofu-pot.jpeg" alt="tomato tofu in pot" height="200">
+<img src="cookbook/photos/tomato-tofu-bowl.jpeg" alt="tomato tofu in bowl" height="200">

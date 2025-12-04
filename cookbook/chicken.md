@@ -26,3 +26,7 @@
 
 ### serve with
 - diced zucchini, red onion, and grape tomatoes sautéed with olive oil, black pepper, and garlic powder
+
+### photos
+<img src="cookbook/photos/chicken-thighs.jpeg" alt="chicken thighs" height="200">
+<img src="cookbook/photos/zucchini.jpeg" alt="zucchini" height="200">

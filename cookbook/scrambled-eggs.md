@@ -23,3 +23,6 @@
 - This is the fastest and laziest breakfast/brunch I could come up with that's relatively nutritious, high in protein, and low in carbs.
 - I like to use egg product (e.g., egg beaters) since it's faster and cholesterol and fat-free. However, real eggs provide a better nutritional profile, so use whatever's best for you.
 - [This](https://www.wholefoodsmarket.com/product/santa-barbara-smokehouse-smoked-atlantic-salmon-b07y9xgdkx) is the smoked salmon I use.
+
+### photos
+<img src="cookbook/photos/scrambled-eggs.jpeg" alt="scrambled eggs" height="300">

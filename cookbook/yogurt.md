@@ -13,3 +13,6 @@
 - This is my go-to whenever I'm craving something sweet!
 - It's a great pre-workout snack: high in protein & calcium and providing glucose for an energy boost.
 - I typically use blackberries and raspberries, as they are easy to prepare and low-GI.
+
+### photos
+<img src="cookbook/photos/yogurt-bowl.jpeg" alt="yogurt bowl" height="300">
