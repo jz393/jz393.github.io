@@ -1,28 +1,44 @@
 {
     "posts": [
         {
-            "title": "baked salmon",
+            "title": "roasted salmon",
             "file": "salmon.md"
         },
         {
-            "title": "baked halibut",
+            "title": "roasted halibut",
             "file": "halibut.md"
+        },
+        {
+            "title": "roasted chicken thighs",
+            "file": "chicken.md"
         },
         {
             "title": "steamed branzino",
             "file": "branzino.md"
         },
         {
-            "title": "baked chicken thighs",
-            "file": "chicken.md"
+            "title": "steamed crab",
+            "file": "crab.md"
+        },
+        {
+            "title": "spicy seafood tofu soup",
+            "file": "seafood-tofu.md"
         },
         {
             "title": "tomato tofu soup",
             "file": "tomato-tofu.md"
         },
         {
-            "title": "spicy seafood tofu soup",
-            "file": "seafood-tofu.md"
+            "title": "tomato egg stir-fry",
+            "file": "tomato-egg.md"
+        },
+        {
+            "title": "grilled shrimp",
+            "file": "shrimp.md"
+        },
+        {
+            "title": "mapo tofu",
+            "file": "mapo-tofu.md"
         },
         {
             "title": "cucumber salad",
