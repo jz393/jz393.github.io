@@ -29,7 +29,7 @@
             "file": "tomato-tofu.md"
         },
         {
-            "title": "tomato egg stir-fry",
+            "title": "tomato egg stir fry",
             "file": "tomato-egg.md"
         },
         {
@@ -39,6 +39,10 @@
         {
             "title": "mapo tofu",
             "file": "mapo-tofu.md"
+        },
+        {
+            "title": "pork bone broth",
+            "file": "pork-bone.md"
         },
         {
             "title": "cucumber salad",
