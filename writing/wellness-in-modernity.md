@@ -27,7 +27,7 @@ Eventually, I took another test and got a 6.0. Now this was the unequivocal pred
 
 I knew I had to make drastic lifestyle changes at this point. We couldn’t rely on outdoor dining anymore, unless I wanted to get a salad every time. I began researching healthier options and which nutrients to optimize. I landed on a mostly pescatarian, chicken-based diet (lean, non-red meats) and a relatively consistent breakfast of scrambled eggs and smoked salmon.
 
-I also had a phase where I obsessed over supplements, but I’ve found it easier (and cheaper) just to obtain most nutrients from actual food. The only supplements I take now are vitamin D in the morning and magnesium glycinate before bed, along with the occasional melatonin for sleep as needed.
+I also had a phase where I obsessed over supplements, but I’ve found it easier (and cheaper) just to obtain most nutrients from actual food. The only ones I take now are vitamin D in the morning and magnesium glycinate before bed, along with the occasional melatonin for sleep as needed.
 
 You can reference my [cookbook](https://zhangjane.com/cookbook).
 
