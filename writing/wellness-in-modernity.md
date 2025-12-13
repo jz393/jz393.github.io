@@ -90,7 +90,7 @@ Throughout my tech career and college days, I had constant back pain. I’m not 
 
 Now that I’m not hunched over a screen all day and getting more activity in, my back feels so much lighter. But instead of disappearing entirely, it seems that my pains have just moved to my feet.
 
-As mentioned earlier, it started when I became more physically active (with daily runs and/or walks), and became exacerbated during my hiking era. In particular, the soreness concentrates on the balls of my feet, where the arches are. Maybe my form isn’t that great, or I need better-fitting shoes. Or perhaps I’m just not used to this new standard of activity I’ve been placing on myself.
+As mentioned earlier, it started when I became more physically active (with daily runs and/or walks), and became exacerbated during my hiking era. In particular, the soreness concentrates on the arches of my feet. Maybe my form isn’t that great, or I need better-fitting shoes. Or perhaps I’m just not used to this new standard of activity I’ve been placing on myself.
 
 Aside from the foot pain, I regularly get muscle soreness from my workouts, which is to be expected. I try to prioritize getting enough protein, but sometimes it takes several days to fully recover, which throws off my weeklong exercise routine. Sometimes I try to power through it, but oftentimes it just makes everything worse. I guess there’s simply no free lunch; as the saying goes, *no pain, no gain*.
 
@@ -124,13 +124,13 @@ It’s helpful to be in the know, rather than being an ostrich burying its head 
 
 It doesn’t mean that we need (or should) be on all the time, constantly checking our health data and searching for ways to optimize our numbers. In fact, I think it’s healthy to take breaks and even opt out of the wearables/strict routines from time to time, for your mental sanity (unless you have diabetes and need the CGM). However, even just checking in from time to time is much better than nothing.
 
-Generally, if you feel the need to avoid something out of fear (like I did), it’s a red flag that something is wrong. You can only run away for so long.
+Generally, if you feel the need to avoid something out of fear (like I did), it’s a telltale sign that something is wrong. And you can only run away for so long.
 
 ## Conclusion
 It’s been quite the journey prioritizing health and fitness in the era of rapid technological advancement. Leaving an engineering career, I still face everyday challenges, just as I did at work—incremental changes, trial and error, constant troubleshooting.
 
 I am no stranger to cramming. I’ve historically relied on late-night sessions to prepare for exams, watching a whole semester’s worth of lectures in a week while I've zoned out in (or even skipped) the actual classes. Now, I need to make up for a quarter-century of blissful unawareness about my diet and activity.
 
-However, I can take comfort in knowing that my efforts will last, unlike the fleeting A in my algorithms course. There is no more important endeavor than my own health; it is the foundation for all of our other earthly endeavors.
+However, I can take comfort in knowing that my efforts will last this time, unlike the fleeting A in my algorithms course. There is no more important endeavor than my own health; it is the foundation for all of our other earthly endeavors.
 
 As I grocery shop with health in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree lights afterwards, I’m thankful to have found my new dedication to wellness. I now wake up each day, hopeful for a brighter, more sustainable future.
