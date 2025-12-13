@@ -92,7 +92,7 @@ Now that I’m not hunched over a screen all day and getting more activity in, m
 
 As mentioned earlier, it started when I became more physically active (with daily runs and/or walks), and became exacerbated during my hiking era. In particular, the soreness concentrates on the arches of my feet. Maybe my form isn’t that great, or I need better-fitting shoes. Or perhaps I’m just not used to this new standard of activity I’ve been placing on myself.
 
-Aside from the foot pain, I regularly get muscle soreness from my workouts, which is to be expected. I try to prioritize getting enough protein, but sometimes it takes several days to fully recover, which throws off my weeklong exercise routine. Sometimes I try to power through it, but oftentimes it just makes everything worse. I guess there’s simply no free lunch; as the saying goes, *no pain, no gain*.
+Aside from the foot pain, I regularly get muscle soreness from my workouts, which is to be expected. I try to prioritize getting enough protein, but sometimes it still takes several days to fully recover, which throws off my weeklong exercise routine. Sometimes I try to power through it, but oftentimes it just makes everything worse. I guess there’s simply no free lunch; as the saying goes, *no pain, no gain*.
 
 ### Too much information
 Back in the day, people only saw doctors when something was *wrong*. Or maybe they would get a routine checkup and part with general advice on how to improve their health (less sugar, more exercise, etc.).
