@@ -5,7 +5,7 @@ Recently, I committed to my health above all else. I’m not sure what exactly p
 ## Covering the bases
 Good things come in threes. Luckily, this includes our foundation for health: sleep, food, and exercise. 
 
-### Rest & recovery
+### Sleep
 Towards the end of my stint on Gemini, my sleep took the first hit. It all started the night before a big presentation, when I tossed and turned and slept for a handful of hours. The presentation thankfully went well, but a barrage of tasks kept me from relaxing afterwards. As a result, my sleep the next night suffered too. I don’t remember much more specifics, just that this led to a vicious cycle for around a month, and I eventually found myself unable to doze off for more than 1-2 hours a night.
 
 Through sheer discipline alone, I could usually force myself to eat (or not eat) something, perform a particular exercise, or complete one of the many tasks on my TODO list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying—I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
