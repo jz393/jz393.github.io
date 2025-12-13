@@ -115,7 +115,7 @@ At the end of the day, there are just some things we can’t control. For exampl
 
 This is quite unsettling for the discipline-minded folks who like to throw effort into a problem and guarantee a specific result. But like most things in life, health isn’t so straightforward. There are simply actions you can take to increase the success rate.
 
-Also, it’s essential not to be caught up in day-to-day ebbs and flows. Doing so will just drain your precious energy and lead to burnout. Don’t fixate on the endless data; just have faith in yourself that if you put in your best work, things will trend in the right direction over time. The long term is what matters, after all.
+Also, it’s essential not to be caught up in day-to-day ebbs and flows. Doing so will just drain your precious energy and lead to burnout. Don’t fixate on the endless data; just have faith in yourself that if you put in your best work, things will trend in the right direction over time.
 
 ### Ignorance is NOT bliss
 The “ignorance is bliss” saying is all too common, and might even be true a lot of the time. Digital media has exposed us to way too much information, probably beyond our ability to comprehend. But I don’t think it applies to something as precarious as health.
