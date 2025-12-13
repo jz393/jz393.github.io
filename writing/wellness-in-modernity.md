@@ -34,7 +34,7 @@ You can reference my [cookbook](https://zhangjane.com/cookbook).
 ### Fitness
 For context, I was terrible at sports and relatively inactive since I was a kid. I wish I could go back in time and undo the inactivity in my youth. Second-best option? Start now, in my mid-twenties.
 
-I started running at work, carving out hourly “gym” blocks on my calendar, primarily to help manage my glucose and cholesterol. It was very rough at first; I couldn’t even run for more than 2-3 minutes without getting out of breath. The last time I seriously ran was in middle school, for our Texas standarized fitness testing, which contained the benchmark of 16 minutes for one mile (4 laps). Back then, even that seemed impossible; I would constantly “cheat” by completing only three laps, and my time was still so horrendous that it seemed believable.
+I started running at work, carving out hourly “gym” blocks on my calendar, primarily to help manage my glucose and cholesterol. It was very rough at first; I couldn’t even run for more than 2-3 minutes without getting out of breath. The last time I seriously ran was in middle school, for our Texas standardized fitness testing, which contained the benchmark of 16 minutes for one mile (4 laps). Back then, even that seemed impossible; I would constantly “cheat” by completing only three laps, and my time was still so horrendous that it seemed believable.
 
 With enough sessions, I got better. I overcame the initial shin splints and bought myself a pair of HOKA shoes. I maintained a steady routine: trekking to the Google gym during breaks between afternoon meetings, changing into workout clothes, and running a mile straight on the treadmill while occasionally answering pings on my phone.
 
@@ -120,7 +120,7 @@ Also, it’s essential not to be caught up in day-to-day ebbs and flows. Doing s
 ### Ignorance is NOT bliss
 The “ignorance is bliss” saying is all too common, and might even be true a lot of the time. Digital media has exposed us to way too much information, probably beyond our ability to comprehend. But I don’t think it applies to something as precarious as health.
 
-It’s helpful to be in the know, rather than being an ostrich burying its head in the sand in the presence of danger. It was undoubtedly alarming to receive my suboptimal health panels, compared to the first 25 years of my life being blissfully unaware. But such a realization is inevitable, and the sooner you face it, the sooner you can overcome bad habits.
+It’s helpful to be in the know, rather than being an ostrich burying its head in the sand in the presence of danger. It was undoubtedly alarming to receive my suboptimal health panels, compared to the first 25 years of my life, being blissfully unaware. But such a realization is inevitable, and the sooner you face it, the sooner you can overcome bad habits.
 
 It doesn’t mean that we need (or should) be on all the time, constantly checking our health data and searching for ways to optimize our numbers. In fact, I think it’s healthy to take breaks and even opt out of the wearables/strict routines from time to time, for your mental sanity (unless you have diabetes and need the CGM). However, even just checking in from time to time is much better than nothing.
 
