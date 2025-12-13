@@ -99,7 +99,7 @@ Back in the day, people only saw doctors when something was *wrong*. Or maybe th
 
 Now I have three wearables, along with free Internet access and access to various health forums. This seems like it should help (and it does, for the most part), but having 24/7 access to all this information is sometimes draining.
 
-Instead of broadly following generic advice, we now have constant access to dozens of fine-grained metrics in real time. It feels like a déjà vu of high school, when life consisted purely of maximizing GPA and standardized test scores. Except this time, there are like 17 different metrics, and they don’t all align with one another. It’s like an intense game of whack-a-mole.
+Instead of broadly following generic advice, we now have constant access to dozens of fine-grained metrics in real time. It feels like a déjà vu of high school, when life consisted purely of maximizing GPA and standardized test scores. Except this time, there are like 17 different metrics, and they don’t all align with one another. It resembles an intense game of whack-a-mole.
 
 Plus, with so much content across many different media (AI, search, social media), it’s hard to reach a consensus on which metric matters most or the right path to get there. There are so many different recipes, articles, and perspectives. All you can really do is sift through the information and gradually find what works *for you* through trial and error.
 
