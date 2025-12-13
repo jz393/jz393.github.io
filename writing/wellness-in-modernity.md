@@ -19,7 +19,7 @@ In the months that followed, I left my job and found intentional ways to enjoy l
 ### Nutrition
 My first health panel flagged slight issues with glucose and cholesterol management. My A1C was 5.7, bordering on prediabetes. Now this wasn’t too surprising—I figured my weekly pastry haul, ice cream/boba adventures, and sweets at work wouldn’t be sustainable forever. I just thought I had a couple more years left.
 
-The first thing I did was cut out carbs entirely. Upon getting my labs back, the first thing I did was (sadly) clear my snack cabinet and freezer. I replaced my breakfast pastries with scrambled eggs. I swapped my jasmine rice for basmati and ate only a quarter of what I would typically have for dinner. Consequently, my dopamine levels nosedived, and I felt empty.
+The first thing I did was cut out carbs entirely. Upon getting my labs back, I (sadly) cleared my snack cabinet and freezer. I replaced my breakfast pastries with scrambled eggs. I swapped my jasmine rice for basmati and ate only a quarter of what I would typically have for dinner. Consequently, my dopamine levels nosedived, and I felt empty.
 
 This went on for a couple of months, but without the sugary reward system in place and my sleep getting worse, I just didn’t have the capacity to care anymore. I returned to my pastries to emotionally numb myself, but with some newfound guilt lingering in the back of my head.
 
