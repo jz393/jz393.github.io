@@ -14,7 +14,7 @@ Still, I downed the prescriptions each night an hour before midnight, and they r
 
 One evening, on a getaway to Napa, I lay down on our Airbnb bed and closed my eyes just for the fun of it. I’ll never forget the jarring imagery of a Medusa head with the face of Jesus. I jolted awake and sprinted around the cabin in delight, screaming with joy. I had a *dream* (and quite a strange one), which meant I finally slept (without having taken my nightly pill yet)! At that moment, I realized I was capable of sleeping, as long as I could find a way to relax.
 
-In the months that followed, I left my job and found intentional ways to enjoy life. My sleep gradually recovered, and I weaned myself off the pills. I wouldn’t say that it’s perfect, but it’s comparable to what it was before the whole fiasco. My wearables, described below, also lifted the mental load of meticulous sleep tracking. I don’t put too much pressure on myself to hit a perfect number each night; I now trust my body to get the rest it needs (usually between 7 and 9 hours) after each day's varied demands. As long as I have the energy to do what needs to be done, I don’t harp on it. And even if I don’t, I’ll just take a nap. It’s not like we had polysomnography or even clocks as hunters and gatherers; we simply rested whenever we needed to. 
+In the months that followed, I left my job and found intentional ways to enjoy life. My sleep gradually recovered, and I weaned myself off the pills. I wouldn’t say that it’s perfect, but it’s comparable to what it was before the whole fiasco. My wearables, described below, also lifted the mental load of meticulous sleep tracking. I don’t put too much pressure on myself to hit a perfect number each night; I now trust my body to get the rest it needs (usually 6.5-8.5 hours) after each day's varied demands. As long as I have the energy to do what needs to be done, I don’t harp on it. And even if I don’t, I’ll just take a nap. It’s not like we had polysomnography or even clocks as hunters and gatherers; we simply rested whenever we needed to. 
 
 ### Nutrition
 My first health panel flagged slight issues with glucose and cholesterol management. My A1C was 5.7, bordering on prediabetes. Now this wasn’t too surprising—I figured my weekly pastry haul, ice cream/boba adventures, and sweets at work wouldn’t be sustainable forever. I just thought I had a couple more years left.
@@ -29,7 +29,7 @@ I knew I had to make drastic lifestyle changes at this point. We couldn’t rely
 
 I also had a phase where I obsessed over supplements, but I’ve found it easier (and cheaper) just to obtain most nutrients from actual food. The only ones I take now are vitamin D in the morning and magnesium glycinate before bed, along with the occasional melatonin for sleep as needed.
 
-You can reference my [cookbook](https://zhangjane.com/cookbook).
+I don’t have formal A1C or cholesterol levels to report yet, but I will update when I achieve (hopefully significantly better) results. You can also reference my [cookbook](https://zhangjane.com/cookbook).
 
 ### Fitness
 For context, I was terrible at sports and relatively inactive since I was a kid. I wish I could go back in time and undo the inactivity in my youth. Second-best option? Start now, in my mid-twenties.
