@@ -51,7 +51,7 @@ As a result, I started to run in my local community park, aiming for the best of
 You can track my fitness stats [here](https://zhangjane.com/fitness).
 
 ## Leveraging the tech
-Alas, we live in a (tech-obsessed) society, and my health journey doesn’t exist in a vacuum. With so many modern options for tracking our wellness, I wonder if we even have an excuse not to be healthy these days. At the same time, with the constant influx of numbers and figures, it’s hard to know what to prioritize.
+Alas, we live in a (tech-obsessed) society, and my health journey doesn’t exist in a vacuum. With so many modern options for tracking our wellness, I wonder if we even have an excuse not to be healthy these days. At the same time, the constant influx of numbers and figures can make it difficult to focus.
 
 ### Apple Watch
 I received my first Apple Watch as a Christmas present in college. Back then, all I cared about was getting through my classes. I used it primarily to ping my phone, relieved I didn’t have to keep track of it anymore. Also, getting instant notifications on my wrist was nice, though often draining.
@@ -63,7 +63,7 @@ It was only recently that I started integrating my watch as a core tool in my he
 Perhaps the most helpful aspect is the workout-friendly UI. You can start a workout (choose from dozens of options) and track your progress and heart rate in real time. It’s been beneficial for pacing myself on runs, making sure I stay in the proper zone.
 
 ### Oura Ring
-Frustrated with my watch’s tendency to overcount my sleep, its interference with my z’s with the constant pinging, and the general fashion distaste (I don’t think I’ll ever be able to fully get rid of the tan), my eyes landed on OURA. I got the ring in gold to match my other jewelry—much more tasteful than a bulky watch!
+Frustrated with my watch’s tendency to overcount my sleep, the nightly interference with constant pinging, and general fashion distaste (I don’t think I’ll ever be able to fully get rid of the tan), my eyes landed on OURA. I got the ring in gold to match my other jewelry—much more tasteful than a bulky watch!
 
 Three months later, my ring has become a core part of my everyday routine. To my surprise, it isn’t invasive at all. I was between sizes and settled on the larger size. I now alternate between my left index finger and thumb, depending on how loose I want it. The health metrics are diverse and reasonably accurate. The app is sleek and efficient. I eagerly check it each morning and before bed.
 
