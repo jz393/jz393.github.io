@@ -29,7 +29,7 @@ I knew I had to make drastic lifestyle changes at this point. We couldn’t rely
 
 I also had a phase where I obsessed over supplements, but I’ve found it easier (and cheaper) just to obtain most nutrients from actual food. The only ones I take now are vitamin D in the morning and magnesium glycinate before bed, along with the occasional melatonin for sleep as needed.
 
-I don’t have the new A1C/cholesterol numbers yet, but I will update when I achieve (hopefully significantly better) results. You can also reference my [cookbook](https://zhangjane.com/cookbook).
+I don’t have new A1C/cholesterol values yet, but I'll update when I achieve (hopefully significantly better) results. You can also reference my [cookbook](https://zhangjane.com/cookbook).
 
 ### Fitness
 For context, I was terrible at sports and relatively inactive since I was a kid. I wish I could go back in time and undo the inactivity in my youth. Second-best option? Start now, in my mid-twenties.
