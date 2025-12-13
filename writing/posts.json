@@ -1,6 +1,11 @@
 {
     "posts": [
         {
+            "title": "Wellness in Modernity: My Health Journey",
+            "date": "2025-12-12",
+            "file": "wellness-in-modernity.md"
+        },
+        {
             "title": "A Renaissance in Shards",
             "date": "2025-11-22",
             "file": "a-renaissance-in-shards.md"
