@@ -131,6 +131,6 @@ It’s been quite the journey prioritizing health and fitness in the era of rapi
 
 I am no stranger to cramming. I’ve historically relied on late-night sessions to prepare for exams, watching a whole semester’s worth of lectures in a week while I've zoned out in (or even skipped) the actual classes. Now, I need to make up for a quarter-century of blissful unawareness about my diet and activity.
 
-However, I can take comfort in knowing that my efforts will last this time, unlike the fleeting A in my algorithms course. There is no more important endeavor than my own health; it is the foundation for all of our other earthly endeavors.
+However, I can take comfort in knowing that my efforts will last this time, unlike the fleeting A in my algorithms course. There is no more important pillar than health; it is the foundation for all of our other earthly endeavors.
 
-As I grocery shop with health in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree lights afterwards, I’m thankful to have found my new dedication to wellness. I now wake up each day, hopeful for a brighter, more sustainable future.
+As I grocery shop with these goals in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree lights afterwards, I’m thankful to have found a new dedication to wellness. I now wake up each day, hopeful for a brighter, more sustainable future.
