@@ -8,7 +8,7 @@ Good things come in threes. Luckily, this includes our foundation for health: sl
 ### Sleep
 Towards the end of my stint on Gemini, my sleep took the first hit. It all started the night before a big presentation, when I tossed and turned and slept for a handful of hours. The presentation thankfully went well, but a barrage of tasks kept me from relaxing afterwards. As a result, my sleep the next night suffered too. I don’t remember much more specifics, just that this led to a vicious cycle for around a month, and I eventually found myself unable to doze off for more than 1-2 hours a night.
 
-Through pure discipline alone, I could usually get myself to eat (or refrain from) something, perform a particular exercise, or complete one of the many tasks from my list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying—I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
+Through pure discipline alone, I could usually get myself to eat (or refrain from) something, perform a particular exercise, or complete one of the many tasks on my list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying—I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
 
 Still, I downed the prescriptions each night an hour before midnight, and they rationed me a measly few hours of shut-eye to face the grind of yet another day. I couldn’t even take naps, as I was psychologically reliant on the pills. Nothing seemed to work, and I felt unfixable.
 
@@ -133,4 +133,4 @@ I am no stranger to cramming. I’ve historically relied on late-night sessions 
 
 However, I can take comfort in knowing that my efforts will last this time, unlike the fleeting A in my algorithms course. There is no more important pillar than health; it is the foundation for all of our other earthly endeavors.
 
-As I grocery shop with these goals in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree lights afterwards, I’m thankful to have found a new dedication to wellness. I now wake up each day, hopeful for a brighter, more sustainable future.
+As I grocery shop with these goals in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree afterwards, I’m thankful to have found a new dedication to wellness. I now wake up each day, looking forward to a brighter, more sustainable future.
