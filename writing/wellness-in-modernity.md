@@ -8,7 +8,7 @@ Good things come in threes. Luckily, this includes our foundation for health: sl
 ### Sleep
 Towards the end of my stint on Gemini, my sleep took the first hit. It all started the night before a big presentation, when I tossed and turned and slept for a handful of hours. The presentation thankfully went well, but a barrage of tasks kept me from relaxing afterwards. As a result, my sleep the next night suffered too. I don’t remember much more specifics, just that this led to a vicious cycle for around a month, and I eventually found myself unable to doze off for more than 1-2 hours a night.
 
-Through pure discipline alone, I could usually force myself to eat (or not eat) something, perform a particular exercise, or complete one of the many tasks on my TODO list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying—I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
+Through pure discipline alone, I could usually force myself to eat (or refrain from) something, perform a particular exercise, or complete one of the many tasks on my TODO list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying—I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
 
 Still, I downed the prescriptions each night an hour before midnight, and they rationed me a measly few hours of shut-eye to face the grind of yet another day. I couldn’t even take naps, as I was psychologically reliant on the pills. Nothing seemed to work, and I felt unfixable.
 
@@ -25,7 +25,7 @@ This went on for a couple of months, but without the sugary reward system in pla
 
 Eventually, I took another test and got a 6.0. Now this was the unequivocal prediabetes range, and I was quickly heading towards the real thing. Additionally, I had forgotten entirely about the cholesterol issue; my first LDL was 108—again, borderline unhealthy but not too extreme. However, in my carb-management journey, I quickly began substituting butter for sugar for my dopamine hit. My next LDL reading was 131, and my total and non-HDL cholesterol levels were now out of range as well.
 
-I knew I had to make drastic lifestyle changes at this point. We couldn’t rely on outdoor dining anymore, unless I wanted to get a salad every time. I began researching healthier options and which nutrients to optimize. I landed on a mostly pescatarian, chicken-based diet (lean, non-red meats) and a relatively consistent breakfast of scrambled eggs and smoked salmon.
+I knew I had to make drastic lifestyle changes at this point. We couldn’t rely on outdoor dining anymore, unless I wanted to get a salad every time. I began researching healthier options and which nutrients to optimize. I landed on a mostly pescatarian and chicken-based diet (lean, non-red meats) and a relatively consistent breakfast of scrambled eggs and smoked salmon.
 
 I also had a phase where I obsessed over supplements, but I’ve found it easier (and cheaper) just to obtain most nutrients from actual food. The only ones I take now are vitamin D in the morning and magnesium glycinate before bed, along with the occasional melatonin for sleep as needed.
 
@@ -46,7 +46,7 @@ I must admit, though, going to the gym every day was really boring. The place is
 
 For several weeks, hiking at the Dish became the extent of my exercise routine. Unfortunately, the constant uphill climb and the lack of concentrated cardio brought some setbacks. My baseline glucose levels rose significantly without a change in diet, and my VO2max scores tanked. My feet also started to hurt all the time.
 
-As a result, I started to run in my local community park, aiming for the best of both worlds (no lengthy traffic, plus exposure to the outdoors). With shorter but more concentrated and consistent exercise, my VO2max/glucose/foot pain have normalized again over the course of a month. I still go to the gym 1-2 times a week for strength training (and if it gets too dark for me to exercise). I also don’t have any specific fitness goals beyond being healthy (rather than aiming for particular PRs), so my routine is more flexible than one might expect. 
+As a result, I started to run in my local community park, aiming for the best of both worlds (no lengthy traffic, plus exposure to the outdoors). With shorter but more concentrated and consistent exercise, my VO2max/glucose/pains have normalized again within a month. I still go to the gym 1-2 times a week for strength training (and if it gets too dark). I also don’t have any specific fitness goals beyond being healthy, rather than aiming for particular PRs, so my routine is more flexible than one might expect. 
 
 You can track my fitness stats [here](https://zhangjane.com/fitness).
 
@@ -120,7 +120,7 @@ Also, it’s essential not to be caught up in day-to-day ebbs and flows. Doing s
 ### Ignorance is NOT bliss
 The “ignorance is bliss” saying is all too common, and might even be true a lot of the time. Digital media has exposed us to way too much information, probably beyond our ability to comprehend. But I don’t think it applies to something as precarious as health.
 
-It’s helpful to be in the know, rather than being an ostrich burying its head in the sand in the presence of danger. It was undoubtedly alarming to receive my suboptimal health panels, compared to the first 25 years of my life, being blissfully unaware. But such a realization is inevitable, and the sooner you face it, the sooner you can overcome bad habits.
+It’s helpful to be in the know, rather than being an ostrich burying its head in the sand in the presence of danger. It was undoubtedly alarming to receive my suboptimal health panels, compared to the first 25 years of blissful unawareness. But such a realization is inevitable, and the sooner you face it, the sooner you can overcome bad habits.
 
 It doesn’t mean that we need (or should) be on all the time, constantly checking our health data and searching for ways to optimize our numbers. In fact, I think it’s healthy to take breaks and even opt out of the wearables/strict routines from time to time, for your mental sanity (unless you have diabetes and need the CGM). However, even just checking in from time to time is much better than nothing.
 
