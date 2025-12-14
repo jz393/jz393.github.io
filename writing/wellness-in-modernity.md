@@ -133,4 +133,4 @@ I am no stranger to cramming. I’ve historically relied on late-night sessions 
 
 However, I can take comfort in knowing that my efforts will last this time, unlike the fleeting A in my algorithms course. There is no more important pillar than health; it is the foundation for all of our other earthly endeavors.
 
-As I grocery shop with these goals in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree afterwards, I’m thankful to have found a new dedication to wellness. I now wake up each day, looking forward to a brighter, more sustainable future.
+As I grocery shop with these goals in mind, prepare each meal from scratch, and cozy up under the warm glow of the Christmas tree afterwards, I’m thankful to have found a new dedication to wellness. I now wake up each day looking forward to a brighter, more sustainable future.
