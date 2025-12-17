@@ -18,4 +18,4 @@ I’m glad you can go on without me, though I am still learning how to do so mys
 
 I now write poetry about you, and remnants of a lost love naturally sneak into conversations with others—even those who never had the fortune of knowing you. Our inside jokes and your distinctive vernacular still live inside me, shaping how I see the world. 
 
-That said, thank you for everything. I will never forget our shared moments or the stories you told. I’m not sure if the eventual outcome was fate, timing, or both; it’s a frivolous cause to discern the difference. I hope you’ll remember me as well, and maybe someday, our paths will cross again.
+That said, thank you for everything. I will never forget our shared moments or the stories you told. I’m not sure if the eventual outcome was fate, timing, or both; it’s a frivolous cause to discern the difference now. I hope you’ll remember me as well, and maybe someday, our paths will cross again.
