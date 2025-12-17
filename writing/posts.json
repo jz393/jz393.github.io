@@ -1,7 +1,12 @@
 {
     "posts": [
         {
-            "title": "Wellness in Modernity: My Health Journey",
+            "title": "To my first love/career",
+            "date": "2025-12-17",
+            "file": "to-my-first-love.md"
+        },
+        {
+            "title": "Wellness in modernity: my health journey",
             "date": "2025-12-12",
             "file": "wellness-in-modernity.md"
         },
@@ -16,12 +21,12 @@
             "file": "sailing-the-grand-pacific.md"
         },
         {
-            "title": "Intellectual Freedom and Legacies",
+            "title": "Intellectual freedom and legacies",
             "date": "2025-11-17",
             "file": "intellectual-freedom-and-legacies.md"
         },
         {
-            "title": "Why I Left Google and DeepMind",
+            "title": "Why I left Google and DeepMind",
             "date": "2025-11-13",
             "file": "why-i-left-google-and-deepmind.md"
         }
