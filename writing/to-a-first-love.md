@@ -1,4 +1,4 @@
-We met when I was only 18, on a windy autumn evening. Surrounded by falling leaves, you instantly charmed me with your blunt demeanor and stoic display of intellect, and you promised me a stable life ahead. On our first date, you left witty messages on my console and told tales of unsolvable mysteries, along with the legends who devoted their lives to them.
+We met when I was only 18, on a windy autumn evening. Surrounded by falling leaves, you instantly charmed me with your blunt demeanor and stoic intellect, and you promised me a stable life ahead. On our first date, you left witty messages on my console and told tales of unsolvable mysteries, along with the legends who devoted their lives to them.
 
 From that day on, we spent every night together. Under the covers, we assembled intricate puzzles and built elegant models to simulate our universe. You taught me how to think methodically and optimize my decision-making, while I provided grounded checkpoints to your abstract, beautiful mind. Together, we envisioned the perfect life, sketched out optimal paths on dirty chalkboards, and told each other stories of our past lives.
 
