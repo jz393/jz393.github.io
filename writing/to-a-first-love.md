@@ -4,7 +4,7 @@ From that day on, we spent every night together. Under the covers, we assembled 
 
 One day, we decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods; we cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to marvel at nature's creations, growing closer with each twist and turn.
 
-We arrived in San Francisco, the city of dreams. The town stood in stark contrast to our traditional New England ways. We learned to assimilate, trading our wool coats and shawls for Patagonia jackets and T-shirts. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street—every night, we gazed down at the traffic, the bright lights symbolizing future prosperity.
+We arrived in San Francisco, the city of dreams. The town stood in stark contrast to our traditional New England ways. We learned to assimilate, trading our wool coats and shawls for Patagonia jackets and baseball caps. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street—every night, we gazed down at the traffic, the bright lights symbolizing future prosperity.
 
 Our paths began to subtly diverge. While you insisted on pursuing AGI at all costs, I sought marriage and a family. We both wanted to support each other’s dreams, but the environment gradually became too hostile for me to retain the initial naivety that the two could truly coexist. Nonetheless, you tried to convince me that everything would be fine, but I could detect the ever-so-slight doubt in your voice. Instead of mutual reassurance, we found ourselves in screaming matches day after day.
 
