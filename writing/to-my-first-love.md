@@ -2,7 +2,7 @@ We met when I was only 18, on a windy autumn evening. Surrounded by falling leav
 
 From that day on, we spent every night together. Under the covers, we completed intricate puzzles and built elegant models to simulate our universe. You taught me how to think methodically and optimize my decision-making, while I provided grounded checkpoints to your abstract, beautiful mind. Together, we envisioned the perfect life, sketched out optimal paths on dirty chalkboards, and told each other stories of our past lives.
 
-One day, we decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods; we cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to marvel at nature's creations, growing closer with each twist and turn.
+We decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods; we cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to marvel at nature's creations, growing closer with each twist and turn.
 
 We arrived in San Francisco, the city of dreams. The town stood in stark contrast to our traditional New England ways. We learned to assimilate, trading our wool coats and shawls for Patagonia jackets and baseball caps. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street. Right after sunset, we would gaze down at the bustling traffic, the bright lights symbolizing future prosperity.
 
