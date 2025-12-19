@@ -1,6 +1,6 @@
-<!-- 12/18/25: NO MORE CHANGES -->
+<!-- 12/19/25: NO MORE CHANGES -->
 
-We met in autumn, when you charmed me with your blunt intellect among the falling leaves and Gothic chapels. On our first date, you left abstract messages on my console and stood on unsolvable proofs. Eighteen and impressionable, I couldn't help but fall for you. You promised me a stable life ahead, as long as I took your hand.
+Eighteen and impressionable, I couldn't help but fall for you. We met in autumn, when you charmed me with your blunt intellect among the falling leaves and Gothic chapels. On our first date, you left abstract messages on my console and stood on unsolvable proofs. You promised me a stable life ahead, as long as I took your hand.
 
 From that day on, we spent every night together. Under the covers, we solved puzzles and modeled the universe. You taught me to think methodically to find optimal paths in life. Meanwhile, I provided the grounded checkpoints for your beautiful mind. Together, we envisioned our ideal future, compared drunken stories of past lives, and sketched odd-looking graphs on dirty chalkboards until dawn appeared. Suddenly I didn't need coffee anymore; having you around was more than enough.
 
