@@ -1,6 +1,6 @@
 <!-- 12/19/25: NO MORE CHANGES -->
 
-Eighteen and impressionable, I couldn't help but fall for you. We met in autumn, when you charmed me with your blunt, stoic intellect among bright colors and Gothic chapels. On our first date, you left abstract messages on my console and stood on unsolvable proofs. You promised me both stability and prosperity, as long as I took your hand.
+Eighteen yet invincible, I couldn't help but fall for you. We met in autumn, when you charmed me with your blunt, stoic intellect among bright colors and Gothic chapels. On our first date, you left abstract messages on my console and stood on unsolvable proofs. You promised me both stability and prosperity, as long as I took your hand.
 
 From that day on, we spent every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, compared drunken stories of past lives, and sketched odd-looking graphs on dirty chalkboards in empty halls until dawn appeared. I didn't need coffee or sleep; I only needed you.
 
