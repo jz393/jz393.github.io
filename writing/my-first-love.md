@@ -2,7 +2,7 @@
 
 We met when I was 18, on a windy autumn evening. Surrounded by falling leaves, you instantly charmed me with your blunt and stoic intellect, and you promised me a stable life ahead. On our first date, you left witty messages on my console and recounted unsolvable mysteries.
 
-Since that day, we spent every night together. Under the covers, we solved puzzles and built models to imitate our universe. You taught me how to think methodically and optimize my life, while I provided grounded checkpoints to your abstract, beautiful mind. Together, we envisioned an ideal future, shared stories of our past lives, and sketched out odd-looking graphs on dirty chalkboards inside empty halls until dawn appeared. I didn't need coffee anymore; having you was enough.
+Since that day, we spent every night together. Under the covers, we solved puzzles and built models to imitate our universe. You taught me how to think methodically and optimize my life, while I provided grounded checkpoints to your abstract, beautiful mind. Together, we envisioned an ideal future, shared stories of our past lives, and sketched out odd-looking graphs on dirty chalkboards inside empty halls until dawn appeared. Suddenly I didn't need coffee anymore; having you was enough.
 
 We decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods. We cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to admire nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
 
