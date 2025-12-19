@@ -2,9 +2,9 @@
 
 We met when I was 18, on a windy autumn evening. Surrounded by falling leaves, you instantly charmed me with your blunt and stoic intellect, and you promised me a stable life ahead. On our first date, you left witty messages on my console and recounted unsolvable mysteries.
 
-Since that day, we spent every night together. Under the covers, we solved puzzles and built models to imitate our universe. You taught me how to think methodically and optimize my life, while I provided grounded checkpoints to your abstract, beautiful mind. Together, we envisioned an ideal future, sketched out optimal paths on dirty chalkboards, and shared stories of our past lives.
+Since that day, we spent every night together. Under the covers, we solved puzzles and built models to imitate our universe. You taught me how to think methodically and optimize my life, while I provided grounded checkpoints to your abstract, beautiful mind. Together, we envisioned an ideal future, shared stories of our past lives, and sketched out odd-looking graphs on dirty chalkboards inside empty halls until dawn appeared. I didn't need coffee anymore; having you was enough.
 
-We decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods; we cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to admire nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
+We decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods. We cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to admire nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
 
 We arrived in San Francisco and quickly left behind our New England customs, trading wool coats for Patagonia jackets and baseball caps. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street. Each evening, we would peer down at the never-ending traffic, the bright lights representing future prosperity.
 
@@ -18,4 +18,4 @@ Eventually, time brought more distance. Still, others would constantly update me
 
 I’m glad you can go on without me, though I am still learning how to do so myself. I understand now that I should not regret you and that I cannot erase you. Admittedly, I'm ashamed I exhausted myself trying. I told myself I was more than our relationship, but even so, you remain a part of me. Our little jokes and your distinctive vernacular reside in me. I write poetry with you in mind, and your traces subconsciously sneak into everyday conversations. Also, I still have the gray hoodie you gave me right before we parted ways, and I can’t get myself to wear it or throw it away. I’m not sure if our eventual outcome was fate, timing, or both, but it’s frivolous to discern the difference now. All I can hope is that you will remember me too, and maybe someday, we will meet again.
 
-*Thank you for everything. Not only were you my first career; you were my first love.*
+*Thank you for everything. Not only were you my first career—you were my first love.*
