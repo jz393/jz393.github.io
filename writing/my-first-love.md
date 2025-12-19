@@ -2,7 +2,7 @@
 
 Eighteen and impressionable, I couldn't help but fall for you. We met in autumn, when you charmed me with your blunt, stoic intellect among bright colors and Gothic chapels. On our first date, you left abstract messages on my console and stood on unsolvable proofs. You promised me both stability and prosperity, as long as I took your hand.
 
-From that day on, we spent every night together. Under the covers, we solved puzzles and modeled the universe. You taught me to think methodically to find the optimal paths in life. Meanwhile, I provided grounded checkpoints for your beautiful mind. Together, we envisioned our ideal future, compared drunken stories of past lives, and sketched odd-looking graphs on dirty chalkboards until dawn appeared. I didn't need coffee or sleep; I only needed you.
+From that day on, we spent every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to think methodically and to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, compared drunken stories of past lives, and sketched odd-looking graphs on dirty chalkboards until dawn appeared. I didn't need coffee or sleep; I only needed you.
 
 We decided to pack our belongings and make the trip out west, covering one sea to the other. We braved wildfires, thunderstorms, and floods. We cautiously steered across formidable mountains and sandy deserts. At the same time, we often paused to take in nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
 
