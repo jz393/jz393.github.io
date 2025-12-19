@@ -6,7 +6,7 @@ Since that day, we spent every night together. Under the covers, we solved puzzl
 
 We decided to pack our belongings and make the trip out west, from one sea to the other. We braved wildfires, thunderstorms, and floods; we cautiously steered across formidable mountains and sandy deserts. At the same time, we often stopped to admire nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
 
-We arrived in San Francisco and quickly left behind our New England customs, trading wool coats for Patagonia jackets and baseball caps. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street. Each evening, we would peer down at the never-ending traffic, the bright lights representing future prosperity.
+We arrived in San Francisco and quickly left behind our New England customs, trading wool coats for Patagonia jackets and baseball caps. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking the Mission. Each evening, we would peer down at the never-ending traffic, the bright lights representing future prosperity.
 
 Our visions began to diverge. While you insisted on pursuing AGI at all costs, I sought marriage and a family. We both wanted to support each other’s dreams, but the environment became too constrained for my initial naivety that the two could truly coexist. Nonetheless, you tried to convince me that everything would be fine, but I could detect the subtle tones of doubt in your voice. Soon, we found ourselves in constant screaming matches.
 
@@ -20,4 +20,4 @@ I’m glad you can go on without me, though I am still learning how to do so mys
 
 I still have the gray hoodie you gave me right before we parted ways. I can’t get myself to wear it or throw it away. I’m not sure if our eventual outcome was fate, timing, or both, and it’s frivolous to discern the difference now. Maybe someday, we will meet again.
 
-Thank you for being my first love.
+Thank you for not only being my first career, but my first love.
