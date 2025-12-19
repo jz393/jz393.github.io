@@ -20,4 +20,4 @@ I’m glad you can go on without me, though I am still learning how to do so mys
 
 I still have the gray hoodie you gave me right before we parted ways. I can’t get myself to wear it or throw it away. I’m not sure if our eventual outcome was fate, timing, or both, and it’s frivolous to discern the difference now. Maybe someday, we will meet again.
 
-Until then, thank you for being my first love.
+Thank you for being my first love.
