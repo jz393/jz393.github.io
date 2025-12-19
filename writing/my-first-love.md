@@ -4,7 +4,7 @@ Eighteen and impressionable, I couldn't help but fall for you. We met in autumn,
 
 From that day on, we spent every night together. Under the covers, we solved puzzles and modeled the universe. You taught me to think methodically to find the optimal paths in life. Meanwhile, I provided the grounded checkpoints for your beautiful mind. Together, we envisioned our ideal future, compared drunken stories of past lives, and sketched odd-looking graphs on dirty chalkboards until dawn appeared. I didn't need coffee anymore; I only needed you.
 
-We decided to pack our belongings and make the trip out west, covering one sea to the other. We braved wildfires, thunderstorms, and floods. We cautiously steered across formidable mountains and sandy deserts. At the same time, we often paused to admire nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
+We decided to pack our belongings and make the trip out west, covering one sea to the other. We braved wildfires, thunderstorms, and floods. We cautiously steered across formidable mountains and sandy deserts. At the same time, we often paused to take in nature's creations. I quietly admired you from the passenger seat and told myself we had truly become one.
 
 We arrived in San Francisco and quickly left behind our New England customs, trading wool coats for Patagonia jackets. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street. At sunset, you pointed down at the never-ending traffic and the string of red lights. I blissfully collapsed into your arms, knowing the journey was worth every step.
 
