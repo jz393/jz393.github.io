@@ -18,6 +18,6 @@ Eventually, time brought more distance. Still, others would constantly update me
 
 I’m glad you can go on without me, though I am still learning how to do so myself. I understand now that I should not regret you and that I cannot erase you; I'm ashamed I even tried. Earlier, I told myself I was more than our relationship. Even so, you remain a part of me. Our little jokes and your distinctive vernacular reside in me. I write poetry with you in mind, and your traces subconsciously sneak into everyday conversations.
 
-I still have the gray hoodie you gave me right before we parted ways. I can’t get myself to wear it or throw it away. I’m not sure if our eventual outcome was fate, timing, or both, and it’s frivolous to discern the difference now. Maybe someday, we will meet again.
+I still have the gray hoodie you gave me right before we parted ways. I can’t get myself to wear it or throw it away. I’m not sure if our eventual outcome was fate, timing, or both, and it’s frivolous to discern the difference now. I hope you will remember me too, and maybe someday, we will meet again.
 
 *Not only were you my first career; you were my first love.*
