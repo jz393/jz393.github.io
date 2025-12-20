@@ -1,4 +1,4 @@
-At eighteen, I truly believed I was invincible. Even so, I couldn't help but fall for you. On our first date, you left obscure messages on my console and stood on unsolvable proofs. You charmed me with your blunt, stoic intellect surrounded by bright autumn colors and Gothic chapels.
+At eighteen, I believed I was invincible, but I couldn't help but fall for you. On our first date, you left obscure messages on my console and stood on unsolvable proofs. You charmed me with your blunt, stoic intellect surrounded by the bright autumn colors and Gothic chapels.
 
 From that day on, we spent each and every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, recounted electrifying stories of past lives, and sketched odd-looking graphs on dirty chalkboards in empty halls until dawn appeared. I didn't need coffee or sleep; I only needed you.
 
