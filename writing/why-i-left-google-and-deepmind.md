@@ -1,5 +1,3 @@
-<!-- 12/02/25: NO MORE CHANGES -->
-
 I'm Jane, a former software and machine learning engineer at [Google](https://about.google/) and [DeepMind](https://deepmind.google/). After a total of 4 years at Alphabet, along with two internships during college, I decided to leave this past summer. In the following sections, I'll talk more about my background, some pros and cons of Google and DeepMind, why I left, and my next steps. Thanks to Deedy's [post](https://debarghyadas.com/writes/why-i-left-google/) for structural inspiration.
 
 ## My time at Google
