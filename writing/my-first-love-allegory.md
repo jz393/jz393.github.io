@@ -1,6 +1,6 @@
 <span style="color:var(--muted);font-size:0.8em;">
   <cite>
-  Disclaimer: This is a purely fictional allegory that broadly personifies the author’s career and depicts an identity-shattering collapse following a sudden yet intentional abandonment. It is neither a healthy portrayal of love nor a representation of her (human) relational experiences. Formal <a href="https://zhangjane.com/writing#my-first-love-postmortem">analysis</a> to follow.
+  Disclaimer: This is a purely fictional allegory that broadly personifies the author’s profession and depicts an identity-shattering collapse following a sudden yet intentional abandonment. It is neither a healthy portrayal of love nor a representation of her (human) relational experiences. Formal <a href="https://zhangjane.com/writing#my-first-love-postmortem">analysis</a> to follow.
   </cite>
 </span>
 
