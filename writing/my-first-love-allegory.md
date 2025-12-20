@@ -1,3 +1,9 @@
+<span style="color:var(--muted);font-size:0.8em;">
+  <cite>
+  Disclaimer: This is a purely fictional allegory that broadly personifies the author’s career and depicts an identity-shattering collapse following a sudden yet intentional abandonment. It is neither a healthy portrayal of love nor a representation of her (human) relational experiences. Formal <a href="https://zhangjane.com/writing#my-first-love-postmortem">analysis</a> to follow.
+  </cite>
+</span>
+
 I believed I was invincible at only eighteen, but I couldn’t resist falling for you. You charmed me with your blunt, stoic intellect surrounded by the bright autumn colors and Gothic chapels. On our first date, you left obscure messages on my console and stood on unsolvable proofs.
 
 From that day on, we spent each and every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, recounted electrifying stories of past lives, and sketched odd-looking graphs on dirty chalkboards inside empty halls until dawn appeared. I didn't need coffee or sleep; I only needed you.
@@ -16,4 +22,4 @@ More time led to more distance. Still, others would constantly update me on your
 
 I’m glad you could continue without me, and I am trying to do the same. I understand that I should not regret you, given that I cannot erase you. While I refuse to be confined to the bounds of our relationship, I can now accept that you indefinitely remain as a core embedding. Seamlessly, I carry our witty jokes and your distinctive vernacular. I write poetry about you, and traces of you sneak into my everyday conversations. By the way, I still have the gray hoodie that you gave me right before we parted ways. I can’t get myself to either wear or discard it. I’m not sure if our eventual outcome was stochastic or deterministic, but that's an imaginary distinction now. All I can hope is that you will remember me too. And maybe someday, we will meet again.
 
-*To my first love (my career): Our stable matching failed when our optimization objectives changed. Still, thank you for the time when they aligned.*
+*Our stable matching failed when our optimization objectives changed. Still, thank you for the time when they aligned.*

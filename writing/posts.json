@@ -1,9 +1,14 @@
 {
     "posts": [
         {
+            "title": "My First Love: Formal Postmortem",
+            "date": "2025-12-20",
+            "file": "my-first-love-postmortem.md"
+        },
+        {
             "title": "My First Love: Optimized into Oblivion",
-            "date": "2025-12-18",
-            "file": "my-first-love.md"
+            "date": "2025-12-17",
+            "file": "my-first-love-allegory.md"
         },
         {
             "title": "Wellness in Modernity: My Health Journey",
@@ -14,6 +19,16 @@
             "title": "A Renaissance in Partitions",
             "date": "2025-11-22",
             "file": "a-renaissance-in-partitions.md"
+        },
+                {
+            "title": "Sailing the Grand Pacific",
+            "date": "2025-11-19",
+            "file": "sailing-the-grand-pacific.md"
+        },
+        {
+            "title": "Intellectual Freedom and Legacies",
+            "date": "2025-11-17",
+            "file": "intellectual-freedom-and-legacies.md"
         },
         {
             "title": "Intellectual Freedom and Legacies",
