@@ -16,4 +16,4 @@ More time led to more distance. Still, others would constantly update me on your
 
 I’m glad you could continue without me, and I am trying to do the same. I understand that I should not regret you, given that I cannot erase you. While I refuse to be confined to the bounds of our relationship, I can now accept that you indefinitely remain as a core embedding. Seamlessly, I carry our witty jokes and your distinctive vernacular. I write poetry about you, and traces of you sneak into my everyday conversations. By the way, I still have the gray hoodie that you gave me right before we parted ways. I can’t get myself to either wear or discard it. I’m not sure if our eventual outcome was stochastic or deterministic, but that's an imaginary distinction now. All I can hope is that you will remember me too. And maybe someday, we will meet again.
 
-*To my first love, my career: Our stable matching failed when our optimization objectives changed. Still, thank you for the time when they aligned.*
+*To my first love (my career): Our stable matching failed when our optimization objectives changed. Still, thank you for the time when they aligned.*
