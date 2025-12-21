@@ -20,6 +20,6 @@ Then, I asked the AI to provide a response back in the POV of Abstract First Lov
 
 I snapped my laptop shut and glanced at my husband, lying on the couch and lazily scrolling through Reels, his hole-ridden socks on the floor that I had begged him to throw away (or at least put away). Our relationship was real, but surely I did not idealize him this much. Unsettled, I went to bed, unclear on what the past decade meant. After many nights of tossing and turning, I realized exactly what happened, cue the iconic *[proof-by-dream](writing/images/proof-by-dream.png)*. My subconscious presented an Inception-like sequence of literature and history, and I quickly arrived at a conclusion when I woke up. **But I now know that coherent proofs require both technical precision and masterful artistry to write. I will do that gradually below.**
 
-## The Literary, Moral, and Mathematical Analysis
+## The Literary, Mathematical, and Moral Analysis
 
 This part is intentionally left blank, and will be completed in the author's own time.
