@@ -1,6 +1,6 @@
 Recently, I committed to my health above all else. I’m not sure what exactly prompted this—maybe the existential dread I felt on my 25th birthday, the classic marker for the quarter-life crisis, or simply the heartache of seeing brilliant colleagues place career advancement above well-being. Or perhaps it was the sheer horror I experienced after getting married, when I realized I would probably have biological kids one day (and therefore be the one responsible for carrying & delivering them).
 
-[Leaving my 9-5 behind](https://zhangjane.com/writing#why-i-left-google-and-deepmind), I took on a singular mission to focus on my well-being. It has been about 5 months now, and I will document my progress so far.
+[Leaving my 9-5 behind](https://zhangjane.com/writing#1-why-i-left-google-and-deepmind), I took on a singular mission to focus on my well-being. It has been about 5 months now, and I will document my progress so far.
 
 ## Covering the bases
 Good things come in threes. Luckily, this includes our foundation for health: sleep, food, and exercise. 
