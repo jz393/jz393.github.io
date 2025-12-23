@@ -19,8 +19,8 @@ we decided to part ways
 i told you i received a call  
 i left and never looked back  
 
-i met someone else  
 thousands of miles away  
+i met someone else  
 still, i remembered you occasionally  
 in ancient libraries under decaying books  
 
