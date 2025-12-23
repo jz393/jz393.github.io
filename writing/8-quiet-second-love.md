@@ -19,8 +19,8 @@ not wanting a Shakespearean tragedy
 we decided to part ways  
 i left and never looked back  
 
+i met someone else  
 thousands of miles away  
-i got with someone else  
 still, i remembered you occasionally  
 in ancient libraries under decaying books  
 
