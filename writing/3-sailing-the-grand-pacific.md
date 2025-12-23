@@ -12,7 +12,7 @@ At last, some lifeboats emerged, giving me a glimmer of hope. I braced myself to
 
 I decided to stay, watching my beloved vessel yield to the forces of nature. Day after day, we drifted in the dark. The boards groaned in apology, and my resolve gradually morphed into dull resignation. I lay flat on the deck with my eyes shut, ready to submit to fate.
 
-Between flashes of lightning, I opened my eyes and glimpsed a shadow on the horizon—a small island. I didn’t know if we could make it. With the rigging in tatters, I leaned over to the side and used my arms as oars, dragging us forward in clumsy strokes until the keel scraped sand and I collapsed on the shore.
+Between flashes of lightning, I opened my eyes and glimpsed a shadow on the horizon. I didn’t know if we could make it. With the rigging in tatters, I leaned over to the side and used my arms as oars, dragging us forward in clumsy strokes until the keel scraped sand and I collapsed on the shore.
 
 I made a bed from fallen palm leaves beneath a canopy of trees. Sleep came in broken pieces; even on solid ground, I still felt the sea crashing beneath me, the echo of waves rattling through my bones. After several lifetimes of half-dreams, I finally woke to a warm glow of sunlight cutting through the leaves above.
 
