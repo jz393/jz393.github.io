@@ -24,8 +24,8 @@ thousands of miles away
 still, i remembered you occasionally  
 in ancient libraries under decaying books  
 
-my first destroyed me  
 nearly a decade later  
+my first destroyed me  
 ashes and embers in my hair  
 i believed i would never breathe again  
 
