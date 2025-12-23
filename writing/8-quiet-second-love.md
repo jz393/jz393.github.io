@@ -19,18 +19,18 @@ not wanting a Shakespearean tragedy
 we decided to part ways  
 i left and never looked back  
 
-i got with someone else  
 thousands of miles away  
+i got with someone else  
 still, i remembered you occasionally  
 in ancient libraries under decaying books  
 
-nearly a decade later  
 my first destroyed me  
+nearly a decade later  
 ashes and embers in my hair  
 i believed i would never breathe again  
 
-after months of mindless distractions  
 empty thoughts, empty ambitions  
+months of mindless distractions  
 aimlessly wandering town again  
 i noticed you in a small cafe  
 
@@ -46,7 +46,7 @@ cycles of stories and sketches
 
 maybe we’ll be Romeo and Juliet forever  
 into the midlife and beyond  
-i think i’ll accept anything  
+i’ll take anything  
 as long as i have you  
 
 *To my second love: Thank you for allowing me to reason again, without discarding what once was.*
