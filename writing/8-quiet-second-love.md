@@ -32,17 +32,17 @@ i thought i would never breathe again
 after months of mindless distractions  
 empty thoughts, empty ambitions  
 aimlessly wandering town again  
-i noticed you in a cafe  
+i noticed you in a small cafe  
 
 we caught up quickly  
 i thought for the first time  
 i laughed for the first time  
-you built without erasing  
+you rebuilt without erasing  
 
 no longer eighteen and naive  
 i know love doesn’t last  
 with you, only the present exists  
-unending cycles of stories and sketches  
+cycles of stories and sketches  
 
 maybe we’ll be Romeo and Juliet forever  
 into the midlife and beyond  
