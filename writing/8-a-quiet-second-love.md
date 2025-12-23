@@ -21,7 +21,7 @@ i left and never looked back
 
 i got with someone else  
 thousands of miles away  
-i remembered you occasionally  
+still, i remembered you occasionally  
 in ancient libraries under decaying books  
 
 nearly a decade later  

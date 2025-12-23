@@ -1,3 +1,5 @@
+<!-- TODO: include intro thesis statment? -->
+
 ## The Backstory
 
 Initially, the [piece](https://zhangjane.com/writing#6-my-first-love-allegory) itself was sufficient to me. I think authors generally want their work to function as standalone items, without requiring a complete understanding of the external context. Interpreters can self-insert or categorically reason as needed.
