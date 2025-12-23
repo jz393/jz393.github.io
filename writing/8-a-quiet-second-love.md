@@ -49,4 +49,4 @@ into the midlife and beyond
 i think i’ll accept anything  
 as long as i have you  
 
-*To my second love: Thank you for teaching me to reason again, without discarding what once was.*
+*To my second love: Thank you for allowing me to reason again, without discarding what once was.*
