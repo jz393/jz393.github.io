@@ -15,7 +15,7 @@ we mocked haughty politicians
 we questioned our existence  
 
 i told you i received a call  
-not wanting a Shakespearean tragedy  
+fearing a Shakespearean tragedy  
 we decided to part ways  
 i left and never looked back  
 
