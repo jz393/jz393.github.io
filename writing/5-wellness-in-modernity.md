@@ -1,4 +1,4 @@
-Recently, I committed to my health above all else. I’m not sure what exactly prompted this—maybe the existential dread I felt on my 25th birthday, the classic marker for the quarter-life crisis, or simply the heartache of seeing brilliant colleagues place career advancement above well-being. Or perhaps it was the sheer horror I experienced after getting married, when I realized I would probably have biological kids one day (and therefore be the one responsible for carrying & delivering them).
+Recently, I committed to my health above all else. I’m not sure what exactly prompted this: maybe the existential dread I felt on my 25th birthday, the classic marker for the quarter-life crisis, or simply the heartache of seeing brilliant colleagues place career advancement above well-being. Or perhaps it was the sheer horror I experienced after getting married, when I realized I would probably have biological kids one day (and therefore be the one responsible for carrying & delivering them).
 
 [Leaving my 9-5 behind](https://zhangjane.com/writing#1-why-i-left-google-and-deepmind), I took on a singular mission to focus on my well-being. It has been about 5 months now, and I will document my progress so far.
 
@@ -8,7 +8,7 @@ Good things come in threes. Luckily, this includes our foundation for health: sl
 ### Sleep
 Towards the end of my stint on Gemini, my sleep took the first hit. It all started the night before a big presentation, when I tossed and turned and slept for a handful of hours. The presentation thankfully went well, but a barrage of tasks kept me from relaxing afterwards. As a result, my sleep the next night suffered too. I don’t remember much more specifics, just that this led to a vicious cycle for around a month, and I eventually found myself unable to doze off for more than 1-2 hours a night.
 
-Through pure discipline alone, I could usually get myself to consume (or refrain from) something, perform a particular exercise, or complete one of the many tasks on my list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying—I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
+Through pure discipline alone, I could usually get myself to consume (or refrain from) something, perform a particular exercise, or complete one of the many tasks on my list. But the one thing I couldn’t brute-force was sleep. However, that didn’t stop me from trying; I saw multiple doctors, who each prescribed me concoctions of sleep aids that I couldn’t pronounce. Some knocked me out the first few days, but my sleep would gradually revert to its fragmented, fragile state. Others felt nothing more than a sugar pill, designed by Big Pharma to prey upon the masses.
 
 Still, I downed the prescriptions each night an hour before midnight, and they rationed me a measly few hours of shut-eye to face the grind of yet another day. I couldn’t even take naps, as I was psychologically reliant on the pills. Nothing seemed to work, and I felt unfixable.
 
@@ -17,7 +17,7 @@ One evening, on a getaway to Napa, I lay down on our Airbnb bed and closed my ey
 In the months that followed, I left my job and found intentional ways to enjoy life. My sleep gradually recovered, and I weaned myself off the pills. I wouldn’t say that it’s perfect, but it’s comparable to what it was before the whole fiasco. My wearables, described below, also lifted the mental load of meticulous sleep tracking. I don’t put too much pressure on myself to hit a perfect number each night; I now trust my body to get the rest it needs (usually 6.5-8.5 hours) after each day's varied demands. As long as I have the energy to do what needs to be done, I don’t harp on it. And even if I don’t, I’ll just take a nap. It’s not like we had polysomnography or even clocks as hunters and gatherers; we simply rested whenever we needed to. 
 
 ### Nutrition
-My first health panel flagged slight issues with glucose and cholesterol management. My A1C was 5.7, bordering on prediabetes. Now this wasn’t too surprising—I figured my weekly pastry haul, ice cream/boba adventures, and sweets at work wouldn’t be sustainable forever. I just assumed I had a couple more years left.
+My first health panel flagged slight issues with glucose and cholesterol management. My A1C was 5.7, bordering on prediabetes. Now this wasn’t too surprising; I figured my weekly pastry haul, ice cream/boba adventures, and sweets at work wouldn’t be sustainable forever. I just assumed I had a couple more years left.
 
 The first thing I did was cut out carbs entirely. Upon getting my labs back, I (sadly) cleared my snack cabinet and freezer. I replaced my breakfast pastries with scrambled eggs. I swapped my jasmine rice for basmati and ate only a quarter of what I would typically have for dinner. Consequently, my dopamine levels nosedived, and I felt empty.
 
@@ -40,11 +40,11 @@ I started running at work, carving out hourly “gym” blocks on my calendar, p
 
 With enough sessions, I got better. I overcame the initial shin splints and bought myself a pair of HOKA shoes. I maintained a steady routine: trekking to the Google gym during breaks between afternoon meetings, changing into workout clothes, and running a mile straight on the treadmill while occasionally answering pings on my phone.
 
-However, in parallel with my dietary journey, with the stress and sleep deprivation building up, I simply lost the energy to care. My cortisol levels were through the roof, and I didn’t feel like messing with them even further. For a few months, all I could manage was the occasional walk while zoning out and blasting music in the background—still better than nothing, though.
+However, in parallel with my dietary journey, with the stress and sleep deprivation building up, I simply lost the energy to care. My cortisol levels were through the roof, and I didn’t feel like messing with them even further. For a few months, all I could manage was the occasional walk while zoning out and blasting music in the background. Still better than nothing, though.
 
 After leaving Google, I got a gym membership and started running on the treadmills again. Thankfully, the initial progress I made wasn’t completely lost; I could still run a mile straight without getting too out of breath. I learned more about the cardio zones and decided that a mix of zones 2 and 3 was best suited to my needs.
 
-I must admit, though, going to the gym every day was really boring. The place is dull and filled with monotonous *gym bros*. Also, the drive took nearly 30 minutes each way. I quickly got tired of it and instead opted for hikes at the Stanford Dish (much closer to where I live). I was walking instead of running, but many parts were extremely steep, and my heart rate rose enough to match a mile of running. Furthermore, the hills were breathtakingly scenic, and I enjoyed being in the sun.
+I must admit, though, going to the gym every day was really boring. The drive took nearly 30 minutes each way. I quickly got tired of it and instead opted for hikes at the Stanford Dish (much closer to where I live). I was walking instead of running, but many parts were extremely steep, and my heart rate rose enough to match a mile of running. Furthermore, the hills were breathtakingly scenic, and I enjoyed being in the sun.
 
 For several weeks, hiking at the Dish became the extent of my exercise routine. Unfortunately, the constant uphill climb and the lack of concentrated cardio brought some setbacks. My baseline glucose levels rose significantly without a change in diet, and my VO2max scores tanked. My feet also started to hurt all the time.
 
@@ -69,9 +69,9 @@ Frustrated with my watch’s tendency to overcount my sleep, the nightly interfe
 
 Three months later, my ring has become a core part of my everyday routine. To my surprise, it isn’t invasive at all. I was between sizes and settled on the larger size. I now alternate between my left index finger and thumb, depending on how loose I want it. The health metrics are diverse and reasonably accurate. The app is sleek and efficient. I eagerly check it each morning and before bed.
 
-Unlike the Apple Watch, OURA’s three metrics feel more balanced: readiness, sleep, and activity. The watch’s main metrics, on the other hand, are all about activity—stand hours, calories burned, and exercise minutes. I like how the ring especially prioritizes rest and recovery, providing a detailed interface for HRV/stress tracking and sleep scores over time. Furthermore, each activity goal is customizable to that specific day’s readiness. Lastly, the sleep tracking (my primary motivator) is indeed more accurate. 
+Unlike the Apple Watch, OURA’s three metrics feel more balanced: readiness, sleep, and activity. The watch’s main metrics, on the other hand, are all about activity: stand hours, calories burned, and exercise minutes. I like how the ring especially prioritizes rest and recovery, providing a detailed interface for HRV/stress tracking and sleep scores over time. Furthermore, each activity goal is customizable to that specific day’s readiness. Lastly, the sleep tracking (my primary motivator) is indeed more accurate. 
 
-However, I still wear my Apple Watch during the daytime. The ring lacks an interface for on-the-go workout tracking, and it doesn’t integrate well with the Apple ecosystem. I need my watch to deliver notifications and keep track of my phone. It’s nice that I can leave it off when I go to sleep, and maybe for fancy events—if I can find some way to cover the unsightly tan.
+However, I still wear my Apple Watch during the daytime. The ring lacks an interface for on-the-go workout tracking, and it doesn’t integrate well with the Apple ecosystem. I need my watch to deliver notifications and keep track of my phone. It’s nice that I can leave it off when I go to sleep, and maybe for fancy events (if I can find some way to cover the unsightly tan).
 
 ### Freestyle Libre 3
 When my A1C reached 6, my doctor prescribed me the Freestyle Libre for continuous glucose monitoring. I initially refused to wear it. I was scared of the needle, and having something inserted in my skin at all times seemed quite unpleasant.
@@ -129,7 +129,7 @@ It doesn’t mean that we need (or should) be on all the time, constantly checki
 Generally, if you feel the need to avoid something out of fear (like I did), it’s a telltale sign that something is wrong. And you can only run away for so long.
 
 ## Conclusion
-It’s been quite the journey prioritizing health and fitness in the era of rapid technological advancement. Leaving an engineering career, I still face everyday challenges, just as I did at work—incremental changes, trial and error, constant troubleshooting.
+It’s been quite the journey prioritizing health and fitness in the era of rapid technological advancement. Leaving an engineering career, I still face everyday challenges, just as I did at work: incremental changes, trial and error, constant troubleshooting.
 
 I am no stranger to cramming. I’ve historically relied on late-night sessions to prepare for exams, watching a whole semester’s worth of lectures in a week while I've zoned out in (or even skipped) the actual classes. Now, I need to make up for a quarter-century of blissful unawareness about my diet and activity.
 
