@@ -41,7 +41,7 @@ you rebuilt without erasing
 
 no longer eighteen and naive  
 i know love doesn’t last  
-with you, only the present exists  
+with you, the present is frozen  
 cycles of stories and sketches  
 
 maybe we’ll be Romeo and Juliet forever  
