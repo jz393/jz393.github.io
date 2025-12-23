@@ -4,7 +4,7 @@
   </cite>
 </span>
 
-I believed I was invincible at only eighteen, but I couldn’t resist falling for you. You charmed me with your blunt, stoic intellect surrounded by the bright autumn colors and Gothic chapels. On our first date, you left obscure messages on my console and stood on unsolvable proofs.
+I believed I was invincible at eighteen, but I couldn’t resist falling for you. You charmed me with your blunt, stoic intellect surrounded by the bright autumn colors and Gothic chapels. On our first date, you left obscure messages on my console and stood on unsolvable proofs.
 
 From that day on, we spent each and every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, recounted electrifying stories of past lives, and sketched odd-looking graphs on dirty chalkboards inside empty halls until dawn appeared. I didn't need coffee or sleep; I only needed you.
 
