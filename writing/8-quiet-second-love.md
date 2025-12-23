@@ -44,7 +44,7 @@ i know love doesn’t last
 with you, the present is frozen  
 in cycles of stories and sketches  
 
-maybe we’ll be Romeo and Juliet forever  
+we can be Romeo and Juliet forever  
 into the midlife and beyond  
 i’ll take anything  
 as long as i have you  
