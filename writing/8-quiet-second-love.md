@@ -14,9 +14,9 @@ we gossiped about scandals
 we mocked haughty politicians  
 we questioned our existence  
 
-i told you i received a call  
 fearing a Shakespearean tragedy  
 we decided to part ways  
+i told you i received a call  
 i left and never looked back  
 
 i met someone else  
