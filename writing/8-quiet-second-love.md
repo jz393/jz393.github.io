@@ -42,7 +42,7 @@ you rebuilt without erasing
 no longer eighteen and naive  
 i know love doesn’t last  
 with you, the present is frozen  
-cycles of stories and sketches  
+in cycles of stories and sketches  
 
 maybe we’ll be Romeo and Juliet forever  
 into the midlife and beyond  
