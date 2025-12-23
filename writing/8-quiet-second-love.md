@@ -35,7 +35,7 @@ aimlessly wandering town again
 i noticed you in a small cafe  
 
 we caught up quickly  
-i talked for the first time  
+i spoke for the first time  
 i laughed for the first time  
 you rebuilt without erasing  
 
