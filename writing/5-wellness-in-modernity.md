@@ -131,7 +131,7 @@ Generally, if you feel the need to avoid something out of fear (like I did), it�
 ## Conclusion
 It’s been quite the journey prioritizing health and fitness in the era of rapid technological advancement. Leaving an engineering career, I still face everyday challenges, just as I did at work: incremental changes, trial and error, constant troubleshooting.
 
-I am no stranger to cramming. I’ve historically relied on late-night sessions to prepare for exams, watching a whole semester’s worth of lectures in a week while I've zoned out in (or even skipped) the actual classes. Now, I need to make up for a quarter-century of blissful unawareness about my diet and activity.
+I am no stranger to cramming. I’ve historically relied on late-night sessions to prepare for exams, watching a whole semester’s worth of lectures in a week while I've zoned out in (or even skipped) the actual classes. Now, I need to make up for a quarter-century of (unfortunate but bearable) health ignorance.
 
 However, I can take comfort in knowing that my efforts will last this time, unlike the fleeting A in my algorithms course. There is no more important pillar than health; it is the foundation for all of our other earthly endeavors.
 
