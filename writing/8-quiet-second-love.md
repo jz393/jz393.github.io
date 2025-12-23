@@ -27,7 +27,7 @@ in ancient libraries under decaying books
 nearly a decade later  
 my first destroyed me  
 ashes and embers in my hair  
-i thought i would never breathe again  
+i believed i would never breathe again  
 
 after months of mindless distractions  
 empty thoughts, empty ambitions  
@@ -35,7 +35,7 @@ aimlessly wandering town again
 i noticed you in a small cafe  
 
 we caught up quickly  
-i thought for the first time  
+i talked for the first time  
 i laughed for the first time  
 you rebuilt without erasing  
 
