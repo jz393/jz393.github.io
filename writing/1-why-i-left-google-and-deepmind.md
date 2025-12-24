@@ -74,4 +74,4 @@ In conclusion, the future is uncertain, but that’s what makes it exciting, esp
 
 ## *Parting words*
 
-*Thank you, Google and DeepMind, for a memorable experience. Thank you to my colleagues, mentors, and friends for all the memories, laughs, and support. Here is a [photo](writing/images/jane-google-2018.jpg) of me in late 2018, on my first visit to the Google HQ. Lastly, thank you for reading. If you have any questions or comments, please don't hesitate to [contact](/contact) me.*
+*Thank you, Google and DeepMind, for a memorable experience. Thank you to my colleagues, mentors, and friends for all the memories, laughs, and support. Here is a [photo](writing/images/irl/jane-google-2018.jpg) of me in late 2018, on my first visit to the Google HQ. Lastly, thank you for reading. If you have any questions or comments, please don't hesitate to [contact](/contact) me.*
