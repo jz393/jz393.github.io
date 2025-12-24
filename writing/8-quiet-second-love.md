@@ -21,8 +21,8 @@ i left and never looked back
 
 thousands of miles away  
 i met someone else  
-still, i remembered you occasionally  
-in ancient libraries under decaying books  
+still, i saw you occasionally  
+in ancient libraries under decrepit books  
 
 nearly a decade passed  
 my first destroyed me  
