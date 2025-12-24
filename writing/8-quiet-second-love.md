@@ -16,7 +16,7 @@ we questioned our existence
 
 fearing a Shakespearean tragedy  
 we decided to part ways  
-i told you i received a call  
+i told you i got a call  
 then i left and never looked back  
 
 thousands of miles away  
