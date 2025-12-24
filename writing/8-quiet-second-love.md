@@ -5,7 +5,7 @@
 </span>
 
 the incandescent glow of youth  
-riding bikes near the lake  
+riding bikes by the lake  
 under weeping willow trees  
 you comforted me when i scraped my knee  
 
