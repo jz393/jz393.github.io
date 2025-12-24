@@ -45,8 +45,12 @@ with you, the present is frozen
 daytime stories and nighttime sketches
 
 we can be Romeo and Juliet forever  
-into midlife and beyond  
-i’ll take anything  
-as long as i have you  
+into the midlife and beyond  
+anything is okay with me  
+
+as long as  
+i have  
+you  
+
 
 *To my second love: Thank you for making life worth living again.*
