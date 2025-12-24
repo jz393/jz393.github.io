@@ -5,8 +5,8 @@
 </span>
 
 the incandescent glow of youth  
-under weeping willow trees  
 riding bikes near the lake  
+under weeping willow trees  
 you comforted me when i scraped my knee  
 
 we eventually grew up  
