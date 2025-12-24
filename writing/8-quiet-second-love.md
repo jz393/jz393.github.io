@@ -5,7 +5,7 @@
 </span>
 
 the incandescent glow of youth  
-under luscious willow trees  
+under weeping willow trees  
 riding bikes near the lake  
 you comforted me when i scraped my knee  
 
@@ -22,7 +22,7 @@ i left and never looked back
 thousands of miles away  
 i met someone else  
 still, i saw you occasionally  
-in ancient libraries under decrepit books  
+in ancient libraries around decrepit books  
 
 nearly a decade passed  
 my first destroyed me  
