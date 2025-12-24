@@ -49,4 +49,4 @@ into the midlife and beyond
 i’ll take anything  
 as long as i have you  
 
-*To my second love: Thank you for allowing me to live again, without discarding what once was.*
+*To my second love: Thank you for allowing me to live again.*
