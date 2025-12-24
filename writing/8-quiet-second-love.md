@@ -42,7 +42,7 @@ you rebuilt without erasing
 no longer eighteen and naive  
 i know love doesn’t last  
 with you, the present is frozen  
-daytime stories and nighttime sketches
+in daytime stories and nighttime sketches
 
 we can be Romeo and Juliet forever  
 into the midlife and beyond  
