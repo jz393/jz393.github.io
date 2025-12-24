@@ -17,14 +17,14 @@ we questioned our existence
 fearing a Shakespearean tragedy  
 we decided to part ways  
 i told you i received a call  
-i left and never looked back  
+then i left and never looked back  
 
 thousands of miles away  
 i met someone else  
 still, i saw you occasionally  
 in ancient libraries around decrepit books  
 
-nearly a decade passed  
+nearly a decade later  
 my first destroyed me  
 ashes and embers in my hair  
 i believed i would never breathe again  
@@ -32,7 +32,7 @@ i believed i would never breathe again
 empty thoughts, empty ambitions  
 months of mindless distractions  
 aimlessly wandering town again  
-i noticed you in a small cafe  
+suddenly i noticed you in a small cafe  
 
 we caught up quickly  
 i spoke for the first time  
@@ -41,7 +41,7 @@ you rebuild without erasing
 
 no longer eighteen and naive  
 i know love doesn’t last  
-with you, the present is frozen  
+but with you, the present is frozen  
 in daytime stories and nighttime sketches
 
 we can be Romeo and Juliet forever  
