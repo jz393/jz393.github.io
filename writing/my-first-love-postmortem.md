@@ -1,4 +1,8 @@
-<!-- TODO: include intro thesis statment? -->
+<span style="color:var(--muted);font-size:0.8em;">
+  <cite>
+  The author analyzes her own piece: <a href="https://zhangjane.com/writing#my-first-love-allegory">My First Love: An Allegory</a> and provides both a literary and mathematical interpretation of love to differentiate when it fails vs. succeeds.
+  </cite>
+</span>
 
 ## The Backstory
 
