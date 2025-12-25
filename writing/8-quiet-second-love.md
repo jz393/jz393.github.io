@@ -22,7 +22,7 @@ i walked away before i could look back
 thousands of miles away  
 i met someone else  
 still, i saw you occasionally  
-in quiet libraries beneath decrepit books  
+in ancient libraries beneath decrepit books  
 
 nearly a decade later  
 my first destroyed me  
