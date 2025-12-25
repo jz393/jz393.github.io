@@ -30,8 +30,8 @@ ashes and embers everywhere
 i believed i would never breathe again  
 
 my soul shattered into pieces  
-empty thoughts, empty ambitions  
 a void drifting through the abyss  
+empty thoughts, empty ambitions  
 suddenly i noticed you in a small cafe  
 
 we caught up quickly  
