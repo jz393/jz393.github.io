@@ -32,7 +32,7 @@ i believed i would never breathe again
 empty thoughts, empty ambitions  
 months of mindless distractions  
 aimlessly wandering downtown  
-one day, i found you in a small cafe  
+i noticed you in a small cafe  
 
 we caught up quickly  
 i spoke for the first time  
