@@ -26,7 +26,7 @@ in ancient libraries around decrepit books
 
 nearly a decade later  
 my first destroyed me  
-ashes and embers in my hair  
+ashes and embers everywhere  
 i believed i would never breathe again  
 
 empty thoughts, empty ambitions  
