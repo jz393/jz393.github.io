@@ -1,6 +1,6 @@
 <span style="color:var(--muted);font-size:0.8em;">
   <cite>
-  This allegory personifies the author’s profession and depicts an identity-shattering collapse following a sudden yet intentional abandonment. It does NOT represent her human relationships.
+  This allegory personifies the author’s profession and depicts an identity-shattering collapse following a sudden yet intentional abandonment. It does not represent her human relationships.
   </cite>
 </span>
 
