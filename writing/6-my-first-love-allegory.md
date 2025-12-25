@@ -8,7 +8,7 @@ Eighteen and invincible, I couldn’t help but fall for you. You charmed me with
 
 From that day on, we spent each and every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, recounted electrifying stories of past lives, and sketched odd-looking graphs on dirty chalkboards inside empty halls until the crack of dawn. I didn't need sleep; I only needed you.
 
-We decided to pack our belongings and make the trip out west, covering one sea to the other. We braved wildfires, thunderstorms, and floods. We cautiously steered across formidable mountains and sandy deserts. At the same time, we often paused to take in nature's creations. As the topography changed, I quietly admired you from the passenger seat and told myself we had become one.
+We decided to pack our belongings and make the trip out west, covering one sea to the other. We cautiously steered across formidable mountains and sandy deserts. We braved wildfires, thunderstorms, and floods. In between, we paused to take in nature's creations. As the topography changed, I quietly admired you from the passenger seat and told myself we had become one.
 
 We arrived in San Francisco and left behind our New England customs, swapping wool coats for Patagonia jackets. We moved in together in our first studio apartment on the very top floor of a high-rise overlooking Mission Street. At sunset, you pointed at the string of red lights below. I blissfully collapsed into your arms, believing the journey was fully worth the steepest descent.
 
