@@ -15,13 +15,13 @@ we mocked haughty politicians
 we questioned our existence  
 
 fearing a Shakespearean tragedy  
-i said i had to go  
+i said i needed to go  
 and you let me  
-i walked away before i could look back  
+i left and never looked back  
 
 thousands of miles away  
 i met someone else  
-still, i saw you occasionally  
+still, i remembered you  
 in ancient libraries beneath decrepit books  
 
 nearly a decade later  
@@ -32,7 +32,7 @@ i believed i would never breathe again
 empty thoughts, empty ambitions  
 months of mindless distractions  
 aimlessly wandering downtown  
-i found you in a small cafe  
+i noticed you in a small cafe  
 
 we caught up quickly  
 i spoke for the first time  
@@ -44,7 +44,7 @@ i know love does not last
 but with you, the present is frozen  
 in cycles of stories and sketches  
 
-we can be Romeo and Juliet  
+we can be Romeo and Juliet   
 into midlife and beyond  
 i will take anything  
 
