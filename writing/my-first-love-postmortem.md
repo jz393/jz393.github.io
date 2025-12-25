@@ -8,7 +8,7 @@
 
 Initially, the piece itself was sufficient to me. I think authors generally want their work to function as standalone items, without requiring a complete understanding of the external context. Interpreters can self-insert or categorically reason as needed.
 
-I want to highlight that I’m not used to writing dramatic pieces. My background is not in literature. I have largely focused on technical/academic writing with proofs that are easy to follow, disregarding artistry for mathematical precision. In the industry, my style solidified through the mechanical design docs and proposals.
+I want to highlight that I’m not used to writing dramatic pieces. My background is not in literature. I have largely focused on technical/academic writing with proofs that are easy to follow, disregarding artistry for precision. In the industry, my style solidified through the mechanical design docs and proposals.
 
 I sought to portray my profession as an allegorical narrative. Leaving clearly inflicted a kind of distress I had never felt before. I felt obligated to turn it into art; if I could do that and present a clear, transformative arc, it would prove that I was ready to officially “move on” as I aimed to in 2026, symbolizing the postmortems I commonly wrote after intense production fires, albeit more artistic. I had already written *[Sailing the Grand Pacific](https://zhangjane.com/writing#sailing-the-grand-pacific)*, describing the experiences of a lone sailor who is physically and spiritually shattered by a sudden storm, forced to take refuge on an uncharted island.
 
