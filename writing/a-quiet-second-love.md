@@ -1,6 +1,6 @@
 <span style="color:var(--muted);font-size:0.8em;">
   <cite>
-  This follows <a href="https://zhangjane.com/writing#6-my-first-love-allegory">My First Love: An Allegory</a>.
+  This follows <a href="https://zhangjane.com/writing#my-first-love-allegory">My First Love: An Allegory</a>.
   </cite>
 </span>
 
