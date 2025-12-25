@@ -4,7 +4,7 @@
   </cite>
 </span>
 
-Eighteen and invincible, I couldn’t help but fall for you. You charmed me with your blunt, stoic intellect surrounded by bright autumn colors and Gothic chapels. On our first date, you left obscure messages on my console and stood on unsolvable proofs.
+Eighteen and invincible, I couldn’t help but fall for you. You charmed me with your blunt, stoic intellect surrounded by bright autumn colors and Gothic chapels. On our first date, you left obscure messages on my console and stood on unsolvable proofs. You promised me both stability and prosperity, as long as I took your hand.
 
 From that day on, we spent each and every night together. Under the covers, we completed puzzles and reconstructed the universe. You taught me to seek the optimal paths in life. I provided grounded checkpoints to your beautiful mind. Together, we envisioned our ideal future, recounted electrifying stories of past lives, and sketched odd-looking graphs on dirty chalkboards inside empty halls until the crack of dawn. I didn't need sleep; I only needed you.
 
