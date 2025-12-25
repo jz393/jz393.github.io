@@ -5,8 +5,8 @@
 </span>
 
 the incandescent glow of youth  
-we rode bikes by the lake  
-under weeping willow trees  
+beneath luscious willow trees  
+riding bikes by the lake  
 you comforted me when i scraped my knee  
 
 we eventually grew up  
@@ -15,24 +15,24 @@ we mocked haughty politicians
 we questioned our existence  
 
 fearing a Shakespearean tragedy  
-we decided to part ways  
-i told you i received a call  
-then left and never looked back  
+i said i had to go  
+and you let me  
+i walked away before i could look back  
 
 thousands of miles away  
 i met someone else  
 still, i saw you occasionally  
-in ancient libraries around decrepit books  
+in quiet libraries under decrepit books  
 
 nearly a decade later  
 my first destroyed me  
-ashes and embers everywhere  
+ashes and embers in my hair  
 i believed i would never breathe again  
 
-my soul shattered into pieces  
-a void drifting through the abyss  
 empty thoughts, empty ambitions  
-suddenly i noticed you in a small cafe  
+months of mindless distractions  
+aimlessly wandering downtown  
+i found you in a small cafe  
 
 we caught up quickly  
 i spoke for the first time  
@@ -40,13 +40,13 @@ i laughed for the first time
 you rebuild without erasing  
 
 no longer eighteen and naive  
-i know love doesn’t last  
+i know love does not last  
 but with you, the present is frozen  
-in daytime stories and nighttime sketches
+in cycles of stories and sketches  
 
-we can be Romeo and Juliet forever  
-into the midlife and beyond  
-anything is okay with me  
+we can be Romeo and Juliet  
+into midlife and beyond  
+i will take anything  
 
 as long as  
 i have  
