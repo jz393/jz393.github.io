@@ -15,9 +15,9 @@ we mocked haughty politicians
 we questioned our existence  
 
 fearing a Shakespearean tragedy  
-i said i needed to go  
+i said i had to go  
 and you let me  
-i left and never looked back  
+i walked away before i could look back  
 
 thousands of miles away  
 i met someone else  
@@ -32,7 +32,7 @@ i believed i would never breathe again
 empty thoughts, empty ambitions  
 months of mindless distractions  
 aimlessly wandering downtown  
-i noticed you in a small cafe  
+one day, i found you in a small cafe  
 
 we caught up quickly  
 i spoke for the first time  
