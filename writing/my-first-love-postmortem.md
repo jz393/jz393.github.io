@@ -6,7 +6,7 @@
 
 ## The Backstory
 
-Initially, the [piece](https://zhangjane.com/writing#my-first-love-allegory) itself was sufficient to me. I think authors generally want their work to function as standalone items, without requiring a complete understanding of the external context. Interpreters can self-insert or categorically reason as needed.
+Initially, the piece itself was sufficient to me. I think authors generally want their work to function as standalone items, without requiring a complete understanding of the external context. Interpreters can self-insert or categorically reason as needed.
 
 I want to highlight that I’m not used to writing allegories or dramatic pieces. My background is not in literature. I have largely focused on technical/academic writing with proofs that are easy to follow, disregarding artistry for mathematical precision. In the industry, my style solidified through the mechanical design docs and proposals.
 
