@@ -37,7 +37,7 @@ i noticed you in a small cafe
 we caught up quickly  
 i spoke for the first time  
 i laughed for the first time  
-you rebuild without erasing  
+you rebuilt without erasing  
 
 no longer eighteen and naive  
 i know love does not last  
