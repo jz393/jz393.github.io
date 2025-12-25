@@ -1,4 +1,4 @@
-Our honeymoon marked a two-week escape from the AI grind. I stared at the intricate art on the ceiling of the Sistine Chapel and got lost in the towering walls of St. Peter’s Basilica. I practically inhaled the gelato, and thought my shoes would give in between all the gallery hops in Florence.
+Our honeymoon marked a two-week escape from the hustle. I stared at the intricate art on the ceiling of the Sistine Chapel and got lost in the towering walls of St. Peter’s Basilica. I practically inhaled the gelato, and thought my shoes would give in between all the gallery hops in Florence.
 
 I told myself that I was living out the modern-day version. The Renaissance marked a grand rebirth of the classics and gave us a new era of intellectual, artistic, and cultural change. Likewise, our society is undergoing a similar paradigm shift with the widespread adoption of artificial intelligence, and I had the good fortune of working at *Gemini*. 
 
