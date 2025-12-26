@@ -30,7 +30,55 @@ I snapped my laptop shut *([gif](writing/images/memes/penny-i-need-help.gif))* a
 
 ## A Literary, Mathematical, and Moral Analysis
 
-This part is intentionally left blank and will be completed in the author's own time.
+### Literature: Drawing parallels
+
+The narrative follows the journey of an 18-year-old girl *(yours truly)* who describes herself as “invincible” and falls hard for a brilliant, stoic partner *(the broad field of computing)* who challenges her intellectually and teaches her a new way of living. She quickly attaches herself to her “first love,” and they move across the country to start a new life together. However, the partner gradually changes over time, prioritizing rapid self-growth and success without taking her needs into consideration, and she eventually storms out of a “Mission Street high-rise” in tears, wondering where her life went. Except in reality, I simply walked out of Google’s Gradient Canopy tent with a blank expression and a few snacks in my hands.
+
+**Self-destructive attachment** is a common theme throughout **literature** and **history**. For a while, I debated on which field to portray here, then realized they actually form a recursive self-engine. We write literature based on history. We consume literature, which influences our way of thinking and, therefore, our future actions. For sake of simplicity, I’ll focus on literature, the artistic generative output, over the *(comparatively stale)* input data. One example that stood out to me was F. Scott Fitzgerald’s portrayal of Gatsby.
+
+#### A nonideal idealization
+
+Gatsby’s ambition, attachment to Daisy, and ultimate demise are clearly overdramatized compared to both my experience and portrayal. Getting hit by a bullet and drowning in a swimming pool are far worse than leaving a job or going through a breakup, albeit an intense one. However, I sensed parallels between myself and Gatsby’s character.
+
+Growing up in plain, suburban Texas, I made it my entire mission to escape. Cornell was my Dan Cody, letting me see outside the tunnel for the first time. My Google internship was Wolfsheim, the door to upwards mobility, leading to a relentless, intoxicating climb afterwards.
+
+However, I realized I don’t have a concrete representation of Daisy. Obviously, she is embodied by the ex-partner in my allegory. But the central figure behind Gatsby’s obsession and ultimate demise is ambiguous; was it the field of CS/math/AI? Was it my classes at Cornell? Was it Google? Was it my role at Gemini? 
+
+I think the only valid answer is the fantasy I built up inside my head regarding my career, similar to how Gatsby admired the *idea* of Daisy more than the person herself. He loved what she represented: upwards mobility, elite status, the feeling that he “made it”, while refusing to accept the reality of who she became—a married woman with a child.
+
+I want to make it clear that **I am not making a stoicism argument**. Attachment is what drives us towards a goal we want: our future stability or prosperity, whether that be represented by a person or a profession. Especially at such a formative age, it’s important to lean into emotions to guide you forward. There’s only one caveat: **you must know when to stop.**
+
+#### The fall from grace
+
+Gatsby’s downfall didn’t come during the peak of his questionable enterprises, or when he was lovestruck upon meeting Daisy, the embodiment of his dreams. Likewise, I didn’t burn out as a 17-year old teenager, screaming for joy when she received her acceptance letter in the mail. I also didn’t burn out as a 19-year old college student, landing in SFO to start her internship at Google.
+
+**Disillusionment comes only when your actual reward doesn’t match your perceived reward, yet you force yourself to keep pushing.** That can be due to inertia (agency), lack of self-awareness (delusion), or fear (constraint). It can be a combination of the three, or even all of them.
+
+5 years after parting with his beloved, Gatsby reunited with Daisy, and they started their affair. Gatsby expected marriage and a lifelong love, but all he got was a hushed entanglement. Unfortunately, instead of letting go or accepting their constrained romance, he pushed for more—until the point of collapse.
+
+In my case, my ”first love” moved on too, transforming from magical chalkboards to an endless 996 pursuit ([depicted](writing/images/ai/illustration-love-to-burnout.png) by AI). Subsequently, my reward tanked; continuing meant marginal income increase *(compared to my husband’s, whose career has a much higher ceiling than mine)*. Risks increased: my health, stability, and freedom. I explain all of this in my leaving Google/DeepMind [post](https://zhangjane.com/writing#why-i-left-google-and-deepmind). 
+
+Essentially, you must actively observe your environment and constantly update your objective function to match your reward function. I’ll save the excessive technical jargon for later, though.
+
+#### Fitzgerald vs. Jane
+
+Though a century divided us, Fitzgerald’s background and experiences are actually quite similar to mine. Yes, I am aware that he’s just about 100x more successful than I am, but the same principles apply.
+
+Fitzgerald was born in Minnesota *(honestly, I’ll take that over Texas)* into a middle-class family, then went to Princeton where he had high ambitions to achieve status through his career *(sound like someone you know?)*. His first novel (​​*This Side of Paradise*, not Gatsby) quickly landed him a first-row seat into the new money “Jazz Age” elite, kind of like an AI/tech bubble that your dearest author may or may not have participated in. Consequently, he spent a lot of time in extravagant parties with socially ambitious people, but quickly became disillusioned by it all. Despite the wealth and extravagance around him, he struggled to find a deeper meaning, and began to view the American Dream as a misguided fantasy rather than reality. He also had a relationship with Ginevra King, a wealthy debutante (likely the blueprint for Daisy), and experienced significant class anxiety, like trying to fit into a world you know you don’t belong in. Likewise, I had similar qualms in the frontier AI industry—less class-related, but I just felt like I couldn’t morally and mentally keep up.
+
+Given our similarities, I wondered why Fitzgerald could portray such degeneracy *(and arguably, immorality)* in such detail and be internationally regarded as a *literary genius*, while my parallel *(and surely milder)* attempt could only get me a warning from a loving-yet-concerned husband about the dangers of portraying myself as a *Jezebel* online. Has feminism failed us again? Did I not have the right to channel my disillusionment, too? Talk about double standards.
+
+While I’m sure double standards do exist, I realized my initial [frustration](writing/images/memes/he-did-it-too.jpg) was a bit reductionist. Fitzgerald and I may have analogous life experiences, but we are completely different people. He is literary, while I am precise. Even though our pieces have similar **intentions**, it all comes down to the **delivery**. *The Great Gatsby* is quite complex, taking up a whole novel with many characters and subplots, and it is presented in third-person. *Can you imagine if it were simply a one-page letter addressed to Daisy?* Neither of us went through the exact experiences ourselves, meaning both our pieces are generative. However, he diverged from the training data a lot more than I did. Devastating breakups are quite common in society and the media, while Gatsby’s adventures are...*not*...unless Fitzgerald actually witnessed some Epstein-level stuff. In simpler terms, **Fitzgerald is more creative than Jane**.
+
+Anyway, I still like my dramatic breakup letter. Sorry to my husband, but I will not be portraying this as a divorce. I did add a disclaimer on top of the allegory, though. And by the way, the [gray hoodie](writing/images/irl/gray-hoodie-deepmind.jpg) was real.
+
+### Mathematics: Establishing a framework
+
+*This part is intentionally left blank and will be completed in the author's own time.*
+
+### So, what is love?
+
+*This part is intentionally left blank and will be completed in the author's own time.*
 
 
 ## *..and just for fun*
