@@ -37,5 +37,5 @@ This part is intentionally left blank and will be completed in the author's own 
 
 *songs for my loves*
 
-***the first:** [Wildest Dreams](https://www.youtube.com/watch?v=IdneKLhsWOQ), [Escapism](https://www.youtube.com/watch?v=Dll6VJ2C7wo)*  
-***the second:** [Tomorrow Never Comes](https://music.youtube.com/watch?v=0OhP2YYe6VM)*  
+***the first:** [Wildest Dreams](https://www.youtube.com/watch?v=IdneKLhsWOQ) - Taylor Swift, [Escapism](https://www.youtube.com/watch?v=Dll6VJ2C7wo) - RAYE*  
+***the second:** [Tomorrow Never Comes](https://music.youtube.com/watch?v=0OhP2YYe6VM) - Vicetone*  
