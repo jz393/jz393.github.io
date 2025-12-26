@@ -68,11 +68,11 @@ That said, I still like my dramatic breakup letter. I did end up adding a discla
 
 ### Mathematics: Establishing a framework
 
-*This part is intentionally left blank and will be completed at the author's convenience.*
+This part is intentionally left blank and will be completed at the author's convenience.
 
 ### So, what is love?
 
-*This part is intentionally left blank and will be completed at the author's convenience.*
+This part is intentionally left blank and will be completed at the author's convenience.
 
 
 ## *..and just for fun*
