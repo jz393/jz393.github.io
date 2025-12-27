@@ -7,6 +7,15 @@
   <title>Writing - Jane</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="shortcut icon" href="jz.ico" type="image/x-icon" />
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$','$$'], ['\\[','\\]']]
+      }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 <body>
   <div class="container">
@@ -79,6 +88,12 @@
         ${dateHtml}
         ${marked.parse(md)}
       `;
+
+      // After injecting HTML, ask MathJax to typeset math in this article
+      if (window.MathJax?.typesetPromise) {
+        await window.MathJax.typesetPromise([article]);
+      }
+
 
     }
 
