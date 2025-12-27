@@ -42,7 +42,7 @@ Growing up in suburban Texas, I made it my entire mission to escape. Cornell Uni
 
 I think the only valid answer is the *fantasy* I built up in my head regarding my career, similar to how Gatsby admired the *idea* of Daisy more than the person herself. He loved what she *meant* to him: upward mobility, elite status, the feeling that he had made it, all while refusing to accept the reality of who she had become—a married woman with a child. Similarly, I enjoyed the concept of being in an elite field that could grant me prosperity and stability over the years, *or so I thought*, before the day-to-day specifics became too debilitating.
 
-This might suggest that our emotions are useless because they often lead to suboptimal outcomes. I want to make it clear that I am not advocating for stoicism. **Attachment is what drives us towards our primary goal: our future success, whether that be represented by a person or a profession.** Especially at such a formative age, it’s important to lean into emotions to guide you forward. **There’s only one caveat: knowing when to stop.**
+This might suggest that our emotions are useless because they often lead to suboptimal outcomes. I want to make it clear that I am not advocating for stoicism. **Attachment is what drives us towards our primary goal: our future success, whether that be represented by a person or a profession.** Especially at such a formative age, it’s important to lean into emotions to guide you forward. There’s only one caveat: **knowing when to stop**.
 
 #### The fall from grace
 
