@@ -34,7 +34,7 @@ The narrative follows the journey of an 18-year-old girl *(yours truly)* who des
 
 *Self-destructive attachment* is a common theme in literature. One example that stood out to me was F. Scott Fitzgerald’s character of Gatsby.
 
-#### A grand vision
+#### A grandiose vision
 
 Gatsby’s ambition, attachment to Daisy, and ultimate demise are clearly overdramatized compared to both my experience and portrayal. Getting hit by a bullet and drowning in a swimming pool are far worse than leaving a job or ending a relationship. However, I sensed parallels between myself and the famous character.
 
