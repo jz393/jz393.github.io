@@ -24,7 +24,7 @@ I snapped my laptop shut *([gif](writing/images/memes/penny-i-need-help.gif))* a
 
 - **Update:** I tried to write my "[second love](https://zhangjane.com/writing#a-quiet-second-love)" in a healthier way, one that didn't need bold disclaimers. Can you guess what it is? Because I'm not exactly sure myself. Here is an AI artwork of the [two loves](writing/images/ai/illustration-love-comparisons.png), side by side. And no, I probably won't ever stop romanticizing academic disciplines as humans.
 
-## A Literary, Mathematical, and Moral Analysis
+## The Literary, Mathematical, and Moral Analysis
 
 Here, I describe my narrative and experience using a common literary reference and construct a mathematical model for our colloquial definition of *love*.
 
@@ -34,7 +34,7 @@ The narrative follows the journey of an 18-year-old girl *(yours truly)* who des
 
 *Self-destructive attachment* is a common theme in literature. One example that stood out to me was F. Scott Fitzgerald’s character of Gatsby.
 
-#### A grandiose vision
+#### The grandiose visions
 
 Gatsby’s ambition, attachment to Daisy, and ultimate demise are clearly overdramatized compared to both my experience and portrayal. Getting hit by a bullet and drowning in a swimming pool are far worse than leaving a job or ending a relationship. However, I sensed parallels between myself and the famous character.
 
