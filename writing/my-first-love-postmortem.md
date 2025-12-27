@@ -62,9 +62,9 @@ While I’m sure double standards exist, I realized my initial [frustration](wri
 
 ### Mathematics: Establishing a framework
 
-I tend to lose myself in stories, like most humans do. However, I eventually snap out of *fantasy land* and demand a coherent earthly model to explain everything. Simply having lots of examples *(no matter how poetic)* isn’t enough to validate something *(no matter how often my college self tried to cite [proof-by-example](https://en.wikipedia.org/wiki/Proof_by_example) on the last 5 minutes of my exams, much to the disappointment of my professors and TAs)*. 
+I tend to lose myself in stories, like most humans do. However, I eventually snap out of *fantasy land* and demand a coherent earthly model to explain everything. Simply having lots of examples isn’t enough *(no matter how poetic)*, no matter how often my college self tried to cite [proof-by-example](https://en.wikipedia.org/wiki/Proof_by_example) on the last 5 minutes of my exams, much to the disappointment of my professors and TAs.
 
-Luckily, that’s what **mathematics** provides: the “reasoning from first principles” *that I had desperately begged my love to do inside my allegory*. I tend to model two main things: (i) my individual actions, and (ii) my interactions with others. This naturally drew me to the applied fields of *computer science (self-optimization)* and *game theory (socio-optimization)*. As such, I’ll rely on those two subfields for my definition of **love: a fun little game**. Now this may result in some awkward language-mixing between the fields, and I apologize in advance for any inconvenience caused.
+Luckily, that’s what **mathematics** provides: the “reasoning from first principles” *that I had desperately begged my love to do inside my allegory*. I tend to model two main areas of life: (i) my individual actions, and (ii) my interactions with others. This naturally drew me to the applied fields of *computer science (self-optimization)* and *game theory (socio-optimization)*. As such, I’ll rely on those two subfields for my definition of **love: a fun little game**. Now this may result in some awkward language-mixing between the fields, and I apologize in advance for any inconvenience caused.
 
 #### Frame the game
 
@@ -82,19 +82,19 @@ $$J_i(\pi) = \mathbb{E}\Big[\sum_{t=0}^{\infty} \gamma^t\, r_i(x_t, a_{1,t}, \do
 
 for the discount factor $$\gamma \in (0,1)$$.
 
-Interactions can be **general-sum**: the same event may increase one agent’s payoff while decreasing another’s, and the magnitude/sign of effects need not be symmetric across agents. Note that agents do not observe each other’s full policies or values; they infer them imperfectly from actions/communication.
+Interactions can be **general-sum**: the same event may increase one agent’s payoff while decreasing another’s, and the magnitude/sign of effects need not be symmetric across agents. Agents do not observe each other’s full policies or values; they infer them imperfectly from actions and communication.
 
 #### Define the relationship
 
-At any time, two agents $A$ and $B$ may **mutually consent** to form a relationship. Forming a relationship changes what they optimize: instead of separately maximizing $J_A$​ and $J_B$, they adopt a **joint objective** for decision-making while paired.
+At any time, two agents $A$ and $B$ may **mutually consent** to form a *relationship*. Doing so changes what they optimize: instead of separately maximizing $J_A$​ and $J_B$, they adopt a **joint objective** for decision-making while paired.
 
 One clean way to write this is a weighted joint return:
 
 $$J_{AB}(\pi_{AB}) = \mathbb{E}\Big[\sum_{t=0}^{\infty}\gamma^t\big(\alpha\, r_A(x_t,a_t) + (1-\alpha)\, r_B(x_t,a_t)\big)\Big]$$,
 
-where $a_t$ denotes the joint action vector and $\alpha \in [0,1]$ encodes how the pair balances the two payoffs. While in a relationship, $A$ and $B$ may coordinate via a coupled policy $\pi_{AB}(a_A,a_B\mid x)$ (communication/coordination is part of the “relationship mechanics,” not assumed in the solo case).
+where $a_t$ denotes the joint action vector and $\alpha \in [0,1]$ encodes how the pair balances the two payoffs. While in a relationship, $A$ and $B$ may coordinate via a coupled policy $\pi_{AB}(a_A,a_B\mid x)$. Communication and coordination is part of the “relationship mechanics,” and is not assumed in the solo case.
 
-Relationships are **voluntary and revisable**: at any point, either agent may exit. On exit, they revert to optimizing their individual objectives $J_A$​ and $J_B$​. Agents may also rematch: $A$ may leave $B$ and later form a relationship with $C$, adopting $J_{AC}$​.
+Relationships are **voluntary and revisable**: at any point, either agent may exit, in which they revert to optimizing their individual objectives $J_A$​ and $J_B$​. Agents may also rematch: $A$ may leave $B$ and later form a relationship with $C$, adopting $J_{AC}$​.
 
 #### Establish the preconditions
 
@@ -103,7 +103,7 @@ Here are the assumptions of the game. Unfortunately, they're not consistently me
 1. **Reciprocity (mutual consent):** A relationship exists only if both agents choose it. $(A \sim B)\Leftrightarrow(B \sim A)$.
 2. **Monogamy (pairwise matching):** Each agent is single or matched with exactly one partner at a time.
 3. **No coercion (true agency):** Each agent controls their own actions via $\pi_i(\cdot\mid x)$. No agent can directly set another’s actions.
-4. **Good faith under uncertainty:** Because agents do not have complete information about each other’s internal policies/values, they may only observe actions and communicated intent. A relationship requires (i) honest signaling/communication, and (ii) non-adversarial behavior, meaning neither agent optimizes by deliberately exploiting the other’s uncertainty.
+4. **Good faith under uncertainty:** Because agents do not have complete information about each other’s internal policies or values, they may only observe actions and communicated intent. A relationship requires (i) honest signaling/communication, and (ii) non-adversarial behavior, meaning neither agent optimizes by deliberately exploiting the other’s uncertainty.
 
 Because optimality can’t be proven from inside the game, **commitment is modeled as a voluntary, repeated choice to cooperate under uncertainty**.
 
