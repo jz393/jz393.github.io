@@ -98,7 +98,7 @@ Relationships are **voluntary and revisable**: at any point, either agent may ex
 
 #### Establish the preconditions
 
-Here, I clarify some assumptions of the game. Unfortunately, not all of them are met in real life, so our society ends up being a bit more nuanced *(i.e., there is a lot of noise)*.
+Here are the assumptions of the game. Unfortunately, they're not all met in real life, so society ends up being a bit more nuanced *(there is a lot of noise)*.
 
 1. **Reciprocity (mutual consent):** A relationship exists only if both agents choose it. $(A \sim B)\Leftrightarrow(B \sim A)$.
 2. **Monogamy (pairwise matching):** Each agent is single or matched with exactly one partner at a time.
