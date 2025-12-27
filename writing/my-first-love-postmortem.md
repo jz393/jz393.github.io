@@ -71,11 +71,3 @@ This part is intentionally left blank and will be completed at the author's conv
 ### So, what *should* we do?
 
 This part is intentionally left blank and will be completed at the author's convenience.
-
-
-### *..and just for fun*
-
-*songs for my loves*
-
-***the first:** [Wildest Dreams](https://www.youtube.com/watch?v=IdneKLhsWOQ) - Taylor Swift, [Escapism](https://www.youtube.com/watch?v=Dll6VJ2C7wo) - RAYE*  
-***the second:** [Tomorrow Never Comes](https://music.youtube.com/watch?v=0OhP2YYe6VM) - Vicetone*  
