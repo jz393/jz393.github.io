@@ -105,7 +105,7 @@ Here are the assumptions of the game. Unfortunately, they're not consistently me
 3. **No coercion (true agency):** Each agent controls their own actions via $\pi_i(\cdot\mid x)$. No agent can directly set another’s actions.
 4. **Good faith under uncertainty:** Because agents do not have complete information about each other’s internal policies or values, they may only observe actions and communicated intent. A relationship requires (i) honest signaling/communication, and (ii) non-adversarial behavior, meaning neither agent optimizes by deliberately exploiting the other’s uncertainty.
 
-Because optimality can’t be certified from within the game *(given uncertainty, partial observability, and unobservable counterfactuals)*, commitment is modeled as a voluntary, repeated choice to cooperate anyway. **commitment is modeled as a voluntary, repeated choice to cooperate under uncertainty**.
+Because optimality can’t be certified from within the game *(given uncertainty, partial observability, and unobservable counterfactuals)*, **commitment is modeled as a voluntary, repeated choice to cooperate anyway**.
 
 ### So, what *should* we do?
 
