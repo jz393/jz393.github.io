@@ -32,9 +32,9 @@ Here, I describe my narrative and experience using a common literary reference a
 
 The narrative follows the journey of an 18-year-old girl *(yours truly)* who describes herself as “invincible” and falls for a brilliant, stoic partner *(the field of computing)* who challenges her intellectually and teaches her a new way of living. She quickly attaches herself to her “first love,” and they move across the country to start a new life together. However, the partner gradually changes over time, prioritizing rapid self-growth and success without considering her needs. Nearly a decade after their *first date*, she storms out of their “Mission Street high-rise” in tears, wondering where her life went. Except in reality, I simply walked out of Google’s [tent](writing/images/irl/google-gradient-canopy.jpg) with a blank expression and a few snacks in my hands.
 
-**Self-destructive attachment** is a common theme in literature. One example that stood out to me was F. Scott Fitzgerald’s character of Gatsby.
+*Self-destructive attachment* is a common theme in literature. One example that stood out to me was F. Scott Fitzgerald’s character of Gatsby.
 
-#### A nonideal idealization
+#### A grand vision
 
 Gatsby’s ambition, attachment to Daisy, and ultimate demise are clearly overdramatized compared to both my experience and portrayal. Getting hit by a bullet and drowning in a swimming pool are far worse than leaving a job or ending a relationship. However, I sensed parallels between myself and the famous character.
 
@@ -42,7 +42,7 @@ Growing up in suburban Texas, I made it my entire mission to escape. Cornell Uni
 
 I think the only valid answer is the *fantasy* I built up in my head regarding my career, similar to how Gatsby admired the *idea* of Daisy more than the person herself. He loved what she *meant* to him: upward mobility, elite status, the feeling that he had made it, all while refusing to accept the reality of who she had become—a married woman with a child. Similarly, I enjoyed the concept of being in an elite field that could grant me prosperity and stability over the years, *or so I thought*, before the day-to-day specifics became too debilitating.
 
-This might suggest that our emotions are useless because they often lead to suboptimal outcomes. I want to make it clear that I am not advocating for stoicism. **Attachment is what drives us towards our primary goal: our future success, whether that be represented by a person or a profession.** Especially at such a formative age, it’s important to lean into emotions to guide you forward. There’s only one caveat: knowing when to stop.
+This might suggest that our emotions are useless because they often lead to suboptimal outcomes. I want to make it clear that I am not advocating for *stoicism*. **Attachment is what drives us towards our primary goal: our future success, whether that be represented by a person or a profession.** Especially at such a formative age, it’s important to lean into emotions to guide you forward. There’s only one caveat: knowing when to stop.
 
 #### The fall from grace
 
@@ -60,7 +60,7 @@ Though a century separated us, Fitzgerald’s background and young-adult experie
 
 Given our similarities, I wondered how Fitzgerald could write about such degeneracy *(and arguably, immorality)* in graphic detail and be internationally regarded as a *literary genius*. Meanwhile, I could only worry about the implications of potentially representing myself as a *Jezebel* online with my parallel *and surely milder* attempt. Has feminism failed us again? Did I not have the same freedom to channel my disillusionment?
 
-While I’m sure double standards exist, I realized my initial [frustration](writing/images/memes/he-did-it-too.jpg) was a bit reductive. Fitzgerald and I may have had analogous experiences, but we are completely different people. He is literary, while I am precise. Even though our pieces have similar **intentions**, it all comes down to the **delivery**. *The Great Gatsby* is quite complex, spanning a full novel with many characters and subplots, and is presented in third-person. *Can you imagine if it were simply a one-page letter addressed to Daisy?* Neither of us went through the exact experiences ourselves, meaning both our pieces are generative. However, he diverged from the training data a lot more than I did. Devastating breakups are quite common in society and the media, while Gatsby’s adventures are...*not*...unless Fitzgerald actually witnessed some Epstein-level stuff. In simpler terms, **Fitzgerald is more creative than Jane**.
+While I’m sure double standards exist, I realized my initial [frustration](writing/images/memes/he-did-it-too.jpg) was a bit reductive. Fitzgerald and I may have had analogous experiences, but we are completely different people. He is literary, while I am precise. Even though we had similar *intentions*, it all comes down to the *delivery*. *The Great Gatsby* is quite complex, spanning a full novel with many characters and subplots, and is presented in third-person. *Can you imagine if it were simply a one-page letter addressed to Daisy?* Neither of us went through the exact experiences ourselves, meaning both our pieces are generative. However, he diverged from the training data a lot more than I did. Devastating breakups are quite common in society and the media, while Gatsby’s adventures are...*not*...unless Fitzgerald actually witnessed some Epstein-level stuff. In simpler terms, **Fitzgerald is more creative than Jane**.
 
 That said, I still like my dramatic breakup letter. I did end up adding a disclaimer on top of the allegory, though. And by the way, the [gray hoodie](writing/images/irl/gray-hoodie-deepmind.jpg) was real.
 
