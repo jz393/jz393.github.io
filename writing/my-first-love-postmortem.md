@@ -68,19 +68,19 @@ Luckily, that’s what **mathematics** provides: the “reasoning from first pri
 
 #### Frame the game
 
-I model life as a **stochastic multi-agent decision process**. There is an environment with a state $x_t \in X$ at time $t$. A set of agents $i \in {1,\dots ,n}$ each choose an action $a_{i,t} \in A_i$​ according to a policy $\pi_i(a_i | x_t)$. The environment evolves according to a transition rule,
+I model life as a **stochastic multi-agent decision process**. There is an environment with a state $x_t \in X$ at time $t$. A set of agents $i \in {1,\dots ,n}$ each choose an action $a_{i,t} \in A_i$​ according to a policy $\pi_i(a_i | x_t)$. The environment evolves according to a transition rule
 
-$$x_{t+1} \sim P( \cdot ∣ x_t,a_{1,t},\dots,a_{n,t})$$
+$$x_{t+1} \sim P( \cdot ∣ x_t,a_{1,t},\dots,a_{n,t})$$.
 
-Each agent receives a stage payoff or reward,
+Each agent receives a stage payoff or reward
 
-$$r_i(x_t,a_{1,t},\dots,a_{n,t})$$
+$$r_i(x_t,a_{1,t},\dots,a_{n,t})$$,
 
-and seeks to maximize expected cumulative payoff (return),
+and seeks to maximize expected cumulative payoff (return), e.g.
 
-$$J_i(\pi) = \mathbb{E}\Big[\sum_{t=0}^{\infty} \gamma^t\, r_i(x_t, a_{1,t}, \dots, a_{n,t})\Big]$$
+$$J_i(\pi) = \mathbb{E}\Big[\sum_{t=0}^{\infty} \gamma^t\, r_i(x_t, a_{1,t}, \dots, a_{n,t})\Big]$$,
 
-for the discount factor $$\gamma \in (0,1)$$
+for the discount factor $$\gamma \in (0,1)$$.
 
 Interactions can be **general-sum**: the same event may increase one agent’s payoff while decreasing another’s, and the magnitude/sign of effects need not be symmetric across agents. Note that agents do not observe each other’s full policies or values; they infer them imperfectly from actions/communication.
 
@@ -90,7 +90,7 @@ At any time, two agents $A$ and $B$ may **mutually consent** to form a relations
 
 One clean way to write this is a weighted joint return:
 
-$$J_{AB}(\pi_{AB}) = \mathbb{E}\Big[\sum_{t=0}^{\infty}\gamma^t\big(\alpha\, r_A(x_t,a_t) + (1-\alpha)\, r_B(x_t,a_t)\big)\Big]$$
+$$J_{AB}(\pi_{AB}) = \mathbb{E}\Big[\sum_{t=0}^{\infty}\gamma^t\big(\alpha\, r_A(x_t,a_t) + (1-\alpha)\, r_B(x_t,a_t)\big)\Big]$$,
 
 where $a_t$ denotes the joint action vector and $\alpha \in [0,1]$ encodes how the pair balances the two payoffs. While in a relationship, $A$ and $B$ may coordinate via a coupled policy $\pi_{AB}(a_A,a_B\mid x)$ (communication/coordination is part of the “relationship mechanics,” not assumed in the solo case).
 
