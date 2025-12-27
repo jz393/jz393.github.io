@@ -68,7 +68,7 @@ That said, I still like my dramatic breakup letter. I did add a disclaimer on to
 
 This part is intentionally left blank and will be completed at the author's convenience.
 
-### So, what is love?
+### So, what should we do?
 
 This part is intentionally left blank and will be completed at the author's convenience.
 
