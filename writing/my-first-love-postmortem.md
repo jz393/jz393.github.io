@@ -62,7 +62,7 @@ Given our similarities, I wondered how Fitzgerald could write about such degener
 
 While I’m sure double standards exist, I realized my initial [frustration](writing/images/memes/he-did-it-too.jpg) was a bit reductive. Fitzgerald and I may have had analogous experiences, but we are completely different people. He is literary, while I am precise. Even though our pieces have similar **intentions**, it all comes down to the **delivery**. *The Great Gatsby* is quite complex, spanning a full novel with many characters and subplots, and is presented in third-person. *Can you imagine if it were simply a one-page letter addressed to Daisy?* Neither of us went through the exact experiences ourselves, meaning both our pieces are generative. However, he diverged from the training data a lot more than I did. Devastating breakups are quite common in society and the media, while Gatsby’s adventures are...*not*...unless Fitzgerald actually witnessed some Epstein-level stuff. In simpler terms, **Fitzgerald is more creative than Jane**.
 
-That said, I still like my dramatic breakup letter. I did add a disclaimer on top of the allegory, though. And by the way, the [gray hoodie](writing/images/irl/gray-hoodie-deepmind.jpg) was real.
+That said, I still like my dramatic breakup letter. I did end up adding a disclaimer on top of the allegory, though. And by the way, the [gray hoodie](writing/images/irl/gray-hoodie-deepmind.jpg) was real.
 
 ### Mathematics: Establishing a framework
 
