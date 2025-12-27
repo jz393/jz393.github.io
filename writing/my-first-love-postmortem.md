@@ -26,6 +26,8 @@ I snapped my laptop shut *([gif](writing/images/memes/penny-i-need-help.gif))* a
 
 ## A Literary, Mathematical, and Moral Analysis
 
+Here, I describe my narrative and experience using a common literary reference and construct a mathematical model for our colloquial definition of *love*.
+
 ### Literature: Drawing parallels
 
 The narrative follows the journey of an 18-year-old girl *(yours truly)* who describes herself as “invincible” and falls for a brilliant, stoic partner *(the field of computing)* who challenges her intellectually and teaches her a new way of living. She quickly attaches herself to her “first love,” and they move across the country to start a new life together. However, the partner gradually changes over time, prioritizing rapid self-growth and success without considering her needs, and she eventually storms out of a “Mission Street high-rise” in tears, wondering where her life went. Except in reality, I simply walked out of Google’s Gradient Canopy [tent](writing/images/irl/google-gradient-canopy.jpg) with a blank expression and a few snacks in my hands.
