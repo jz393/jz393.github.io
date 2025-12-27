@@ -64,7 +64,7 @@ While I’m sure double standards exist, I realized my initial [frustration](wri
 
 I tend to lose myself in stories, like most humans do. However, I eventually snap out of *fantasy land* and demand a coherent earthly model to explain everything. Simply having lots of examples *(no matter how poetic)* isn’t enough to validate something *(no matter how often my college self tried to cite [proof-by-example](https://en.wikipedia.org/wiki/Proof_by_example) on the last 5 minutes of my exams, much to the disappointment of my professors and TAs)*. 
 
-Luckily, that’s what **mathematics** provides: the “reasoning from first principles” *that I had desperately begged my love to do inside my allegory*. I tend to model two main things: (i) my individual actions, and (ii) my interactions with others. This naturally drew me to the applied fields of *computer science* (self-optimization) and *game theory* (socio-optimization). As such, I’ll rely on those two subfields for my definition of **love: a fun little game**. Now this may result in some awkward language-mixing between the fields, and I apologize in advance for any inconvenience caused.
+Luckily, that’s what **mathematics** provides: the “reasoning from first principles” *that I had desperately begged my love to do inside my allegory*. I tend to model two main things: (i) my individual actions, and (ii) my interactions with others. This naturally drew me to the applied fields of *computer science (self-optimization)* and *game theory (socio-optimization)*. As such, I’ll rely on those two subfields for my definition of **love: a fun little game**. Now this may result in some awkward language-mixing between the fields, and I apologize in advance for any inconvenience caused.
 
 #### Frame the game
 
