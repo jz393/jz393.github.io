@@ -8,7 +8,7 @@
 
 Initially, the piece itself was sufficient to me. I think authors generally want their work to function as standalone items, without requiring a complete understanding of the external context. Interpreters can self-insert or categorically reason as needed.
 
-I want to highlight that I’m not used to writing dramatic pieces. Throughout my career, I have focused on technical/academic writing, emphasizing clarity over artistry and prioritizing precision over style. In the industry, my technique was solidified through many design docs and proposals.
+I want to highlight that I’m not used to writing dramatic pieces. Throughout my career, I have focused on technical/academic writing, prioritizing clarity over artistry and precision over style. In the industry, my technique was solidified through many design docs and proposals.
 
 Still, I sought to portray my profession as an allegorical narrative. My abrupt departure left me with a kind of distress I had never felt before, and I felt obligated to turn it into art. If I could do that and present a clear, transformative arc, it would prove that I was ready to officially move on, symbolizing the postmortems I wrote after intense production fires. I had already written *[Sailing the Grand Pacific](https://zhangjane.com/writing#sailing-the-grand-pacific)*, describing the experiences of a lone sailor who is physically and spiritually shattered by a sudden storm, forced to take refuge on an uncharted island.
 
