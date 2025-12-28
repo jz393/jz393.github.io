@@ -1,6 +1,11 @@
 {
     "posts": [
         {
+            "title": "Schrödinger's IQ",
+            "date": "2025-12-28",
+            "file": "schrodingers-iq.md"
+        },
+        {
             "title": "A Quiet Second Love",
             "date": "2025-12-23",
             "file": "a-quiet-second-love.md"
