@@ -80,7 +80,9 @@ and seeks to maximize expected cumulative payoff (return), e.g.
 
 $$J_i(\pi) = \mathbb{E}\Big[\sum_{t=0}^{\infty} \gamma^t\, r_i(x_t, a_{1,t}, \dots, a_{n,t})\Big],$$
 
-for the discount factor $$\gamma \in (0,1)$$.
+for the discount factor 
+
+$$\gamma \in (0,1).$$
 
 Interactions can be **general-sum**: the same event may increase one agent’s payoff while decreasing another’s, and the magnitude/sign of effects need not be symmetric across agents. Agents do not observe each other’s full policies or values; they infer them imperfectly from actions and communication.
 
