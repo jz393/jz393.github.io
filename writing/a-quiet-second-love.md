@@ -46,7 +46,7 @@ in cycles of stories and sketches
 
 so, let us be Romeo and Juliet   
 let us put off the ending  
-i can take anything  
+i will take anything  
 
 as long as  
 i have  
