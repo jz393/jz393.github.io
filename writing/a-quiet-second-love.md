@@ -44,9 +44,9 @@ i know love does not guarantee
 but with you, the present is frozen  
 in cycles of stories and sketches  
 
-we can be Romeo and Juliet forever   
-we can put off the ending  
-i will take anything  
+let us be Romeo and Juliet forever   
+let us put off the ending  
+i can take anything  
 
 as long as  
 i have  
