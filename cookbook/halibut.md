@@ -33,4 +33,4 @@
 
 ### photos
 <img src="cookbook/photos/halibut.jpeg" alt="halibut" height="200">
-<!-- TODO: include veggies-->
+<img src="cookbook/photos/asparagus-mushroom.jpeg" alt="asparagus mushroom" height="200">

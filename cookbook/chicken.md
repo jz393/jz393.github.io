@@ -3,9 +3,9 @@
 - lemon
 - garlic powder
 - black pepper
-- paprika
 - salt
 - soy sauce
+- bbq sauce *(optional, no sugar preferred)*
 
 ### steps
 1. preheat oven to 400 degrees
@@ -14,10 +14,10 @@
     - salt, ~1/2 tsp
     - soy sauce, ~4 tbsp
     - juice from 1/2 a lemon
-3. lay marinated chicken thighs on baking pan and sprinkle the following on top:
+3. lay marinated chicken thighs on baking pan and add the following on top:
 
+    - bbq sauce (glaze a thin layer on top if desired)
     - garlic powder, as needed
-    - paprika, as needed
     - black pepper, as needed
 3. bake for 20 minutes or until internal temperature reaches 145
 
