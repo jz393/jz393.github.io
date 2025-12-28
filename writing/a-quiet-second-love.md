@@ -45,7 +45,7 @@ but with you, the present is frozen
 in cycles of stories and sketches  
 
 so, let us be Romeo and Juliet   
-let us put off the ending  
+let us hold off the ending  
 i will take anything  
 
 as long as  
