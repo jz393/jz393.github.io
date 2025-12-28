@@ -1,4 +1,4 @@
-I have a weird (but hopefully healthy) relationship with IQ. I want to know, but also not know. More specifically, I have a range in mind, but *cannot* and *will not* pinpoint the exact number.
+I have a weird *but hopefully healthy* relationship with IQ. I want to know, but also not know. More specifically, I have a range in mind, but cannot and *will not* pinpoint the exact number.
 
 My range is approximately ~1 SD. The lower bound serves to control my imposter syndrome *(which women are statistically more likely to be affected by)*, making sure I don’t close doors prematurely. Basically, I want to make sure facts can override my feelings *(cue [Ben Shapiro](writing/images/memes/ben-shapiro-meme.gif), but in a way that supports women instead of undermines them)*. Meanwhile, the upper bound serves as a reality check to prevent my brain from spiraling. I don’t want to get stuck working on a problem that I will likely never be able to solve.
 
