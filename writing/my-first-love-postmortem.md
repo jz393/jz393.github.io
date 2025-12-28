@@ -109,4 +109,8 @@ Because optimality can’t be certified from within the game *(given uncertainty
 
 ### So, what *should* we do?
 
-This part is intentionally left blank and will be completed at the author's convenience.
+I don’t know, and I don’t claim to know. As a human, all I could do was make a single literary and mathematical interpretation.
+
+My husband and I are not particularly religious, but we referenced the Bible in our wedding vows. It asserts *“love is patient, love is kind...love never fails”*. I realized this corresponds to my interpretations above. Love persists not because the environment fails to change, but because two agents *actively choose each other* despite it all.
+
+*Religion* is broadly defined by the belief in *God*, or a higher power. Even when such claims can’t be conclusively verified, *faith* is what carries people through difficult times. In the same sense, **we haven’t proven “love” is optimal**—at least, we usually can’t identify, from within the system, whether an individual objective or a joint objective yields higher long-run return in a changing, partially observed environment. Gatsby’s unrelenting devotion to Daisy ultimately didn’t provide him with a good outcome. However, despite knowing this, many of us choose to **pursue it anyway**. And in return, in addition to the formation of new souls, we get riveting tales, technological breakthroughs, and art relics that collectively define the impact of humanity.
