@@ -40,13 +40,13 @@ i laughed for the first time
 you rebuilt without erasing  
 
 no longer eighteen and naive  
-i know love does not last  
+i know love does not guarantee  
 but with you, the present is frozen  
 in cycles of stories and sketches  
 
-we can be Romeo and Juliet   
-into midlife and beyond  
-i will take anything  
+we can rewrite Romeo and Juliet   
+we can avert the ending  
+anything is possible  
 
 as long as  
 i have  
