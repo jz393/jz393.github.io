@@ -22,7 +22,7 @@ Then, I asked the AI to provide a mirrored response from the lost love, just to 
 
 I snapped my laptop shut *([gif](writing/images/memes/penny-i-need-help.gif))* and glanced at my husband, who was lying on the couch and scrolling through Twitter. He was real, our [love](writing/images/irl/our-wedding.jpg) was real, but surely I did not idealize him this much. Unsettled, I went to bed, unclear on what the past decade meant. After many nights of tossing and turning, I experienced the iconic *[proof-by-dream](writing/images/memes/proof-by-dream.png)*. My subconscious presented an Inception-like sequence of literary examples, and when I woke up, I quickly arrived at a mathematical conclusion. But I now know that **good explanations require both technical precision and masterful artistry**. I will attempt to provide one gradually and gracefully, from an interdisciplinary standpoint.
 
-- **Update:** I tried to write my *"[second love](https://zhangjane.com/writing#a-quiet-second-love)"* in a healthier way, one that didn't need bold disclaimers. Can you guess what it is? Because I'm not exactly sure myself. Here is an AI artwork of the [two loves](writing/images/ai/illustration-love-comparisons.png), side by side. And no, I probably won't ever stop romanticizing academic disciplines as humans.
+- **Update:** I tried to write my "[second love](https://zhangjane.com/writing#a-quiet-second-love)" in a healthier way, one that didn't need bold disclaimers. Can you guess what it is? Because I'm not exactly sure myself. Here is an AI artwork of the [two loves](writing/images/ai/illustration-love-comparisons.png), side by side. And no, I probably won't ever stop romanticizing academic disciplines as humans.
 
 ## A Literary, Mathematical, and Moral Analysis
 
