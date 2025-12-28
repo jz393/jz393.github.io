@@ -1,6 +1,6 @@
 <span style="color:var(--muted);font-size:0.8em;">
   <cite>
-  The author analyzes her own piece, <a href="https://zhangjane.com/writing#my-first-love-allegory">My First Love: An Allegory</a>, and provides both a literary and mathematical interpretation of love, distinguishing when it fails and when it succeeds.
+  The author analyzes her own piece, <a href="https://zhangjane.com/writing#my-first-love-allegory">My First Love: An Allegory</a>, and provides both a literary and mathematical interpretation of love before drawing a moral conclusion.
   </cite>
 </span>
 
