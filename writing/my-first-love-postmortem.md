@@ -76,11 +76,11 @@ Each agent receives a stage payoff or reward
 
 $$r_i(x_t,a_{1,t},\dots,a_{n,t}),$$
 
-and seeks to maximize **expected cumulative payoff** (return), e.g.
+and seeks to maximize their **expected cumulative payoff** (return), e.g.
 
 $$J_i(\pi) = \mathbb{E}\Big[\sum_{t=0}^{\infty} \gamma^t r_i(x_t, a_{1,t}, \dots, a_{n,t})\Big],$$
 
-for the discount factor 
+for the temporal discount factor 
 
 $$\gamma \in (0,1).$$
 
@@ -90,7 +90,7 @@ Interactions can be **general-sum**: the same event may increase one agent’s p
 
 At any time, two agents $A$ and $B$ may **mutually consent** to form a *relationship*. Doing so changes what they optimize: instead of separately maximizing $J_A$​ and $J_B$, they adopt a **joint objective** for decision-making while paired.
 
-One clean way to write this is a weighted joint return:
+We may define a weighted joint return:
 
 $$J_{AB}(\pi_{AB}) = \mathbb{E}\Big[\sum_{t=0}^{\infty}\gamma^t\big(\alpha r_A(x_t,a_t) + (1-\alpha) r_B(x_t,a_t)\big)\Big],$$
 
