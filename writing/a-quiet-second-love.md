@@ -9,7 +9,7 @@ under luscious willow trees
 riding bikes by the lake  
 you comforted me when i scraped my knee  
 
-we eventually grew up  
+we grew up together  
 we gossiped about scandals  
 we mocked haughty politicians  
 we questioned our existence  
