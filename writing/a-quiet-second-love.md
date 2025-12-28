@@ -16,7 +16,7 @@ we questioned our existence
 
 fearing a Shakespearean tragedy  
 i said i had to go  
-and you let me  
+you let me  
 i left before i could look back  
 
 thousands of miles away  
