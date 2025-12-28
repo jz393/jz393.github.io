@@ -24,7 +24,7 @@ I snapped my laptop shut *([gif](writing/images/memes/penny-i-need-help.gif))* a
 
 - **Update:** I tried to write my "[second love](https://zhangjane.com/writing#a-quiet-second-love)" in a healthier way, one that didn't need bold disclaimers. Can you guess what it is? Because I'm not exactly sure myself. Here is an AI artwork of the [two loves](writing/images/ai/illustration-love-comparisons.png), side by side. And no, I probably won't ever stop romanticizing academic disciplines as humans.
 
-## The Literary, Mathematical, and Moral Analysis
+## A Literary, Mathematical, and Moral Analysis
 
 Here, I describe my narrative and experience using a common literary reference and construct a mathematical model for our colloquial definition of *love*.
 
