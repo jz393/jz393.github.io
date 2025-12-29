@@ -60,13 +60,13 @@ Given our similarities, I wondered how Fitzgerald could write about such degener
 
 While I’m sure double standards exist, I realized my initial [frustration](writing/images/memes/he-did-it-too.jpg) was a bit reductive. Fitzgerald and I may have had analogous experiences, but we are completely different people. He is literary, while I am precise. Even though we had similar *intentions*, it all comes down to the *delivery*. *The Great Gatsby* is quite complex, spanning a full novel with many characters and subplots, and is presented in third-person. *Can you imagine if it were simply a one-page letter addressed to Daisy?* Neither of us went through the exact experiences ourselves, meaning both our pieces are generative. However, he diverged from the training data a lot more than I did. Devastating breakups are quite common in society and the media, while Gatsby’s adventures are...*not*...unless Fitzgerald actually witnessed some Epstein-level stuff. In simpler terms, **Fitzgerald is more creative than Jane**. That said, I still like my dramatic breakup letter. I did end up adding a disclaimer on top of the allegory, though. By the way, the [gray hoodie](writing/images/irl/gray-hoodie-deepmind.jpg) was real.
 
-### Mathematics: Establishing a framework
+### Mathematics: Establishing the framework
 
 I tend to lose myself in stories, like most humans do. However, I eventually snap out of *fantasy land* and demand a coherent earthly model to explain everything. Simply having lots of examples isn’t enough, no matter how poetic or how often my younger self tried to cite [proof-by-example](https://en.wikipedia.org/wiki/Proof_by_example) on the last 5 minutes of my exams, much to the disappointment of my professors and TAs.
 
 Luckily, that’s what **mathematics** provides: the “reasoning from first principles” *that I had desperately begged my love to do inside my allegory*. I tend to model two main areas of life: (i) my individual actions, and (ii) my interactions with others. This naturally drew me to the applied fields of *computer science (self-optimization)* and *game theory (socio-optimization)* in college. As such, I’ll rely on those two subfields for my definition of **love: a fun little game**. Now this may result in some awkward language-mixing between the fields, and I apologize in advance for any inconvenience caused.
 
-#### Frame the game
+#### Frame a game
 
 I model life as a **stochastic multi-agent decision process**. There is an environment with a state $x_t \in X$ at time $t$. A set of agents $i \in {1,\dots ,n}$ each choose an action $a_{i,t} \in A_i$​ according to a policy $\pi_i(a_i | x_t)$. The environment evolves according to a transition rule
 
@@ -98,7 +98,7 @@ where $a_t$ denotes the joint action vector and $\alpha \in [0,1]$ encodes how t
 
 Relationships are **voluntary and revisable**: at any point, either agent may exit, in which they revert to optimizing their individual objectives $J_A$​ and $J_B$​. Agents may also rematch: $A$ may leave $B$ and later form a relationship with $C$, adopting $J_{AC}$​.
 
-#### Establish the preconditions
+#### Establish some conditions
 
 Here are the assumptions of the game. Unfortunately, they're not consistently met in real life, so our society ends up being a bit more nuanced.
 
