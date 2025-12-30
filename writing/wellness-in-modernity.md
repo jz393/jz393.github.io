@@ -17,7 +17,7 @@ One evening, on a getaway to Napa, I closed my eyes just for the fun of it. I’
 In the months that followed, I left my job and found intentional ways to enjoy life. My sleep gradually recovered, and I weaned myself off the pills. I wouldn’t say it’s perfect, but it’s comparable to what it was before the whole fiasco. My wearables (described below) also lifted the mental load of sleep tracking. I don’t put too much pressure to hit a perfect number each night; I now trust my body to get the rest it needs (usually 6-8 hours) after each day's varied demands. As long as I have the energy to do what needs to be done, I don’t harp on it. And even if I don’t, I’ll just take a nap. It’s not like we had polysomnography or even clocks as hunters and gatherers. We simply rested whenever we needed to. 
 
 ### Nutrition
-My first health panel flagged slight issues with my glucose and cholesterol management. My A1C was 5.7, bordering on prediabetes. Now this wasn’t too surprising; I figured my weekly pastry haul, boba adventures, and sweets at work wouldn’t be sustainable forever. I just assumed I had a couple more years left.
+My first health panel flagged slight issues with my glucose and cholesterol management. My A1C was 5.7, bordering on prediabetes. Now this wasn’t too surprising; I figured my weekly pastry haul and boba adventures wouldn’t be sustainable forever. I just assumed I had a couple more years left.
 
 The first thing I did was cut out carbs entirely. Upon getting my labs back, I (sadly) cleared my snack cabinet and freezer. I replaced my breakfast pastries with scrambled eggs. I swapped my jasmine rice for basmati and ate only a quarter of what I used to. Consequently, my dopamine levels nosedived, and I felt empty.
 
