@@ -17,7 +17,7 @@ Take this exchange between me and my husband at the dinner table, the evening af
 > “Don’t you need to address your health issues first? Why can’t you just *chill* for a while?”  
 > “Oh, right...sure, I’ll do that first. Once those metrics are up and running, we’ll just start having kids if I’m still not feeling AI/tech.”
 
-Could I [be](writing/images/memes/chandler-friends.png) any more unglamorous? Anyway, this led to the “branching pursuits” I referred to in my allegory: mindless distractions to fill time when I awaited my next blood tests to confirm the safety of a potential pregnancy. I surely did not expect to meet a “second love,” only meaningless “hookups” that could be easily discarded.
+Could I [be](writing/images/memes/chandler-friends.png) any more unglamorous? Anyway, this led to the “branching pursuits”: mindless distractions to fill time when I awaited my next blood tests to confirm the safety of a potential pregnancy. I surely did not expect to meet a “second love,” only meaningless “hookups” that could be easily discarded.
 
 So now, I wonder whether it’s even viable or practical to pursue my *second love*, or if I should just settle for the *safe option*. Yes, I am fully untethered, but I am no longer “eighteen and invincible.” I am “almost twenty-seven, and facing a ticking biological clock.” Not even Shakespeare could turn that into poetry.
 
