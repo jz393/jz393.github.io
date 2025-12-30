@@ -14,7 +14,7 @@ I’m aware this is disgraceful; I’m admittedly ashamed for even having expres
 
 Take this exchange between me and my husband at the dinner table, the evening after I walked out of my job:
 > “F--- this, I’m not going back anytime soon. Let’s just have kids now.”  
-> “Don’t you need to address your health issues first? Why can’t you just *chill* for a while?”  
+> “Don’t you need to address your health issues first? Why don't you just *chill* for a while?”  
 > “Oh, right...sure, I’ll do that first. Once those metrics are up and running, we’ll just start having kids if I’m still not feeling AI/tech.”
 
 Could I [be](writing/images/memes/chandler-friends.png) any more unglamorous? Anyway, this led to the “branching pursuits”: mindless distractions to fill time when I awaited my next blood tests to confirm the safety of a potential pregnancy. I surely did not expect to meet a “second love,” only meaningless “hookups” that could be easily discarded.
