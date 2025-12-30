@@ -13,8 +13,10 @@ Going back to my occupation-as-lovers analogy, my [first love](https://zhangjane
 I’m aware this is disgraceful; I’m admittedly ashamed for even having expressed that thought. On a surface level, I know that motherhood is one of the most important jobs in the world. There is hardly anything more noble than creating and shaping the next generation. Even Taylor Swift, one of the most successful women in the world, has expressed such a [sentiment](https://www.youtube.com/watch?v=wqgUzLHgNMI). But in a world where I was taught to chase dreams and romanticize the pursuit of knowledge, I can’t help but think of motherhood as the thing I invariably turn to when I’m done *having fun*.​
 
 Take this exchange between me and my husband at the dinner table, the evening after I walked out of my job:
-> “F--- this, I’m not going back anytime soon. Let’s just have kids now.”  
-> “Don’t you need to address your health issues first? Why don't you just *chill* for a while?”  
+> “F--- this, I’m not going back anytime soon. Let’s just have kids now.”
+
+> “Don’t you need to address your health issues first? Why don't you just *chill* for a while?”
+
 > “Oh, right...sure, I’ll do that first. Once those metrics are up and running, we’ll just start having kids if I’m still not feeling AI/tech.”
 
 Could I [be](writing/images/memes/chandler-friends.png) any more unglamorous? Anyway, this led to the “branching pursuits”: mindless distractions to fill time while I awaited my next blood tests to confirm the safety of a potential pregnancy. I surely did not expect to meet a “second love,” only meaningless “hookups” that could be easily discarded.
