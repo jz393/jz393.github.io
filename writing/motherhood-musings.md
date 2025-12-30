@@ -19,7 +19,7 @@ Take this exchange between me and my husband at the dinner table, the evening af
 
 Could I [be](writing/images/memes/chandler-friends.png) any more unglamorous? Anyway, this led to the “branching pursuits” I referred to in my allegory: mindless distractions to fill time when I awaited my next blood tests to confirm the safety of a potential pregnancy. I surely did not expect to meet a “second love,” only meaningless “hookups” that could be easily discarded.
 
-So now, I wonder whether it’s even viable or practical to pursue my *second love* (no matter how *quietly accommodating* I described it), or if I should just settle for the *safe option*. Yes, I am fully untethered, but I am no longer “eighteen and invincible.” I am “almost twenty-seven, and facing a ticking biological clock.” Not even Shakespeare could turn that into poetry.
+So now, I wonder whether it’s even viable or practical to pursue my *second love*, or if I should just settle for the *safe option*. Yes, I am fully untethered, but I am no longer “eighteen and invincible.” I am “almost twenty-seven, and facing a ticking biological clock.” Not even Shakespeare could turn that into poetry.
 
 I know I should be grateful to even have a choice these days, and a husband who allows me to exert the choice, *due to feminism and blah blah*. But it feels more like an illusion of choice than an actual choice. And even if it were a genuine one, it still pains me to consciously pick between the two, even if it is *ethical* to grant me the right to do so.
 
