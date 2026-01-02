@@ -1,6 +1,11 @@
 {
     "posts": [
         {
+            "title": "Theory of Mind Recursion",
+            "date": "2026-01-03",
+            "file": "theory-of-mind-recursion.md"
+        },
+        {
             "title": "Motherhood Musings",
             "date": "2025-12-30",
             "file": "motherhood-musings.md"
