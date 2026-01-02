@@ -1,6 +1,6 @@
 Theory of mind (ToM) is broadly defined as the ability to understand the mental states of others, knowing that it may or may not be different from your own. In humans, it develops early in life and is crucial to our social success (and therefore, our survival). Now this seems like an intuitive concept—clearly, we know that others have thoughts and feelings. However, things get *interesting* when ToM becomes *recursive*.
 
-The infinite “I know you know I know” concept is humorously modeled by this [clip](https://www.youtube.com/watch?v=LUN2YN0bOi8) from *Friends*. More precisely, I’ll try to define a few concrete “levels” of ToM below:
+The infinite “I know you know" concept is humorously modeled by [Friends](https://www.youtube.com/watch?v=LUN2YN0bOi8). More precisely, I’ll try to define a few concrete “levels” of ToM below:
 
 > **Level 0:** *“I act, and the world reacts.”*  
 > In the base case, no theory of mind is present. In humans, this is typically seen only in infants and in cases of severe pathology.  
