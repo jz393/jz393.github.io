@@ -18,7 +18,7 @@ Then, I moved to SF (well, the broader Bay Area), an environment defined by foun
 
 Eventually, I left my job and had some time to think about what I really wanted out of life. The founders are right: maybe I don’t have what it takes to build a successful B2B-SaaS LLM wrapper from the ground up and raise a $100M seed round. But maybe it’s not what I want either, and I am okay with that.
 
-While startup culture typically defines agency as relentless ambition and social dominance, I think we can expand that definition to the “general ability to influence life outcomes to the point of one’s own satisfaction.” Using my definition, I don’t need to be *inauthentic* to exert agency in my own life. I just need to be able to understand and distinguish between my wants, needs, and limitations.
+While startup culture typically defines agency as reckless ambition and social dominance, I think we can expand that definition to the “general ability to influence life outcomes to the point of one’s own satisfaction.” Using my definition, I don’t need to be *inauthentic* to exert agency in my own life. I just need to be able to understand and distinguish between my wants, needs, and limitations.
 
 I believe I’m genuinely happy right now. Of course, I don’t expect this feeling or state to last forever. But if things do change, I have faith in myself, *given my 26 years of knowledge and experience*, to steer my life to a better state—one characterized by more *internal* contentment and fulfillment.
 
