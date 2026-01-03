@@ -1,6 +1,11 @@
 {
     "posts": [
         {
+            "title": "Predestination: Cruel Torture or Solace?",
+            "date": "2026-01-04",
+            "file": "predestination.md"
+        },
+        {
             "title": "Theory of Mind Recursion",
             "date": "2026-01-03",
             "file": "theory-of-mind-recursion.md"
