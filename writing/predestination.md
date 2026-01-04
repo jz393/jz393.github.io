@@ -2,7 +2,7 @@ My middle school English class first introduced me to the concept of predestinat
 
 Obviously, my optimistic 13-year-old self preferred the idea of free will. I wanted to write my own destiny. I wanted to believe that if I worked hard enough, I could do anything I set my mind to.​
 
-However, I couldn’t come up with a legitimate counterproof for predestination. What if we are inherently limited by our genes, and all our “hard work,” *if it even succeeds in the first place*, is just merely a result of what would’ve happened anyway?
+However, I couldn’t come up with a legitimate counterproof for predeterminism. What if we are inherently limited by our genes, and all our “hard work,” *if it even succeeds in the first place*, is just merely a result of what would’ve happened anyway?
 
 When I got home that day, I experienced the feeling of *depression* for the first time. This was different from normal *sadness*, which, as I had learned, was just a temporary emotion that would pass with the situation. This was an overwhelming sensation of hopelessness, knowing I didn’t have the power to change it. I could only learn to live with it.
 
